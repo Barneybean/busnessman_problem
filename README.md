@@ -3,6 +3,7 @@ Fly through all 50 U.S. state capitals without revisiting and back to origin wit
 
 Calculated Geo Distance between any two state capitals. Working on next step
 
-Min Distance: 30424
+Min Distance: 22912.72 Miles 
 
-['Sacramento', 'Holonunu', 'Phoenix', 'Santa Fe', 'Salt Lake City', 'Helena', 'Bismarck', 'Des Monies', 'Topeka', 'Oklahoma City', 'Little Rock', 'Jefferson City', 'Springfield', 'Madison', 'Columbus', 'Frankfort', 'Charleston', 'Richmond', 'Annapolis', 'Trenton', 'Providence', 'Boston', 'Hartford', 'Albany', 'Montpelier', 'Harrisburg', 'Dover', 'Concord', 'Lansing', 'Nashville', 'Atlanta', 'Montgomery', 'Tallahassee', 'Columbia', 'Raleigh', 'Jackson', 'Austin', 'Indianapolis', 'St. Paul', 'Lincoln', 'Pierre', 'Boise', 'Salem', 'Juneau', 'Olympia', 'Carson City', 'Denver', 'Baton Rouge', 'Cheyenne', 'Augusta', 'Sacramento']
+Route:
+['Sacramento', 'Boise', 'Salt Lake City', 'Cheyenne', 'Denver', 'Santa Fe', 'Phoenix', 'Carson City', 'Salem', 'Olympia', 'Helena', 'Bismarck', 'St. Paul', 'Des Monies', 'Lincoln', 'Jefferson City', 'Topeka', 'Oklahoma City', 'Little Rock', 'Baton Rouge', 'Montgomery', 'Atlanta', 'Columbia', 'Charleston', 'Frankfort', 'Columbus', 'Indianapolis', 'Springfield', 'Madison', 'Lansing', 'Harrisburg', 'Annapolis', 'Dover', 'Trenton', 'Hartford', 'Albany', 'Concord', 'Montpelier', 'Augusta', 'Boston', 'Richmond', 'Raleigh', 'Nashville', 'Jackson', 'Tallahassee', 'Austin', 'Pierre', 'Providence', 'Juneau', 'Honolulu', 'Sacramento']

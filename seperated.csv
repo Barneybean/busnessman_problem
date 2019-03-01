@@ -1,0 +1,2501 @@
+origin_city,origin_state,origin_lat,origin_lon,destination_city,destination_state,destination_lat,destination_lon
+Montgomery,Alabama,32.367,-86.3006,Montgomery,Alabama,32.367,-86.3006
+Montgomery,Alabama,32.367,-86.3006,Juneau,Alaska,58.3019,-134.4197
+Montgomery,Alabama,32.367,-86.3006,Phoenix,Arizona,33.4486,-112.0773
+Montgomery,Alabama,32.367,-86.3006,Little Rock,Arkansas,34.7465,-92.2896
+Montgomery,Alabama,32.367,-86.3006,Sacramento,California,38.5816,-121.4944
+Montgomery,Alabama,32.367,-86.3006,Denver,Colorado,39.7392,-104.9849
+Montgomery,Alabama,32.367,-86.3006,Hartford,Connecticut,41.7646,-72.6909
+Montgomery,Alabama,32.367,-86.3006,Dover,Delaware,39.1582,-75.5244
+Montgomery,Alabama,32.367,-86.3006,Tallahassee,Florida,30.4381,-84.2809
+Montgomery,Alabama,32.367,-86.3006,Atlanta,Georgia,33.7491,-84.3902
+Montgomery,Alabama,32.367,-86.3006,Honolulu,Hawaii,21.3251,-157.8466
+Montgomery,Alabama,32.367,-86.3006,Boise,Idaho,43.6166,-116.2008
+Montgomery,Alabama,32.367,-86.3006,Springfield,Illinios,39.7997,-89.6475
+Montgomery,Alabama,32.367,-86.3006,Indianapolis,Indiana,39.7683,-86.1584
+Montgomery,Alabama,32.367,-86.3006,Des Monies,Iowa,41.5872,-93.6219
+Montgomery,Alabama,32.367,-86.3006,Topeka,Kansas,39.049,-95.6776
+Montgomery,Alabama,32.367,-86.3006,Frankfort,Kentucky,38.2009,-84.8733
+Montgomery,Alabama,32.367,-86.3006,Baton Rouge,Louisiana,30.446,-91.1874
+Montgomery,Alabama,32.367,-86.3006,Augusta,Maine,44.3106,-69.7797
+Montgomery,Alabama,32.367,-86.3006,Annapolis,Maryland,38.9786,-76.4928
+Montgomery,Alabama,32.367,-86.3006,Boston,Massachusetts,42.3603,-71.0583
+Montgomery,Alabama,32.367,-86.3006,Lansing,Michigan,42.7338,-84.5554
+Montgomery,Alabama,32.367,-86.3006,St. Paul,Minnesota,44.9504,-93.1015
+Montgomery,Alabama,32.367,-86.3006,Jackson,Mississippi,32.299,-90.1848
+Montgomery,Alabama,32.367,-86.3006,Jefferson City,Missouri,38.5774,-92.1724
+Montgomery,Alabama,32.367,-86.3006,Helena,Montana,46.5927,-112.0361
+Montgomery,Alabama,32.367,-86.3006,Lincoln,Nebraska,40.8,-96.6678
+Montgomery,Alabama,32.367,-86.3006,Carson City,Neveda,39.1695,-119.766
+Montgomery,Alabama,32.367,-86.3006,Concord,New Hampshire,43.2072,-71.5375
+Montgomery,Alabama,32.367,-86.3006,Trenton,New Jersey,40.2171,-74.7429
+Montgomery,Alabama,32.367,-86.3006,Santa Fe,New Mexico,35.687,-105.9378
+Montgomery,Alabama,32.367,-86.3006,Albany,New York,42.6512,-73.755
+Montgomery,Alabama,32.367,-86.3006,Raleigh,North Carolina,35.7804,-78.6391
+Montgomery,Alabama,32.367,-86.3006,Bismarck,North Dakota,46.8083,-100.7837
+Montgomery,Alabama,32.367,-86.3006,Columbus,Ohio,39.9623,-83.0007
+Montgomery,Alabama,32.367,-86.3006,Oklahoma City,Oklahoma,35.473,-97.5171
+Montgomery,Alabama,32.367,-86.3006,Salem,Oregon,44.9392,-123.0331
+Montgomery,Alabama,32.367,-86.3006,Harrisburg,Pennsylvania,40.2663,-76.8861
+Montgomery,Alabama,32.367,-86.3006,Providence,Rhoda Island,41.8249,-71.4136
+Montgomery,Alabama,32.367,-86.3006,Columbia,South Carolina,34.0007,-81.0343
+Montgomery,Alabama,32.367,-86.3006,Pierre,South Dakoda,44.3684,-100.354
+Montgomery,Alabama,32.367,-86.3006,Nashville,Tennessee,36.1622,-86.7744
+Montgomery,Alabama,32.367,-86.3006,Austin,Texas,30.2711,-97.7437
+Montgomery,Alabama,32.367,-86.3006,Salt Lake City,Utah,40.767,-111.8904
+Montgomery,Alabama,32.367,-86.3006,Montpelier,Vermont,44.2604,-72.5757
+Montgomery,Alabama,32.367,-86.3006,Richmond,Virginia,37.5385,-77.4343
+Montgomery,Alabama,32.367,-86.3006,Olympia,Washington,47.0451,-122.895
+Montgomery,Alabama,32.367,-86.3006,Charleston,West Virginia,38.3506,-81.6333
+Montgomery,Alabama,32.367,-86.3006,Madison,Wisconsin,43.0748,-89.3838
+Montgomery,Alabama,32.367,-86.3006,Cheyenne,Wyoming,41.14,-104.82
+Juneau,Alaska,58.3019,-134.4197,Montgomery,Alabama,32.367,-86.3006
+Juneau,Alaska,58.3019,-134.4197,Juneau,Alaska,58.3019,-134.4197
+Juneau,Alaska,58.3019,-134.4197,Phoenix,Arizona,33.4486,-112.0773
+Juneau,Alaska,58.3019,-134.4197,Little Rock,Arkansas,34.7465,-92.2896
+Juneau,Alaska,58.3019,-134.4197,Sacramento,California,38.5816,-121.4944
+Juneau,Alaska,58.3019,-134.4197,Denver,Colorado,39.7392,-104.9849
+Juneau,Alaska,58.3019,-134.4197,Hartford,Connecticut,41.7646,-72.6909
+Juneau,Alaska,58.3019,-134.4197,Dover,Delaware,39.1582,-75.5244
+Juneau,Alaska,58.3019,-134.4197,Tallahassee,Florida,30.4381,-84.2809
+Juneau,Alaska,58.3019,-134.4197,Atlanta,Georgia,33.7491,-84.3902
+Juneau,Alaska,58.3019,-134.4197,Honolulu,Hawaii,21.3251,-157.8466
+Juneau,Alaska,58.3019,-134.4197,Boise,Idaho,43.6166,-116.2008
+Juneau,Alaska,58.3019,-134.4197,Springfield,Illinios,39.7997,-89.6475
+Juneau,Alaska,58.3019,-134.4197,Indianapolis,Indiana,39.7683,-86.1584
+Juneau,Alaska,58.3019,-134.4197,Des Monies,Iowa,41.5872,-93.6219
+Juneau,Alaska,58.3019,-134.4197,Topeka,Kansas,39.049,-95.6776
+Juneau,Alaska,58.3019,-134.4197,Frankfort,Kentucky,38.2009,-84.8733
+Juneau,Alaska,58.3019,-134.4197,Baton Rouge,Louisiana,30.446,-91.1874
+Juneau,Alaska,58.3019,-134.4197,Augusta,Maine,44.3106,-69.7797
+Juneau,Alaska,58.3019,-134.4197,Annapolis,Maryland,38.9786,-76.4928
+Juneau,Alaska,58.3019,-134.4197,Boston,Massachusetts,42.3603,-71.0583
+Juneau,Alaska,58.3019,-134.4197,Lansing,Michigan,42.7338,-84.5554
+Juneau,Alaska,58.3019,-134.4197,St. Paul,Minnesota,44.9504,-93.1015
+Juneau,Alaska,58.3019,-134.4197,Jackson,Mississippi,32.299,-90.1848
+Juneau,Alaska,58.3019,-134.4197,Jefferson City,Missouri,38.5774,-92.1724
+Juneau,Alaska,58.3019,-134.4197,Helena,Montana,46.5927,-112.0361
+Juneau,Alaska,58.3019,-134.4197,Lincoln,Nebraska,40.8,-96.6678
+Juneau,Alaska,58.3019,-134.4197,Carson City,Neveda,39.1695,-119.766
+Juneau,Alaska,58.3019,-134.4197,Concord,New Hampshire,43.2072,-71.5375
+Juneau,Alaska,58.3019,-134.4197,Trenton,New Jersey,40.2171,-74.7429
+Juneau,Alaska,58.3019,-134.4197,Santa Fe,New Mexico,35.687,-105.9378
+Juneau,Alaska,58.3019,-134.4197,Albany,New York,42.6512,-73.755
+Juneau,Alaska,58.3019,-134.4197,Raleigh,North Carolina,35.7804,-78.6391
+Juneau,Alaska,58.3019,-134.4197,Bismarck,North Dakota,46.8083,-100.7837
+Juneau,Alaska,58.3019,-134.4197,Columbus,Ohio,39.9623,-83.0007
+Juneau,Alaska,58.3019,-134.4197,Oklahoma City,Oklahoma,35.473,-97.5171
+Juneau,Alaska,58.3019,-134.4197,Salem,Oregon,44.9392,-123.0331
+Juneau,Alaska,58.3019,-134.4197,Harrisburg,Pennsylvania,40.2663,-76.8861
+Juneau,Alaska,58.3019,-134.4197,Providence,Rhoda Island,41.8249,-71.4136
+Juneau,Alaska,58.3019,-134.4197,Columbia,South Carolina,34.0007,-81.0343
+Juneau,Alaska,58.3019,-134.4197,Pierre,South Dakoda,44.3684,-100.354
+Juneau,Alaska,58.3019,-134.4197,Nashville,Tennessee,36.1622,-86.7744
+Juneau,Alaska,58.3019,-134.4197,Austin,Texas,30.2711,-97.7437
+Juneau,Alaska,58.3019,-134.4197,Salt Lake City,Utah,40.767,-111.8904
+Juneau,Alaska,58.3019,-134.4197,Montpelier,Vermont,44.2604,-72.5757
+Juneau,Alaska,58.3019,-134.4197,Richmond,Virginia,37.5385,-77.4343
+Juneau,Alaska,58.3019,-134.4197,Olympia,Washington,47.0451,-122.895
+Juneau,Alaska,58.3019,-134.4197,Charleston,West Virginia,38.3506,-81.6333
+Juneau,Alaska,58.3019,-134.4197,Madison,Wisconsin,43.0748,-89.3838
+Juneau,Alaska,58.3019,-134.4197,Cheyenne,Wyoming,41.14,-104.82
+Phoenix,Arizona,33.4486,-112.0773,Montgomery,Alabama,32.367,-86.3006
+Phoenix,Arizona,33.4486,-112.0773,Juneau,Alaska,58.3019,-134.4197
+Phoenix,Arizona,33.4486,-112.0773,Phoenix,Arizona,33.4486,-112.0773
+Phoenix,Arizona,33.4486,-112.0773,Little Rock,Arkansas,34.7465,-92.2896
+Phoenix,Arizona,33.4486,-112.0773,Sacramento,California,38.5816,-121.4944
+Phoenix,Arizona,33.4486,-112.0773,Denver,Colorado,39.7392,-104.9849
+Phoenix,Arizona,33.4486,-112.0773,Hartford,Connecticut,41.7646,-72.6909
+Phoenix,Arizona,33.4486,-112.0773,Dover,Delaware,39.1582,-75.5244
+Phoenix,Arizona,33.4486,-112.0773,Tallahassee,Florida,30.4381,-84.2809
+Phoenix,Arizona,33.4486,-112.0773,Atlanta,Georgia,33.7491,-84.3902
+Phoenix,Arizona,33.4486,-112.0773,Honolulu,Hawaii,21.3251,-157.8466
+Phoenix,Arizona,33.4486,-112.0773,Boise,Idaho,43.6166,-116.2008
+Phoenix,Arizona,33.4486,-112.0773,Springfield,Illinios,39.7997,-89.6475
+Phoenix,Arizona,33.4486,-112.0773,Indianapolis,Indiana,39.7683,-86.1584
+Phoenix,Arizona,33.4486,-112.0773,Des Monies,Iowa,41.5872,-93.6219
+Phoenix,Arizona,33.4486,-112.0773,Topeka,Kansas,39.049,-95.6776
+Phoenix,Arizona,33.4486,-112.0773,Frankfort,Kentucky,38.2009,-84.8733
+Phoenix,Arizona,33.4486,-112.0773,Baton Rouge,Louisiana,30.446,-91.1874
+Phoenix,Arizona,33.4486,-112.0773,Augusta,Maine,44.3106,-69.7797
+Phoenix,Arizona,33.4486,-112.0773,Annapolis,Maryland,38.9786,-76.4928
+Phoenix,Arizona,33.4486,-112.0773,Boston,Massachusetts,42.3603,-71.0583
+Phoenix,Arizona,33.4486,-112.0773,Lansing,Michigan,42.7338,-84.5554
+Phoenix,Arizona,33.4486,-112.0773,St. Paul,Minnesota,44.9504,-93.1015
+Phoenix,Arizona,33.4486,-112.0773,Jackson,Mississippi,32.299,-90.1848
+Phoenix,Arizona,33.4486,-112.0773,Jefferson City,Missouri,38.5774,-92.1724
+Phoenix,Arizona,33.4486,-112.0773,Helena,Montana,46.5927,-112.0361
+Phoenix,Arizona,33.4486,-112.0773,Lincoln,Nebraska,40.8,-96.6678
+Phoenix,Arizona,33.4486,-112.0773,Carson City,Neveda,39.1695,-119.766
+Phoenix,Arizona,33.4486,-112.0773,Concord,New Hampshire,43.2072,-71.5375
+Phoenix,Arizona,33.4486,-112.0773,Trenton,New Jersey,40.2171,-74.7429
+Phoenix,Arizona,33.4486,-112.0773,Santa Fe,New Mexico,35.687,-105.9378
+Phoenix,Arizona,33.4486,-112.0773,Albany,New York,42.6512,-73.755
+Phoenix,Arizona,33.4486,-112.0773,Raleigh,North Carolina,35.7804,-78.6391
+Phoenix,Arizona,33.4486,-112.0773,Bismarck,North Dakota,46.8083,-100.7837
+Phoenix,Arizona,33.4486,-112.0773,Columbus,Ohio,39.9623,-83.0007
+Phoenix,Arizona,33.4486,-112.0773,Oklahoma City,Oklahoma,35.473,-97.5171
+Phoenix,Arizona,33.4486,-112.0773,Salem,Oregon,44.9392,-123.0331
+Phoenix,Arizona,33.4486,-112.0773,Harrisburg,Pennsylvania,40.2663,-76.8861
+Phoenix,Arizona,33.4486,-112.0773,Providence,Rhoda Island,41.8249,-71.4136
+Phoenix,Arizona,33.4486,-112.0773,Columbia,South Carolina,34.0007,-81.0343
+Phoenix,Arizona,33.4486,-112.0773,Pierre,South Dakoda,44.3684,-100.354
+Phoenix,Arizona,33.4486,-112.0773,Nashville,Tennessee,36.1622,-86.7744
+Phoenix,Arizona,33.4486,-112.0773,Austin,Texas,30.2711,-97.7437
+Phoenix,Arizona,33.4486,-112.0773,Salt Lake City,Utah,40.767,-111.8904
+Phoenix,Arizona,33.4486,-112.0773,Montpelier,Vermont,44.2604,-72.5757
+Phoenix,Arizona,33.4486,-112.0773,Richmond,Virginia,37.5385,-77.4343
+Phoenix,Arizona,33.4486,-112.0773,Olympia,Washington,47.0451,-122.895
+Phoenix,Arizona,33.4486,-112.0773,Charleston,West Virginia,38.3506,-81.6333
+Phoenix,Arizona,33.4486,-112.0773,Madison,Wisconsin,43.0748,-89.3838
+Phoenix,Arizona,33.4486,-112.0773,Cheyenne,Wyoming,41.14,-104.82
+Little Rock,Arkansas,34.7465,-92.2896,Montgomery,Alabama,32.367,-86.3006
+Little Rock,Arkansas,34.7465,-92.2896,Juneau,Alaska,58.3019,-134.4197
+Little Rock,Arkansas,34.7465,-92.2896,Phoenix,Arizona,33.4486,-112.0773
+Little Rock,Arkansas,34.7465,-92.2896,Little Rock,Arkansas,34.7465,-92.2896
+Little Rock,Arkansas,34.7465,-92.2896,Sacramento,California,38.5816,-121.4944
+Little Rock,Arkansas,34.7465,-92.2896,Denver,Colorado,39.7392,-104.9849
+Little Rock,Arkansas,34.7465,-92.2896,Hartford,Connecticut,41.7646,-72.6909
+Little Rock,Arkansas,34.7465,-92.2896,Dover,Delaware,39.1582,-75.5244
+Little Rock,Arkansas,34.7465,-92.2896,Tallahassee,Florida,30.4381,-84.2809
+Little Rock,Arkansas,34.7465,-92.2896,Atlanta,Georgia,33.7491,-84.3902
+Little Rock,Arkansas,34.7465,-92.2896,Honolulu,Hawaii,21.3251,-157.8466
+Little Rock,Arkansas,34.7465,-92.2896,Boise,Idaho,43.6166,-116.2008
+Little Rock,Arkansas,34.7465,-92.2896,Springfield,Illinios,39.7997,-89.6475
+Little Rock,Arkansas,34.7465,-92.2896,Indianapolis,Indiana,39.7683,-86.1584
+Little Rock,Arkansas,34.7465,-92.2896,Des Monies,Iowa,41.5872,-93.6219
+Little Rock,Arkansas,34.7465,-92.2896,Topeka,Kansas,39.049,-95.6776
+Little Rock,Arkansas,34.7465,-92.2896,Frankfort,Kentucky,38.2009,-84.8733
+Little Rock,Arkansas,34.7465,-92.2896,Baton Rouge,Louisiana,30.446,-91.1874
+Little Rock,Arkansas,34.7465,-92.2896,Augusta,Maine,44.3106,-69.7797
+Little Rock,Arkansas,34.7465,-92.2896,Annapolis,Maryland,38.9786,-76.4928
+Little Rock,Arkansas,34.7465,-92.2896,Boston,Massachusetts,42.3603,-71.0583
+Little Rock,Arkansas,34.7465,-92.2896,Lansing,Michigan,42.7338,-84.5554
+Little Rock,Arkansas,34.7465,-92.2896,St. Paul,Minnesota,44.9504,-93.1015
+Little Rock,Arkansas,34.7465,-92.2896,Jackson,Mississippi,32.299,-90.1848
+Little Rock,Arkansas,34.7465,-92.2896,Jefferson City,Missouri,38.5774,-92.1724
+Little Rock,Arkansas,34.7465,-92.2896,Helena,Montana,46.5927,-112.0361
+Little Rock,Arkansas,34.7465,-92.2896,Lincoln,Nebraska,40.8,-96.6678
+Little Rock,Arkansas,34.7465,-92.2896,Carson City,Neveda,39.1695,-119.766
+Little Rock,Arkansas,34.7465,-92.2896,Concord,New Hampshire,43.2072,-71.5375
+Little Rock,Arkansas,34.7465,-92.2896,Trenton,New Jersey,40.2171,-74.7429
+Little Rock,Arkansas,34.7465,-92.2896,Santa Fe,New Mexico,35.687,-105.9378
+Little Rock,Arkansas,34.7465,-92.2896,Albany,New York,42.6512,-73.755
+Little Rock,Arkansas,34.7465,-92.2896,Raleigh,North Carolina,35.7804,-78.6391
+Little Rock,Arkansas,34.7465,-92.2896,Bismarck,North Dakota,46.8083,-100.7837
+Little Rock,Arkansas,34.7465,-92.2896,Columbus,Ohio,39.9623,-83.0007
+Little Rock,Arkansas,34.7465,-92.2896,Oklahoma City,Oklahoma,35.473,-97.5171
+Little Rock,Arkansas,34.7465,-92.2896,Salem,Oregon,44.9392,-123.0331
+Little Rock,Arkansas,34.7465,-92.2896,Harrisburg,Pennsylvania,40.2663,-76.8861
+Little Rock,Arkansas,34.7465,-92.2896,Providence,Rhoda Island,41.8249,-71.4136
+Little Rock,Arkansas,34.7465,-92.2896,Columbia,South Carolina,34.0007,-81.0343
+Little Rock,Arkansas,34.7465,-92.2896,Pierre,South Dakoda,44.3684,-100.354
+Little Rock,Arkansas,34.7465,-92.2896,Nashville,Tennessee,36.1622,-86.7744
+Little Rock,Arkansas,34.7465,-92.2896,Austin,Texas,30.2711,-97.7437
+Little Rock,Arkansas,34.7465,-92.2896,Salt Lake City,Utah,40.767,-111.8904
+Little Rock,Arkansas,34.7465,-92.2896,Montpelier,Vermont,44.2604,-72.5757
+Little Rock,Arkansas,34.7465,-92.2896,Richmond,Virginia,37.5385,-77.4343
+Little Rock,Arkansas,34.7465,-92.2896,Olympia,Washington,47.0451,-122.895
+Little Rock,Arkansas,34.7465,-92.2896,Charleston,West Virginia,38.3506,-81.6333
+Little Rock,Arkansas,34.7465,-92.2896,Madison,Wisconsin,43.0748,-89.3838
+Little Rock,Arkansas,34.7465,-92.2896,Cheyenne,Wyoming,41.14,-104.82
+Sacramento,California,38.5816,-121.4944,Montgomery,Alabama,32.367,-86.3006
+Sacramento,California,38.5816,-121.4944,Juneau,Alaska,58.3019,-134.4197
+Sacramento,California,38.5816,-121.4944,Phoenix,Arizona,33.4486,-112.0773
+Sacramento,California,38.5816,-121.4944,Little Rock,Arkansas,34.7465,-92.2896
+Sacramento,California,38.5816,-121.4944,Sacramento,California,38.5816,-121.4944
+Sacramento,California,38.5816,-121.4944,Denver,Colorado,39.7392,-104.9849
+Sacramento,California,38.5816,-121.4944,Hartford,Connecticut,41.7646,-72.6909
+Sacramento,California,38.5816,-121.4944,Dover,Delaware,39.1582,-75.5244
+Sacramento,California,38.5816,-121.4944,Tallahassee,Florida,30.4381,-84.2809
+Sacramento,California,38.5816,-121.4944,Atlanta,Georgia,33.7491,-84.3902
+Sacramento,California,38.5816,-121.4944,Honolulu,Hawaii,21.3251,-157.8466
+Sacramento,California,38.5816,-121.4944,Boise,Idaho,43.6166,-116.2008
+Sacramento,California,38.5816,-121.4944,Springfield,Illinios,39.7997,-89.6475
+Sacramento,California,38.5816,-121.4944,Indianapolis,Indiana,39.7683,-86.1584
+Sacramento,California,38.5816,-121.4944,Des Monies,Iowa,41.5872,-93.6219
+Sacramento,California,38.5816,-121.4944,Topeka,Kansas,39.049,-95.6776
+Sacramento,California,38.5816,-121.4944,Frankfort,Kentucky,38.2009,-84.8733
+Sacramento,California,38.5816,-121.4944,Baton Rouge,Louisiana,30.446,-91.1874
+Sacramento,California,38.5816,-121.4944,Augusta,Maine,44.3106,-69.7797
+Sacramento,California,38.5816,-121.4944,Annapolis,Maryland,38.9786,-76.4928
+Sacramento,California,38.5816,-121.4944,Boston,Massachusetts,42.3603,-71.0583
+Sacramento,California,38.5816,-121.4944,Lansing,Michigan,42.7338,-84.5554
+Sacramento,California,38.5816,-121.4944,St. Paul,Minnesota,44.9504,-93.1015
+Sacramento,California,38.5816,-121.4944,Jackson,Mississippi,32.299,-90.1848
+Sacramento,California,38.5816,-121.4944,Jefferson City,Missouri,38.5774,-92.1724
+Sacramento,California,38.5816,-121.4944,Helena,Montana,46.5927,-112.0361
+Sacramento,California,38.5816,-121.4944,Lincoln,Nebraska,40.8,-96.6678
+Sacramento,California,38.5816,-121.4944,Carson City,Neveda,39.1695,-119.766
+Sacramento,California,38.5816,-121.4944,Concord,New Hampshire,43.2072,-71.5375
+Sacramento,California,38.5816,-121.4944,Trenton,New Jersey,40.2171,-74.7429
+Sacramento,California,38.5816,-121.4944,Santa Fe,New Mexico,35.687,-105.9378
+Sacramento,California,38.5816,-121.4944,Albany,New York,42.6512,-73.755
+Sacramento,California,38.5816,-121.4944,Raleigh,North Carolina,35.7804,-78.6391
+Sacramento,California,38.5816,-121.4944,Bismarck,North Dakota,46.8083,-100.7837
+Sacramento,California,38.5816,-121.4944,Columbus,Ohio,39.9623,-83.0007
+Sacramento,California,38.5816,-121.4944,Oklahoma City,Oklahoma,35.473,-97.5171
+Sacramento,California,38.5816,-121.4944,Salem,Oregon,44.9392,-123.0331
+Sacramento,California,38.5816,-121.4944,Harrisburg,Pennsylvania,40.2663,-76.8861
+Sacramento,California,38.5816,-121.4944,Providence,Rhoda Island,41.8249,-71.4136
+Sacramento,California,38.5816,-121.4944,Columbia,South Carolina,34.0007,-81.0343
+Sacramento,California,38.5816,-121.4944,Pierre,South Dakoda,44.3684,-100.354
+Sacramento,California,38.5816,-121.4944,Nashville,Tennessee,36.1622,-86.7744
+Sacramento,California,38.5816,-121.4944,Austin,Texas,30.2711,-97.7437
+Sacramento,California,38.5816,-121.4944,Salt Lake City,Utah,40.767,-111.8904
+Sacramento,California,38.5816,-121.4944,Montpelier,Vermont,44.2604,-72.5757
+Sacramento,California,38.5816,-121.4944,Richmond,Virginia,37.5385,-77.4343
+Sacramento,California,38.5816,-121.4944,Olympia,Washington,47.0451,-122.895
+Sacramento,California,38.5816,-121.4944,Charleston,West Virginia,38.3506,-81.6333
+Sacramento,California,38.5816,-121.4944,Madison,Wisconsin,43.0748,-89.3838
+Sacramento,California,38.5816,-121.4944,Cheyenne,Wyoming,41.14,-104.82
+Denver,Colorado,39.7392,-104.9849,Montgomery,Alabama,32.367,-86.3006
+Denver,Colorado,39.7392,-104.9849,Juneau,Alaska,58.3019,-134.4197
+Denver,Colorado,39.7392,-104.9849,Phoenix,Arizona,33.4486,-112.0773
+Denver,Colorado,39.7392,-104.9849,Little Rock,Arkansas,34.7465,-92.2896
+Denver,Colorado,39.7392,-104.9849,Sacramento,California,38.5816,-121.4944
+Denver,Colorado,39.7392,-104.9849,Denver,Colorado,39.7392,-104.9849
+Denver,Colorado,39.7392,-104.9849,Hartford,Connecticut,41.7646,-72.6909
+Denver,Colorado,39.7392,-104.9849,Dover,Delaware,39.1582,-75.5244
+Denver,Colorado,39.7392,-104.9849,Tallahassee,Florida,30.4381,-84.2809
+Denver,Colorado,39.7392,-104.9849,Atlanta,Georgia,33.7491,-84.3902
+Denver,Colorado,39.7392,-104.9849,Honolulu,Hawaii,21.3251,-157.8466
+Denver,Colorado,39.7392,-104.9849,Boise,Idaho,43.6166,-116.2008
+Denver,Colorado,39.7392,-104.9849,Springfield,Illinios,39.7997,-89.6475
+Denver,Colorado,39.7392,-104.9849,Indianapolis,Indiana,39.7683,-86.1584
+Denver,Colorado,39.7392,-104.9849,Des Monies,Iowa,41.5872,-93.6219
+Denver,Colorado,39.7392,-104.9849,Topeka,Kansas,39.049,-95.6776
+Denver,Colorado,39.7392,-104.9849,Frankfort,Kentucky,38.2009,-84.8733
+Denver,Colorado,39.7392,-104.9849,Baton Rouge,Louisiana,30.446,-91.1874
+Denver,Colorado,39.7392,-104.9849,Augusta,Maine,44.3106,-69.7797
+Denver,Colorado,39.7392,-104.9849,Annapolis,Maryland,38.9786,-76.4928
+Denver,Colorado,39.7392,-104.9849,Boston,Massachusetts,42.3603,-71.0583
+Denver,Colorado,39.7392,-104.9849,Lansing,Michigan,42.7338,-84.5554
+Denver,Colorado,39.7392,-104.9849,St. Paul,Minnesota,44.9504,-93.1015
+Denver,Colorado,39.7392,-104.9849,Jackson,Mississippi,32.299,-90.1848
+Denver,Colorado,39.7392,-104.9849,Jefferson City,Missouri,38.5774,-92.1724
+Denver,Colorado,39.7392,-104.9849,Helena,Montana,46.5927,-112.0361
+Denver,Colorado,39.7392,-104.9849,Lincoln,Nebraska,40.8,-96.6678
+Denver,Colorado,39.7392,-104.9849,Carson City,Neveda,39.1695,-119.766
+Denver,Colorado,39.7392,-104.9849,Concord,New Hampshire,43.2072,-71.5375
+Denver,Colorado,39.7392,-104.9849,Trenton,New Jersey,40.2171,-74.7429
+Denver,Colorado,39.7392,-104.9849,Santa Fe,New Mexico,35.687,-105.9378
+Denver,Colorado,39.7392,-104.9849,Albany,New York,42.6512,-73.755
+Denver,Colorado,39.7392,-104.9849,Raleigh,North Carolina,35.7804,-78.6391
+Denver,Colorado,39.7392,-104.9849,Bismarck,North Dakota,46.8083,-100.7837
+Denver,Colorado,39.7392,-104.9849,Columbus,Ohio,39.9623,-83.0007
+Denver,Colorado,39.7392,-104.9849,Oklahoma City,Oklahoma,35.473,-97.5171
+Denver,Colorado,39.7392,-104.9849,Salem,Oregon,44.9392,-123.0331
+Denver,Colorado,39.7392,-104.9849,Harrisburg,Pennsylvania,40.2663,-76.8861
+Denver,Colorado,39.7392,-104.9849,Providence,Rhoda Island,41.8249,-71.4136
+Denver,Colorado,39.7392,-104.9849,Columbia,South Carolina,34.0007,-81.0343
+Denver,Colorado,39.7392,-104.9849,Pierre,South Dakoda,44.3684,-100.354
+Denver,Colorado,39.7392,-104.9849,Nashville,Tennessee,36.1622,-86.7744
+Denver,Colorado,39.7392,-104.9849,Austin,Texas,30.2711,-97.7437
+Denver,Colorado,39.7392,-104.9849,Salt Lake City,Utah,40.767,-111.8904
+Denver,Colorado,39.7392,-104.9849,Montpelier,Vermont,44.2604,-72.5757
+Denver,Colorado,39.7392,-104.9849,Richmond,Virginia,37.5385,-77.4343
+Denver,Colorado,39.7392,-104.9849,Olympia,Washington,47.0451,-122.895
+Denver,Colorado,39.7392,-104.9849,Charleston,West Virginia,38.3506,-81.6333
+Denver,Colorado,39.7392,-104.9849,Madison,Wisconsin,43.0748,-89.3838
+Denver,Colorado,39.7392,-104.9849,Cheyenne,Wyoming,41.14,-104.82
+Hartford,Connecticut,41.7646,-72.6909,Montgomery,Alabama,32.367,-86.3006
+Hartford,Connecticut,41.7646,-72.6909,Juneau,Alaska,58.3019,-134.4197
+Hartford,Connecticut,41.7646,-72.6909,Phoenix,Arizona,33.4486,-112.0773
+Hartford,Connecticut,41.7646,-72.6909,Little Rock,Arkansas,34.7465,-92.2896
+Hartford,Connecticut,41.7646,-72.6909,Sacramento,California,38.5816,-121.4944
+Hartford,Connecticut,41.7646,-72.6909,Denver,Colorado,39.7392,-104.9849
+Hartford,Connecticut,41.7646,-72.6909,Hartford,Connecticut,41.7646,-72.6909
+Hartford,Connecticut,41.7646,-72.6909,Dover,Delaware,39.1582,-75.5244
+Hartford,Connecticut,41.7646,-72.6909,Tallahassee,Florida,30.4381,-84.2809
+Hartford,Connecticut,41.7646,-72.6909,Atlanta,Georgia,33.7491,-84.3902
+Hartford,Connecticut,41.7646,-72.6909,Honolulu,Hawaii,21.3251,-157.8466
+Hartford,Connecticut,41.7646,-72.6909,Boise,Idaho,43.6166,-116.2008
+Hartford,Connecticut,41.7646,-72.6909,Springfield,Illinios,39.7997,-89.6475
+Hartford,Connecticut,41.7646,-72.6909,Indianapolis,Indiana,39.7683,-86.1584
+Hartford,Connecticut,41.7646,-72.6909,Des Monies,Iowa,41.5872,-93.6219
+Hartford,Connecticut,41.7646,-72.6909,Topeka,Kansas,39.049,-95.6776
+Hartford,Connecticut,41.7646,-72.6909,Frankfort,Kentucky,38.2009,-84.8733
+Hartford,Connecticut,41.7646,-72.6909,Baton Rouge,Louisiana,30.446,-91.1874
+Hartford,Connecticut,41.7646,-72.6909,Augusta,Maine,44.3106,-69.7797
+Hartford,Connecticut,41.7646,-72.6909,Annapolis,Maryland,38.9786,-76.4928
+Hartford,Connecticut,41.7646,-72.6909,Boston,Massachusetts,42.3603,-71.0583
+Hartford,Connecticut,41.7646,-72.6909,Lansing,Michigan,42.7338,-84.5554
+Hartford,Connecticut,41.7646,-72.6909,St. Paul,Minnesota,44.9504,-93.1015
+Hartford,Connecticut,41.7646,-72.6909,Jackson,Mississippi,32.299,-90.1848
+Hartford,Connecticut,41.7646,-72.6909,Jefferson City,Missouri,38.5774,-92.1724
+Hartford,Connecticut,41.7646,-72.6909,Helena,Montana,46.5927,-112.0361
+Hartford,Connecticut,41.7646,-72.6909,Lincoln,Nebraska,40.8,-96.6678
+Hartford,Connecticut,41.7646,-72.6909,Carson City,Neveda,39.1695,-119.766
+Hartford,Connecticut,41.7646,-72.6909,Concord,New Hampshire,43.2072,-71.5375
+Hartford,Connecticut,41.7646,-72.6909,Trenton,New Jersey,40.2171,-74.7429
+Hartford,Connecticut,41.7646,-72.6909,Santa Fe,New Mexico,35.687,-105.9378
+Hartford,Connecticut,41.7646,-72.6909,Albany,New York,42.6512,-73.755
+Hartford,Connecticut,41.7646,-72.6909,Raleigh,North Carolina,35.7804,-78.6391
+Hartford,Connecticut,41.7646,-72.6909,Bismarck,North Dakota,46.8083,-100.7837
+Hartford,Connecticut,41.7646,-72.6909,Columbus,Ohio,39.9623,-83.0007
+Hartford,Connecticut,41.7646,-72.6909,Oklahoma City,Oklahoma,35.473,-97.5171
+Hartford,Connecticut,41.7646,-72.6909,Salem,Oregon,44.9392,-123.0331
+Hartford,Connecticut,41.7646,-72.6909,Harrisburg,Pennsylvania,40.2663,-76.8861
+Hartford,Connecticut,41.7646,-72.6909,Providence,Rhoda Island,41.8249,-71.4136
+Hartford,Connecticut,41.7646,-72.6909,Columbia,South Carolina,34.0007,-81.0343
+Hartford,Connecticut,41.7646,-72.6909,Pierre,South Dakoda,44.3684,-100.354
+Hartford,Connecticut,41.7646,-72.6909,Nashville,Tennessee,36.1622,-86.7744
+Hartford,Connecticut,41.7646,-72.6909,Austin,Texas,30.2711,-97.7437
+Hartford,Connecticut,41.7646,-72.6909,Salt Lake City,Utah,40.767,-111.8904
+Hartford,Connecticut,41.7646,-72.6909,Montpelier,Vermont,44.2604,-72.5757
+Hartford,Connecticut,41.7646,-72.6909,Richmond,Virginia,37.5385,-77.4343
+Hartford,Connecticut,41.7646,-72.6909,Olympia,Washington,47.0451,-122.895
+Hartford,Connecticut,41.7646,-72.6909,Charleston,West Virginia,38.3506,-81.6333
+Hartford,Connecticut,41.7646,-72.6909,Madison,Wisconsin,43.0748,-89.3838
+Hartford,Connecticut,41.7646,-72.6909,Cheyenne,Wyoming,41.14,-104.82
+Dover,Delaware,39.1582,-75.5244,Montgomery,Alabama,32.367,-86.3006
+Dover,Delaware,39.1582,-75.5244,Juneau,Alaska,58.3019,-134.4197
+Dover,Delaware,39.1582,-75.5244,Phoenix,Arizona,33.4486,-112.0773
+Dover,Delaware,39.1582,-75.5244,Little Rock,Arkansas,34.7465,-92.2896
+Dover,Delaware,39.1582,-75.5244,Sacramento,California,38.5816,-121.4944
+Dover,Delaware,39.1582,-75.5244,Denver,Colorado,39.7392,-104.9849
+Dover,Delaware,39.1582,-75.5244,Hartford,Connecticut,41.7646,-72.6909
+Dover,Delaware,39.1582,-75.5244,Dover,Delaware,39.1582,-75.5244
+Dover,Delaware,39.1582,-75.5244,Tallahassee,Florida,30.4381,-84.2809
+Dover,Delaware,39.1582,-75.5244,Atlanta,Georgia,33.7491,-84.3902
+Dover,Delaware,39.1582,-75.5244,Honolulu,Hawaii,21.3251,-157.8466
+Dover,Delaware,39.1582,-75.5244,Boise,Idaho,43.6166,-116.2008
+Dover,Delaware,39.1582,-75.5244,Springfield,Illinios,39.7997,-89.6475
+Dover,Delaware,39.1582,-75.5244,Indianapolis,Indiana,39.7683,-86.1584
+Dover,Delaware,39.1582,-75.5244,Des Monies,Iowa,41.5872,-93.6219
+Dover,Delaware,39.1582,-75.5244,Topeka,Kansas,39.049,-95.6776
+Dover,Delaware,39.1582,-75.5244,Frankfort,Kentucky,38.2009,-84.8733
+Dover,Delaware,39.1582,-75.5244,Baton Rouge,Louisiana,30.446,-91.1874
+Dover,Delaware,39.1582,-75.5244,Augusta,Maine,44.3106,-69.7797
+Dover,Delaware,39.1582,-75.5244,Annapolis,Maryland,38.9786,-76.4928
+Dover,Delaware,39.1582,-75.5244,Boston,Massachusetts,42.3603,-71.0583
+Dover,Delaware,39.1582,-75.5244,Lansing,Michigan,42.7338,-84.5554
+Dover,Delaware,39.1582,-75.5244,St. Paul,Minnesota,44.9504,-93.1015
+Dover,Delaware,39.1582,-75.5244,Jackson,Mississippi,32.299,-90.1848
+Dover,Delaware,39.1582,-75.5244,Jefferson City,Missouri,38.5774,-92.1724
+Dover,Delaware,39.1582,-75.5244,Helena,Montana,46.5927,-112.0361
+Dover,Delaware,39.1582,-75.5244,Lincoln,Nebraska,40.8,-96.6678
+Dover,Delaware,39.1582,-75.5244,Carson City,Neveda,39.1695,-119.766
+Dover,Delaware,39.1582,-75.5244,Concord,New Hampshire,43.2072,-71.5375
+Dover,Delaware,39.1582,-75.5244,Trenton,New Jersey,40.2171,-74.7429
+Dover,Delaware,39.1582,-75.5244,Santa Fe,New Mexico,35.687,-105.9378
+Dover,Delaware,39.1582,-75.5244,Albany,New York,42.6512,-73.755
+Dover,Delaware,39.1582,-75.5244,Raleigh,North Carolina,35.7804,-78.6391
+Dover,Delaware,39.1582,-75.5244,Bismarck,North Dakota,46.8083,-100.7837
+Dover,Delaware,39.1582,-75.5244,Columbus,Ohio,39.9623,-83.0007
+Dover,Delaware,39.1582,-75.5244,Oklahoma City,Oklahoma,35.473,-97.5171
+Dover,Delaware,39.1582,-75.5244,Salem,Oregon,44.9392,-123.0331
+Dover,Delaware,39.1582,-75.5244,Harrisburg,Pennsylvania,40.2663,-76.8861
+Dover,Delaware,39.1582,-75.5244,Providence,Rhoda Island,41.8249,-71.4136
+Dover,Delaware,39.1582,-75.5244,Columbia,South Carolina,34.0007,-81.0343
+Dover,Delaware,39.1582,-75.5244,Pierre,South Dakoda,44.3684,-100.354
+Dover,Delaware,39.1582,-75.5244,Nashville,Tennessee,36.1622,-86.7744
+Dover,Delaware,39.1582,-75.5244,Austin,Texas,30.2711,-97.7437
+Dover,Delaware,39.1582,-75.5244,Salt Lake City,Utah,40.767,-111.8904
+Dover,Delaware,39.1582,-75.5244,Montpelier,Vermont,44.2604,-72.5757
+Dover,Delaware,39.1582,-75.5244,Richmond,Virginia,37.5385,-77.4343
+Dover,Delaware,39.1582,-75.5244,Olympia,Washington,47.0451,-122.895
+Dover,Delaware,39.1582,-75.5244,Charleston,West Virginia,38.3506,-81.6333
+Dover,Delaware,39.1582,-75.5244,Madison,Wisconsin,43.0748,-89.3838
+Dover,Delaware,39.1582,-75.5244,Cheyenne,Wyoming,41.14,-104.82
+Tallahassee,Florida,30.4381,-84.2809,Montgomery,Alabama,32.367,-86.3006
+Tallahassee,Florida,30.4381,-84.2809,Juneau,Alaska,58.3019,-134.4197
+Tallahassee,Florida,30.4381,-84.2809,Phoenix,Arizona,33.4486,-112.0773
+Tallahassee,Florida,30.4381,-84.2809,Little Rock,Arkansas,34.7465,-92.2896
+Tallahassee,Florida,30.4381,-84.2809,Sacramento,California,38.5816,-121.4944
+Tallahassee,Florida,30.4381,-84.2809,Denver,Colorado,39.7392,-104.9849
+Tallahassee,Florida,30.4381,-84.2809,Hartford,Connecticut,41.7646,-72.6909
+Tallahassee,Florida,30.4381,-84.2809,Dover,Delaware,39.1582,-75.5244
+Tallahassee,Florida,30.4381,-84.2809,Tallahassee,Florida,30.4381,-84.2809
+Tallahassee,Florida,30.4381,-84.2809,Atlanta,Georgia,33.7491,-84.3902
+Tallahassee,Florida,30.4381,-84.2809,Honolulu,Hawaii,21.3251,-157.8466
+Tallahassee,Florida,30.4381,-84.2809,Boise,Idaho,43.6166,-116.2008
+Tallahassee,Florida,30.4381,-84.2809,Springfield,Illinios,39.7997,-89.6475
+Tallahassee,Florida,30.4381,-84.2809,Indianapolis,Indiana,39.7683,-86.1584
+Tallahassee,Florida,30.4381,-84.2809,Des Monies,Iowa,41.5872,-93.6219
+Tallahassee,Florida,30.4381,-84.2809,Topeka,Kansas,39.049,-95.6776
+Tallahassee,Florida,30.4381,-84.2809,Frankfort,Kentucky,38.2009,-84.8733
+Tallahassee,Florida,30.4381,-84.2809,Baton Rouge,Louisiana,30.446,-91.1874
+Tallahassee,Florida,30.4381,-84.2809,Augusta,Maine,44.3106,-69.7797
+Tallahassee,Florida,30.4381,-84.2809,Annapolis,Maryland,38.9786,-76.4928
+Tallahassee,Florida,30.4381,-84.2809,Boston,Massachusetts,42.3603,-71.0583
+Tallahassee,Florida,30.4381,-84.2809,Lansing,Michigan,42.7338,-84.5554
+Tallahassee,Florida,30.4381,-84.2809,St. Paul,Minnesota,44.9504,-93.1015
+Tallahassee,Florida,30.4381,-84.2809,Jackson,Mississippi,32.299,-90.1848
+Tallahassee,Florida,30.4381,-84.2809,Jefferson City,Missouri,38.5774,-92.1724
+Tallahassee,Florida,30.4381,-84.2809,Helena,Montana,46.5927,-112.0361
+Tallahassee,Florida,30.4381,-84.2809,Lincoln,Nebraska,40.8,-96.6678
+Tallahassee,Florida,30.4381,-84.2809,Carson City,Neveda,39.1695,-119.766
+Tallahassee,Florida,30.4381,-84.2809,Concord,New Hampshire,43.2072,-71.5375
+Tallahassee,Florida,30.4381,-84.2809,Trenton,New Jersey,40.2171,-74.7429
+Tallahassee,Florida,30.4381,-84.2809,Santa Fe,New Mexico,35.687,-105.9378
+Tallahassee,Florida,30.4381,-84.2809,Albany,New York,42.6512,-73.755
+Tallahassee,Florida,30.4381,-84.2809,Raleigh,North Carolina,35.7804,-78.6391
+Tallahassee,Florida,30.4381,-84.2809,Bismarck,North Dakota,46.8083,-100.7837
+Tallahassee,Florida,30.4381,-84.2809,Columbus,Ohio,39.9623,-83.0007
+Tallahassee,Florida,30.4381,-84.2809,Oklahoma City,Oklahoma,35.473,-97.5171
+Tallahassee,Florida,30.4381,-84.2809,Salem,Oregon,44.9392,-123.0331
+Tallahassee,Florida,30.4381,-84.2809,Harrisburg,Pennsylvania,40.2663,-76.8861
+Tallahassee,Florida,30.4381,-84.2809,Providence,Rhoda Island,41.8249,-71.4136
+Tallahassee,Florida,30.4381,-84.2809,Columbia,South Carolina,34.0007,-81.0343
+Tallahassee,Florida,30.4381,-84.2809,Pierre,South Dakoda,44.3684,-100.354
+Tallahassee,Florida,30.4381,-84.2809,Nashville,Tennessee,36.1622,-86.7744
+Tallahassee,Florida,30.4381,-84.2809,Austin,Texas,30.2711,-97.7437
+Tallahassee,Florida,30.4381,-84.2809,Salt Lake City,Utah,40.767,-111.8904
+Tallahassee,Florida,30.4381,-84.2809,Montpelier,Vermont,44.2604,-72.5757
+Tallahassee,Florida,30.4381,-84.2809,Richmond,Virginia,37.5385,-77.4343
+Tallahassee,Florida,30.4381,-84.2809,Olympia,Washington,47.0451,-122.895
+Tallahassee,Florida,30.4381,-84.2809,Charleston,West Virginia,38.3506,-81.6333
+Tallahassee,Florida,30.4381,-84.2809,Madison,Wisconsin,43.0748,-89.3838
+Tallahassee,Florida,30.4381,-84.2809,Cheyenne,Wyoming,41.14,-104.82
+Atlanta,Georgia,33.7491,-84.3902,Montgomery,Alabama,32.367,-86.3006
+Atlanta,Georgia,33.7491,-84.3902,Juneau,Alaska,58.3019,-134.4197
+Atlanta,Georgia,33.7491,-84.3902,Phoenix,Arizona,33.4486,-112.0773
+Atlanta,Georgia,33.7491,-84.3902,Little Rock,Arkansas,34.7465,-92.2896
+Atlanta,Georgia,33.7491,-84.3902,Sacramento,California,38.5816,-121.4944
+Atlanta,Georgia,33.7491,-84.3902,Denver,Colorado,39.7392,-104.9849
+Atlanta,Georgia,33.7491,-84.3902,Hartford,Connecticut,41.7646,-72.6909
+Atlanta,Georgia,33.7491,-84.3902,Dover,Delaware,39.1582,-75.5244
+Atlanta,Georgia,33.7491,-84.3902,Tallahassee,Florida,30.4381,-84.2809
+Atlanta,Georgia,33.7491,-84.3902,Atlanta,Georgia,33.7491,-84.3902
+Atlanta,Georgia,33.7491,-84.3902,Honolulu,Hawaii,21.3251,-157.8466
+Atlanta,Georgia,33.7491,-84.3902,Boise,Idaho,43.6166,-116.2008
+Atlanta,Georgia,33.7491,-84.3902,Springfield,Illinios,39.7997,-89.6475
+Atlanta,Georgia,33.7491,-84.3902,Indianapolis,Indiana,39.7683,-86.1584
+Atlanta,Georgia,33.7491,-84.3902,Des Monies,Iowa,41.5872,-93.6219
+Atlanta,Georgia,33.7491,-84.3902,Topeka,Kansas,39.049,-95.6776
+Atlanta,Georgia,33.7491,-84.3902,Frankfort,Kentucky,38.2009,-84.8733
+Atlanta,Georgia,33.7491,-84.3902,Baton Rouge,Louisiana,30.446,-91.1874
+Atlanta,Georgia,33.7491,-84.3902,Augusta,Maine,44.3106,-69.7797
+Atlanta,Georgia,33.7491,-84.3902,Annapolis,Maryland,38.9786,-76.4928
+Atlanta,Georgia,33.7491,-84.3902,Boston,Massachusetts,42.3603,-71.0583
+Atlanta,Georgia,33.7491,-84.3902,Lansing,Michigan,42.7338,-84.5554
+Atlanta,Georgia,33.7491,-84.3902,St. Paul,Minnesota,44.9504,-93.1015
+Atlanta,Georgia,33.7491,-84.3902,Jackson,Mississippi,32.299,-90.1848
+Atlanta,Georgia,33.7491,-84.3902,Jefferson City,Missouri,38.5774,-92.1724
+Atlanta,Georgia,33.7491,-84.3902,Helena,Montana,46.5927,-112.0361
+Atlanta,Georgia,33.7491,-84.3902,Lincoln,Nebraska,40.8,-96.6678
+Atlanta,Georgia,33.7491,-84.3902,Carson City,Neveda,39.1695,-119.766
+Atlanta,Georgia,33.7491,-84.3902,Concord,New Hampshire,43.2072,-71.5375
+Atlanta,Georgia,33.7491,-84.3902,Trenton,New Jersey,40.2171,-74.7429
+Atlanta,Georgia,33.7491,-84.3902,Santa Fe,New Mexico,35.687,-105.9378
+Atlanta,Georgia,33.7491,-84.3902,Albany,New York,42.6512,-73.755
+Atlanta,Georgia,33.7491,-84.3902,Raleigh,North Carolina,35.7804,-78.6391
+Atlanta,Georgia,33.7491,-84.3902,Bismarck,North Dakota,46.8083,-100.7837
+Atlanta,Georgia,33.7491,-84.3902,Columbus,Ohio,39.9623,-83.0007
+Atlanta,Georgia,33.7491,-84.3902,Oklahoma City,Oklahoma,35.473,-97.5171
+Atlanta,Georgia,33.7491,-84.3902,Salem,Oregon,44.9392,-123.0331
+Atlanta,Georgia,33.7491,-84.3902,Harrisburg,Pennsylvania,40.2663,-76.8861
+Atlanta,Georgia,33.7491,-84.3902,Providence,Rhoda Island,41.8249,-71.4136
+Atlanta,Georgia,33.7491,-84.3902,Columbia,South Carolina,34.0007,-81.0343
+Atlanta,Georgia,33.7491,-84.3902,Pierre,South Dakoda,44.3684,-100.354
+Atlanta,Georgia,33.7491,-84.3902,Nashville,Tennessee,36.1622,-86.7744
+Atlanta,Georgia,33.7491,-84.3902,Austin,Texas,30.2711,-97.7437
+Atlanta,Georgia,33.7491,-84.3902,Salt Lake City,Utah,40.767,-111.8904
+Atlanta,Georgia,33.7491,-84.3902,Montpelier,Vermont,44.2604,-72.5757
+Atlanta,Georgia,33.7491,-84.3902,Richmond,Virginia,37.5385,-77.4343
+Atlanta,Georgia,33.7491,-84.3902,Olympia,Washington,47.0451,-122.895
+Atlanta,Georgia,33.7491,-84.3902,Charleston,West Virginia,38.3506,-81.6333
+Atlanta,Georgia,33.7491,-84.3902,Madison,Wisconsin,43.0748,-89.3838
+Atlanta,Georgia,33.7491,-84.3902,Cheyenne,Wyoming,41.14,-104.82
+Honolulu,Hawaii,21.3251,-157.8466,Montgomery,Alabama,32.367,-86.3006
+Honolulu,Hawaii,21.3251,-157.8466,Juneau,Alaska,58.3019,-134.4197
+Honolulu,Hawaii,21.3251,-157.8466,Phoenix,Arizona,33.4486,-112.0773
+Honolulu,Hawaii,21.3251,-157.8466,Little Rock,Arkansas,34.7465,-92.2896
+Honolulu,Hawaii,21.3251,-157.8466,Sacramento,California,38.5816,-121.4944
+Honolulu,Hawaii,21.3251,-157.8466,Denver,Colorado,39.7392,-104.9849
+Honolulu,Hawaii,21.3251,-157.8466,Hartford,Connecticut,41.7646,-72.6909
+Honolulu,Hawaii,21.3251,-157.8466,Dover,Delaware,39.1582,-75.5244
+Honolulu,Hawaii,21.3251,-157.8466,Tallahassee,Florida,30.4381,-84.2809
+Honolulu,Hawaii,21.3251,-157.8466,Atlanta,Georgia,33.7491,-84.3902
+Honolulu,Hawaii,21.3251,-157.8466,Honolulu,Hawaii,21.3251,-157.8466
+Honolulu,Hawaii,21.3251,-157.8466,Boise,Idaho,43.6166,-116.2008
+Honolulu,Hawaii,21.3251,-157.8466,Springfield,Illinios,39.7997,-89.6475
+Honolulu,Hawaii,21.3251,-157.8466,Indianapolis,Indiana,39.7683,-86.1584
+Honolulu,Hawaii,21.3251,-157.8466,Des Monies,Iowa,41.5872,-93.6219
+Honolulu,Hawaii,21.3251,-157.8466,Topeka,Kansas,39.049,-95.6776
+Honolulu,Hawaii,21.3251,-157.8466,Frankfort,Kentucky,38.2009,-84.8733
+Honolulu,Hawaii,21.3251,-157.8466,Baton Rouge,Louisiana,30.446,-91.1874
+Honolulu,Hawaii,21.3251,-157.8466,Augusta,Maine,44.3106,-69.7797
+Honolulu,Hawaii,21.3251,-157.8466,Annapolis,Maryland,38.9786,-76.4928
+Honolulu,Hawaii,21.3251,-157.8466,Boston,Massachusetts,42.3603,-71.0583
+Honolulu,Hawaii,21.3251,-157.8466,Lansing,Michigan,42.7338,-84.5554
+Honolulu,Hawaii,21.3251,-157.8466,St. Paul,Minnesota,44.9504,-93.1015
+Honolulu,Hawaii,21.3251,-157.8466,Jackson,Mississippi,32.299,-90.1848
+Honolulu,Hawaii,21.3251,-157.8466,Jefferson City,Missouri,38.5774,-92.1724
+Honolulu,Hawaii,21.3251,-157.8466,Helena,Montana,46.5927,-112.0361
+Honolulu,Hawaii,21.3251,-157.8466,Lincoln,Nebraska,40.8,-96.6678
+Honolulu,Hawaii,21.3251,-157.8466,Carson City,Neveda,39.1695,-119.766
+Honolulu,Hawaii,21.3251,-157.8466,Concord,New Hampshire,43.2072,-71.5375
+Honolulu,Hawaii,21.3251,-157.8466,Trenton,New Jersey,40.2171,-74.7429
+Honolulu,Hawaii,21.3251,-157.8466,Santa Fe,New Mexico,35.687,-105.9378
+Honolulu,Hawaii,21.3251,-157.8466,Albany,New York,42.6512,-73.755
+Honolulu,Hawaii,21.3251,-157.8466,Raleigh,North Carolina,35.7804,-78.6391
+Honolulu,Hawaii,21.3251,-157.8466,Bismarck,North Dakota,46.8083,-100.7837
+Honolulu,Hawaii,21.3251,-157.8466,Columbus,Ohio,39.9623,-83.0007
+Honolulu,Hawaii,21.3251,-157.8466,Oklahoma City,Oklahoma,35.473,-97.5171
+Honolulu,Hawaii,21.3251,-157.8466,Salem,Oregon,44.9392,-123.0331
+Honolulu,Hawaii,21.3251,-157.8466,Harrisburg,Pennsylvania,40.2663,-76.8861
+Honolulu,Hawaii,21.3251,-157.8466,Providence,Rhoda Island,41.8249,-71.4136
+Honolulu,Hawaii,21.3251,-157.8466,Columbia,South Carolina,34.0007,-81.0343
+Honolulu,Hawaii,21.3251,-157.8466,Pierre,South Dakoda,44.3684,-100.354
+Honolulu,Hawaii,21.3251,-157.8466,Nashville,Tennessee,36.1622,-86.7744
+Honolulu,Hawaii,21.3251,-157.8466,Austin,Texas,30.2711,-97.7437
+Honolulu,Hawaii,21.3251,-157.8466,Salt Lake City,Utah,40.767,-111.8904
+Honolulu,Hawaii,21.3251,-157.8466,Montpelier,Vermont,44.2604,-72.5757
+Honolulu,Hawaii,21.3251,-157.8466,Richmond,Virginia,37.5385,-77.4343
+Honolulu,Hawaii,21.3251,-157.8466,Olympia,Washington,47.0451,-122.895
+Honolulu,Hawaii,21.3251,-157.8466,Charleston,West Virginia,38.3506,-81.6333
+Honolulu,Hawaii,21.3251,-157.8466,Madison,Wisconsin,43.0748,-89.3838
+Honolulu,Hawaii,21.3251,-157.8466,Cheyenne,Wyoming,41.14,-104.82
+Boise,Idaho,43.6166,-116.2008,Montgomery,Alabama,32.367,-86.3006
+Boise,Idaho,43.6166,-116.2008,Juneau,Alaska,58.3019,-134.4197
+Boise,Idaho,43.6166,-116.2008,Phoenix,Arizona,33.4486,-112.0773
+Boise,Idaho,43.6166,-116.2008,Little Rock,Arkansas,34.7465,-92.2896
+Boise,Idaho,43.6166,-116.2008,Sacramento,California,38.5816,-121.4944
+Boise,Idaho,43.6166,-116.2008,Denver,Colorado,39.7392,-104.9849
+Boise,Idaho,43.6166,-116.2008,Hartford,Connecticut,41.7646,-72.6909
+Boise,Idaho,43.6166,-116.2008,Dover,Delaware,39.1582,-75.5244
+Boise,Idaho,43.6166,-116.2008,Tallahassee,Florida,30.4381,-84.2809
+Boise,Idaho,43.6166,-116.2008,Atlanta,Georgia,33.7491,-84.3902
+Boise,Idaho,43.6166,-116.2008,Honolulu,Hawaii,21.3251,-157.8466
+Boise,Idaho,43.6166,-116.2008,Boise,Idaho,43.6166,-116.2008
+Boise,Idaho,43.6166,-116.2008,Springfield,Illinios,39.7997,-89.6475
+Boise,Idaho,43.6166,-116.2008,Indianapolis,Indiana,39.7683,-86.1584
+Boise,Idaho,43.6166,-116.2008,Des Monies,Iowa,41.5872,-93.6219
+Boise,Idaho,43.6166,-116.2008,Topeka,Kansas,39.049,-95.6776
+Boise,Idaho,43.6166,-116.2008,Frankfort,Kentucky,38.2009,-84.8733
+Boise,Idaho,43.6166,-116.2008,Baton Rouge,Louisiana,30.446,-91.1874
+Boise,Idaho,43.6166,-116.2008,Augusta,Maine,44.3106,-69.7797
+Boise,Idaho,43.6166,-116.2008,Annapolis,Maryland,38.9786,-76.4928
+Boise,Idaho,43.6166,-116.2008,Boston,Massachusetts,42.3603,-71.0583
+Boise,Idaho,43.6166,-116.2008,Lansing,Michigan,42.7338,-84.5554
+Boise,Idaho,43.6166,-116.2008,St. Paul,Minnesota,44.9504,-93.1015
+Boise,Idaho,43.6166,-116.2008,Jackson,Mississippi,32.299,-90.1848
+Boise,Idaho,43.6166,-116.2008,Jefferson City,Missouri,38.5774,-92.1724
+Boise,Idaho,43.6166,-116.2008,Helena,Montana,46.5927,-112.0361
+Boise,Idaho,43.6166,-116.2008,Lincoln,Nebraska,40.8,-96.6678
+Boise,Idaho,43.6166,-116.2008,Carson City,Neveda,39.1695,-119.766
+Boise,Idaho,43.6166,-116.2008,Concord,New Hampshire,43.2072,-71.5375
+Boise,Idaho,43.6166,-116.2008,Trenton,New Jersey,40.2171,-74.7429
+Boise,Idaho,43.6166,-116.2008,Santa Fe,New Mexico,35.687,-105.9378
+Boise,Idaho,43.6166,-116.2008,Albany,New York,42.6512,-73.755
+Boise,Idaho,43.6166,-116.2008,Raleigh,North Carolina,35.7804,-78.6391
+Boise,Idaho,43.6166,-116.2008,Bismarck,North Dakota,46.8083,-100.7837
+Boise,Idaho,43.6166,-116.2008,Columbus,Ohio,39.9623,-83.0007
+Boise,Idaho,43.6166,-116.2008,Oklahoma City,Oklahoma,35.473,-97.5171
+Boise,Idaho,43.6166,-116.2008,Salem,Oregon,44.9392,-123.0331
+Boise,Idaho,43.6166,-116.2008,Harrisburg,Pennsylvania,40.2663,-76.8861
+Boise,Idaho,43.6166,-116.2008,Providence,Rhoda Island,41.8249,-71.4136
+Boise,Idaho,43.6166,-116.2008,Columbia,South Carolina,34.0007,-81.0343
+Boise,Idaho,43.6166,-116.2008,Pierre,South Dakoda,44.3684,-100.354
+Boise,Idaho,43.6166,-116.2008,Nashville,Tennessee,36.1622,-86.7744
+Boise,Idaho,43.6166,-116.2008,Austin,Texas,30.2711,-97.7437
+Boise,Idaho,43.6166,-116.2008,Salt Lake City,Utah,40.767,-111.8904
+Boise,Idaho,43.6166,-116.2008,Montpelier,Vermont,44.2604,-72.5757
+Boise,Idaho,43.6166,-116.2008,Richmond,Virginia,37.5385,-77.4343
+Boise,Idaho,43.6166,-116.2008,Olympia,Washington,47.0451,-122.895
+Boise,Idaho,43.6166,-116.2008,Charleston,West Virginia,38.3506,-81.6333
+Boise,Idaho,43.6166,-116.2008,Madison,Wisconsin,43.0748,-89.3838
+Boise,Idaho,43.6166,-116.2008,Cheyenne,Wyoming,41.14,-104.82
+Springfield,Illinios,39.7997,-89.6475,Montgomery,Alabama,32.367,-86.3006
+Springfield,Illinios,39.7997,-89.6475,Juneau,Alaska,58.3019,-134.4197
+Springfield,Illinios,39.7997,-89.6475,Phoenix,Arizona,33.4486,-112.0773
+Springfield,Illinios,39.7997,-89.6475,Little Rock,Arkansas,34.7465,-92.2896
+Springfield,Illinios,39.7997,-89.6475,Sacramento,California,38.5816,-121.4944
+Springfield,Illinios,39.7997,-89.6475,Denver,Colorado,39.7392,-104.9849
+Springfield,Illinios,39.7997,-89.6475,Hartford,Connecticut,41.7646,-72.6909
+Springfield,Illinios,39.7997,-89.6475,Dover,Delaware,39.1582,-75.5244
+Springfield,Illinios,39.7997,-89.6475,Tallahassee,Florida,30.4381,-84.2809
+Springfield,Illinios,39.7997,-89.6475,Atlanta,Georgia,33.7491,-84.3902
+Springfield,Illinios,39.7997,-89.6475,Honolulu,Hawaii,21.3251,-157.8466
+Springfield,Illinios,39.7997,-89.6475,Boise,Idaho,43.6166,-116.2008
+Springfield,Illinios,39.7997,-89.6475,Springfield,Illinios,39.7997,-89.6475
+Springfield,Illinios,39.7997,-89.6475,Indianapolis,Indiana,39.7683,-86.1584
+Springfield,Illinios,39.7997,-89.6475,Des Monies,Iowa,41.5872,-93.6219
+Springfield,Illinios,39.7997,-89.6475,Topeka,Kansas,39.049,-95.6776
+Springfield,Illinios,39.7997,-89.6475,Frankfort,Kentucky,38.2009,-84.8733
+Springfield,Illinios,39.7997,-89.6475,Baton Rouge,Louisiana,30.446,-91.1874
+Springfield,Illinios,39.7997,-89.6475,Augusta,Maine,44.3106,-69.7797
+Springfield,Illinios,39.7997,-89.6475,Annapolis,Maryland,38.9786,-76.4928
+Springfield,Illinios,39.7997,-89.6475,Boston,Massachusetts,42.3603,-71.0583
+Springfield,Illinios,39.7997,-89.6475,Lansing,Michigan,42.7338,-84.5554
+Springfield,Illinios,39.7997,-89.6475,St. Paul,Minnesota,44.9504,-93.1015
+Springfield,Illinios,39.7997,-89.6475,Jackson,Mississippi,32.299,-90.1848
+Springfield,Illinios,39.7997,-89.6475,Jefferson City,Missouri,38.5774,-92.1724
+Springfield,Illinios,39.7997,-89.6475,Helena,Montana,46.5927,-112.0361
+Springfield,Illinios,39.7997,-89.6475,Lincoln,Nebraska,40.8,-96.6678
+Springfield,Illinios,39.7997,-89.6475,Carson City,Neveda,39.1695,-119.766
+Springfield,Illinios,39.7997,-89.6475,Concord,New Hampshire,43.2072,-71.5375
+Springfield,Illinios,39.7997,-89.6475,Trenton,New Jersey,40.2171,-74.7429
+Springfield,Illinios,39.7997,-89.6475,Santa Fe,New Mexico,35.687,-105.9378
+Springfield,Illinios,39.7997,-89.6475,Albany,New York,42.6512,-73.755
+Springfield,Illinios,39.7997,-89.6475,Raleigh,North Carolina,35.7804,-78.6391
+Springfield,Illinios,39.7997,-89.6475,Bismarck,North Dakota,46.8083,-100.7837
+Springfield,Illinios,39.7997,-89.6475,Columbus,Ohio,39.9623,-83.0007
+Springfield,Illinios,39.7997,-89.6475,Oklahoma City,Oklahoma,35.473,-97.5171
+Springfield,Illinios,39.7997,-89.6475,Salem,Oregon,44.9392,-123.0331
+Springfield,Illinios,39.7997,-89.6475,Harrisburg,Pennsylvania,40.2663,-76.8861
+Springfield,Illinios,39.7997,-89.6475,Providence,Rhoda Island,41.8249,-71.4136
+Springfield,Illinios,39.7997,-89.6475,Columbia,South Carolina,34.0007,-81.0343
+Springfield,Illinios,39.7997,-89.6475,Pierre,South Dakoda,44.3684,-100.354
+Springfield,Illinios,39.7997,-89.6475,Nashville,Tennessee,36.1622,-86.7744
+Springfield,Illinios,39.7997,-89.6475,Austin,Texas,30.2711,-97.7437
+Springfield,Illinios,39.7997,-89.6475,Salt Lake City,Utah,40.767,-111.8904
+Springfield,Illinios,39.7997,-89.6475,Montpelier,Vermont,44.2604,-72.5757
+Springfield,Illinios,39.7997,-89.6475,Richmond,Virginia,37.5385,-77.4343
+Springfield,Illinios,39.7997,-89.6475,Olympia,Washington,47.0451,-122.895
+Springfield,Illinios,39.7997,-89.6475,Charleston,West Virginia,38.3506,-81.6333
+Springfield,Illinios,39.7997,-89.6475,Madison,Wisconsin,43.0748,-89.3838
+Springfield,Illinios,39.7997,-89.6475,Cheyenne,Wyoming,41.14,-104.82
+Indianapolis,Indiana,39.7683,-86.1584,Montgomery,Alabama,32.367,-86.3006
+Indianapolis,Indiana,39.7683,-86.1584,Juneau,Alaska,58.3019,-134.4197
+Indianapolis,Indiana,39.7683,-86.1584,Phoenix,Arizona,33.4486,-112.0773
+Indianapolis,Indiana,39.7683,-86.1584,Little Rock,Arkansas,34.7465,-92.2896
+Indianapolis,Indiana,39.7683,-86.1584,Sacramento,California,38.5816,-121.4944
+Indianapolis,Indiana,39.7683,-86.1584,Denver,Colorado,39.7392,-104.9849
+Indianapolis,Indiana,39.7683,-86.1584,Hartford,Connecticut,41.7646,-72.6909
+Indianapolis,Indiana,39.7683,-86.1584,Dover,Delaware,39.1582,-75.5244
+Indianapolis,Indiana,39.7683,-86.1584,Tallahassee,Florida,30.4381,-84.2809
+Indianapolis,Indiana,39.7683,-86.1584,Atlanta,Georgia,33.7491,-84.3902
+Indianapolis,Indiana,39.7683,-86.1584,Honolulu,Hawaii,21.3251,-157.8466
+Indianapolis,Indiana,39.7683,-86.1584,Boise,Idaho,43.6166,-116.2008
+Indianapolis,Indiana,39.7683,-86.1584,Springfield,Illinios,39.7997,-89.6475
+Indianapolis,Indiana,39.7683,-86.1584,Indianapolis,Indiana,39.7683,-86.1584
+Indianapolis,Indiana,39.7683,-86.1584,Des Monies,Iowa,41.5872,-93.6219
+Indianapolis,Indiana,39.7683,-86.1584,Topeka,Kansas,39.049,-95.6776
+Indianapolis,Indiana,39.7683,-86.1584,Frankfort,Kentucky,38.2009,-84.8733
+Indianapolis,Indiana,39.7683,-86.1584,Baton Rouge,Louisiana,30.446,-91.1874
+Indianapolis,Indiana,39.7683,-86.1584,Augusta,Maine,44.3106,-69.7797
+Indianapolis,Indiana,39.7683,-86.1584,Annapolis,Maryland,38.9786,-76.4928
+Indianapolis,Indiana,39.7683,-86.1584,Boston,Massachusetts,42.3603,-71.0583
+Indianapolis,Indiana,39.7683,-86.1584,Lansing,Michigan,42.7338,-84.5554
+Indianapolis,Indiana,39.7683,-86.1584,St. Paul,Minnesota,44.9504,-93.1015
+Indianapolis,Indiana,39.7683,-86.1584,Jackson,Mississippi,32.299,-90.1848
+Indianapolis,Indiana,39.7683,-86.1584,Jefferson City,Missouri,38.5774,-92.1724
+Indianapolis,Indiana,39.7683,-86.1584,Helena,Montana,46.5927,-112.0361
+Indianapolis,Indiana,39.7683,-86.1584,Lincoln,Nebraska,40.8,-96.6678
+Indianapolis,Indiana,39.7683,-86.1584,Carson City,Neveda,39.1695,-119.766
+Indianapolis,Indiana,39.7683,-86.1584,Concord,New Hampshire,43.2072,-71.5375
+Indianapolis,Indiana,39.7683,-86.1584,Trenton,New Jersey,40.2171,-74.7429
+Indianapolis,Indiana,39.7683,-86.1584,Santa Fe,New Mexico,35.687,-105.9378
+Indianapolis,Indiana,39.7683,-86.1584,Albany,New York,42.6512,-73.755
+Indianapolis,Indiana,39.7683,-86.1584,Raleigh,North Carolina,35.7804,-78.6391
+Indianapolis,Indiana,39.7683,-86.1584,Bismarck,North Dakota,46.8083,-100.7837
+Indianapolis,Indiana,39.7683,-86.1584,Columbus,Ohio,39.9623,-83.0007
+Indianapolis,Indiana,39.7683,-86.1584,Oklahoma City,Oklahoma,35.473,-97.5171
+Indianapolis,Indiana,39.7683,-86.1584,Salem,Oregon,44.9392,-123.0331
+Indianapolis,Indiana,39.7683,-86.1584,Harrisburg,Pennsylvania,40.2663,-76.8861
+Indianapolis,Indiana,39.7683,-86.1584,Providence,Rhoda Island,41.8249,-71.4136
+Indianapolis,Indiana,39.7683,-86.1584,Columbia,South Carolina,34.0007,-81.0343
+Indianapolis,Indiana,39.7683,-86.1584,Pierre,South Dakoda,44.3684,-100.354
+Indianapolis,Indiana,39.7683,-86.1584,Nashville,Tennessee,36.1622,-86.7744
+Indianapolis,Indiana,39.7683,-86.1584,Austin,Texas,30.2711,-97.7437
+Indianapolis,Indiana,39.7683,-86.1584,Salt Lake City,Utah,40.767,-111.8904
+Indianapolis,Indiana,39.7683,-86.1584,Montpelier,Vermont,44.2604,-72.5757
+Indianapolis,Indiana,39.7683,-86.1584,Richmond,Virginia,37.5385,-77.4343
+Indianapolis,Indiana,39.7683,-86.1584,Olympia,Washington,47.0451,-122.895
+Indianapolis,Indiana,39.7683,-86.1584,Charleston,West Virginia,38.3506,-81.6333
+Indianapolis,Indiana,39.7683,-86.1584,Madison,Wisconsin,43.0748,-89.3838
+Indianapolis,Indiana,39.7683,-86.1584,Cheyenne,Wyoming,41.14,-104.82
+Des Monies,Iowa,41.5872,-93.6219,Montgomery,Alabama,32.367,-86.3006
+Des Monies,Iowa,41.5872,-93.6219,Juneau,Alaska,58.3019,-134.4197
+Des Monies,Iowa,41.5872,-93.6219,Phoenix,Arizona,33.4486,-112.0773
+Des Monies,Iowa,41.5872,-93.6219,Little Rock,Arkansas,34.7465,-92.2896
+Des Monies,Iowa,41.5872,-93.6219,Sacramento,California,38.5816,-121.4944
+Des Monies,Iowa,41.5872,-93.6219,Denver,Colorado,39.7392,-104.9849
+Des Monies,Iowa,41.5872,-93.6219,Hartford,Connecticut,41.7646,-72.6909
+Des Monies,Iowa,41.5872,-93.6219,Dover,Delaware,39.1582,-75.5244
+Des Monies,Iowa,41.5872,-93.6219,Tallahassee,Florida,30.4381,-84.2809
+Des Monies,Iowa,41.5872,-93.6219,Atlanta,Georgia,33.7491,-84.3902
+Des Monies,Iowa,41.5872,-93.6219,Honolulu,Hawaii,21.3251,-157.8466
+Des Monies,Iowa,41.5872,-93.6219,Boise,Idaho,43.6166,-116.2008
+Des Monies,Iowa,41.5872,-93.6219,Springfield,Illinios,39.7997,-89.6475
+Des Monies,Iowa,41.5872,-93.6219,Indianapolis,Indiana,39.7683,-86.1584
+Des Monies,Iowa,41.5872,-93.6219,Des Monies,Iowa,41.5872,-93.6219
+Des Monies,Iowa,41.5872,-93.6219,Topeka,Kansas,39.049,-95.6776
+Des Monies,Iowa,41.5872,-93.6219,Frankfort,Kentucky,38.2009,-84.8733
+Des Monies,Iowa,41.5872,-93.6219,Baton Rouge,Louisiana,30.446,-91.1874
+Des Monies,Iowa,41.5872,-93.6219,Augusta,Maine,44.3106,-69.7797
+Des Monies,Iowa,41.5872,-93.6219,Annapolis,Maryland,38.9786,-76.4928
+Des Monies,Iowa,41.5872,-93.6219,Boston,Massachusetts,42.3603,-71.0583
+Des Monies,Iowa,41.5872,-93.6219,Lansing,Michigan,42.7338,-84.5554
+Des Monies,Iowa,41.5872,-93.6219,St. Paul,Minnesota,44.9504,-93.1015
+Des Monies,Iowa,41.5872,-93.6219,Jackson,Mississippi,32.299,-90.1848
+Des Monies,Iowa,41.5872,-93.6219,Jefferson City,Missouri,38.5774,-92.1724
+Des Monies,Iowa,41.5872,-93.6219,Helena,Montana,46.5927,-112.0361
+Des Monies,Iowa,41.5872,-93.6219,Lincoln,Nebraska,40.8,-96.6678
+Des Monies,Iowa,41.5872,-93.6219,Carson City,Neveda,39.1695,-119.766
+Des Monies,Iowa,41.5872,-93.6219,Concord,New Hampshire,43.2072,-71.5375
+Des Monies,Iowa,41.5872,-93.6219,Trenton,New Jersey,40.2171,-74.7429
+Des Monies,Iowa,41.5872,-93.6219,Santa Fe,New Mexico,35.687,-105.9378
+Des Monies,Iowa,41.5872,-93.6219,Albany,New York,42.6512,-73.755
+Des Monies,Iowa,41.5872,-93.6219,Raleigh,North Carolina,35.7804,-78.6391
+Des Monies,Iowa,41.5872,-93.6219,Bismarck,North Dakota,46.8083,-100.7837
+Des Monies,Iowa,41.5872,-93.6219,Columbus,Ohio,39.9623,-83.0007
+Des Monies,Iowa,41.5872,-93.6219,Oklahoma City,Oklahoma,35.473,-97.5171
+Des Monies,Iowa,41.5872,-93.6219,Salem,Oregon,44.9392,-123.0331
+Des Monies,Iowa,41.5872,-93.6219,Harrisburg,Pennsylvania,40.2663,-76.8861
+Des Monies,Iowa,41.5872,-93.6219,Providence,Rhoda Island,41.8249,-71.4136
+Des Monies,Iowa,41.5872,-93.6219,Columbia,South Carolina,34.0007,-81.0343
+Des Monies,Iowa,41.5872,-93.6219,Pierre,South Dakoda,44.3684,-100.354
+Des Monies,Iowa,41.5872,-93.6219,Nashville,Tennessee,36.1622,-86.7744
+Des Monies,Iowa,41.5872,-93.6219,Austin,Texas,30.2711,-97.7437
+Des Monies,Iowa,41.5872,-93.6219,Salt Lake City,Utah,40.767,-111.8904
+Des Monies,Iowa,41.5872,-93.6219,Montpelier,Vermont,44.2604,-72.5757
+Des Monies,Iowa,41.5872,-93.6219,Richmond,Virginia,37.5385,-77.4343
+Des Monies,Iowa,41.5872,-93.6219,Olympia,Washington,47.0451,-122.895
+Des Monies,Iowa,41.5872,-93.6219,Charleston,West Virginia,38.3506,-81.6333
+Des Monies,Iowa,41.5872,-93.6219,Madison,Wisconsin,43.0748,-89.3838
+Des Monies,Iowa,41.5872,-93.6219,Cheyenne,Wyoming,41.14,-104.82
+Topeka,Kansas,39.049,-95.6776,Montgomery,Alabama,32.367,-86.3006
+Topeka,Kansas,39.049,-95.6776,Juneau,Alaska,58.3019,-134.4197
+Topeka,Kansas,39.049,-95.6776,Phoenix,Arizona,33.4486,-112.0773
+Topeka,Kansas,39.049,-95.6776,Little Rock,Arkansas,34.7465,-92.2896
+Topeka,Kansas,39.049,-95.6776,Sacramento,California,38.5816,-121.4944
+Topeka,Kansas,39.049,-95.6776,Denver,Colorado,39.7392,-104.9849
+Topeka,Kansas,39.049,-95.6776,Hartford,Connecticut,41.7646,-72.6909
+Topeka,Kansas,39.049,-95.6776,Dover,Delaware,39.1582,-75.5244
+Topeka,Kansas,39.049,-95.6776,Tallahassee,Florida,30.4381,-84.2809
+Topeka,Kansas,39.049,-95.6776,Atlanta,Georgia,33.7491,-84.3902
+Topeka,Kansas,39.049,-95.6776,Honolulu,Hawaii,21.3251,-157.8466
+Topeka,Kansas,39.049,-95.6776,Boise,Idaho,43.6166,-116.2008
+Topeka,Kansas,39.049,-95.6776,Springfield,Illinios,39.7997,-89.6475
+Topeka,Kansas,39.049,-95.6776,Indianapolis,Indiana,39.7683,-86.1584
+Topeka,Kansas,39.049,-95.6776,Des Monies,Iowa,41.5872,-93.6219
+Topeka,Kansas,39.049,-95.6776,Topeka,Kansas,39.049,-95.6776
+Topeka,Kansas,39.049,-95.6776,Frankfort,Kentucky,38.2009,-84.8733
+Topeka,Kansas,39.049,-95.6776,Baton Rouge,Louisiana,30.446,-91.1874
+Topeka,Kansas,39.049,-95.6776,Augusta,Maine,44.3106,-69.7797
+Topeka,Kansas,39.049,-95.6776,Annapolis,Maryland,38.9786,-76.4928
+Topeka,Kansas,39.049,-95.6776,Boston,Massachusetts,42.3603,-71.0583
+Topeka,Kansas,39.049,-95.6776,Lansing,Michigan,42.7338,-84.5554
+Topeka,Kansas,39.049,-95.6776,St. Paul,Minnesota,44.9504,-93.1015
+Topeka,Kansas,39.049,-95.6776,Jackson,Mississippi,32.299,-90.1848
+Topeka,Kansas,39.049,-95.6776,Jefferson City,Missouri,38.5774,-92.1724
+Topeka,Kansas,39.049,-95.6776,Helena,Montana,46.5927,-112.0361
+Topeka,Kansas,39.049,-95.6776,Lincoln,Nebraska,40.8,-96.6678
+Topeka,Kansas,39.049,-95.6776,Carson City,Neveda,39.1695,-119.766
+Topeka,Kansas,39.049,-95.6776,Concord,New Hampshire,43.2072,-71.5375
+Topeka,Kansas,39.049,-95.6776,Trenton,New Jersey,40.2171,-74.7429
+Topeka,Kansas,39.049,-95.6776,Santa Fe,New Mexico,35.687,-105.9378
+Topeka,Kansas,39.049,-95.6776,Albany,New York,42.6512,-73.755
+Topeka,Kansas,39.049,-95.6776,Raleigh,North Carolina,35.7804,-78.6391
+Topeka,Kansas,39.049,-95.6776,Bismarck,North Dakota,46.8083,-100.7837
+Topeka,Kansas,39.049,-95.6776,Columbus,Ohio,39.9623,-83.0007
+Topeka,Kansas,39.049,-95.6776,Oklahoma City,Oklahoma,35.473,-97.5171
+Topeka,Kansas,39.049,-95.6776,Salem,Oregon,44.9392,-123.0331
+Topeka,Kansas,39.049,-95.6776,Harrisburg,Pennsylvania,40.2663,-76.8861
+Topeka,Kansas,39.049,-95.6776,Providence,Rhoda Island,41.8249,-71.4136
+Topeka,Kansas,39.049,-95.6776,Columbia,South Carolina,34.0007,-81.0343
+Topeka,Kansas,39.049,-95.6776,Pierre,South Dakoda,44.3684,-100.354
+Topeka,Kansas,39.049,-95.6776,Nashville,Tennessee,36.1622,-86.7744
+Topeka,Kansas,39.049,-95.6776,Austin,Texas,30.2711,-97.7437
+Topeka,Kansas,39.049,-95.6776,Salt Lake City,Utah,40.767,-111.8904
+Topeka,Kansas,39.049,-95.6776,Montpelier,Vermont,44.2604,-72.5757
+Topeka,Kansas,39.049,-95.6776,Richmond,Virginia,37.5385,-77.4343
+Topeka,Kansas,39.049,-95.6776,Olympia,Washington,47.0451,-122.895
+Topeka,Kansas,39.049,-95.6776,Charleston,West Virginia,38.3506,-81.6333
+Topeka,Kansas,39.049,-95.6776,Madison,Wisconsin,43.0748,-89.3838
+Topeka,Kansas,39.049,-95.6776,Cheyenne,Wyoming,41.14,-104.82
+Frankfort,Kentucky,38.2009,-84.8733,Montgomery,Alabama,32.367,-86.3006
+Frankfort,Kentucky,38.2009,-84.8733,Juneau,Alaska,58.3019,-134.4197
+Frankfort,Kentucky,38.2009,-84.8733,Phoenix,Arizona,33.4486,-112.0773
+Frankfort,Kentucky,38.2009,-84.8733,Little Rock,Arkansas,34.7465,-92.2896
+Frankfort,Kentucky,38.2009,-84.8733,Sacramento,California,38.5816,-121.4944
+Frankfort,Kentucky,38.2009,-84.8733,Denver,Colorado,39.7392,-104.9849
+Frankfort,Kentucky,38.2009,-84.8733,Hartford,Connecticut,41.7646,-72.6909
+Frankfort,Kentucky,38.2009,-84.8733,Dover,Delaware,39.1582,-75.5244
+Frankfort,Kentucky,38.2009,-84.8733,Tallahassee,Florida,30.4381,-84.2809
+Frankfort,Kentucky,38.2009,-84.8733,Atlanta,Georgia,33.7491,-84.3902
+Frankfort,Kentucky,38.2009,-84.8733,Honolulu,Hawaii,21.3251,-157.8466
+Frankfort,Kentucky,38.2009,-84.8733,Boise,Idaho,43.6166,-116.2008
+Frankfort,Kentucky,38.2009,-84.8733,Springfield,Illinios,39.7997,-89.6475
+Frankfort,Kentucky,38.2009,-84.8733,Indianapolis,Indiana,39.7683,-86.1584
+Frankfort,Kentucky,38.2009,-84.8733,Des Monies,Iowa,41.5872,-93.6219
+Frankfort,Kentucky,38.2009,-84.8733,Topeka,Kansas,39.049,-95.6776
+Frankfort,Kentucky,38.2009,-84.8733,Frankfort,Kentucky,38.2009,-84.8733
+Frankfort,Kentucky,38.2009,-84.8733,Baton Rouge,Louisiana,30.446,-91.1874
+Frankfort,Kentucky,38.2009,-84.8733,Augusta,Maine,44.3106,-69.7797
+Frankfort,Kentucky,38.2009,-84.8733,Annapolis,Maryland,38.9786,-76.4928
+Frankfort,Kentucky,38.2009,-84.8733,Boston,Massachusetts,42.3603,-71.0583
+Frankfort,Kentucky,38.2009,-84.8733,Lansing,Michigan,42.7338,-84.5554
+Frankfort,Kentucky,38.2009,-84.8733,St. Paul,Minnesota,44.9504,-93.1015
+Frankfort,Kentucky,38.2009,-84.8733,Jackson,Mississippi,32.299,-90.1848
+Frankfort,Kentucky,38.2009,-84.8733,Jefferson City,Missouri,38.5774,-92.1724
+Frankfort,Kentucky,38.2009,-84.8733,Helena,Montana,46.5927,-112.0361
+Frankfort,Kentucky,38.2009,-84.8733,Lincoln,Nebraska,40.8,-96.6678
+Frankfort,Kentucky,38.2009,-84.8733,Carson City,Neveda,39.1695,-119.766
+Frankfort,Kentucky,38.2009,-84.8733,Concord,New Hampshire,43.2072,-71.5375
+Frankfort,Kentucky,38.2009,-84.8733,Trenton,New Jersey,40.2171,-74.7429
+Frankfort,Kentucky,38.2009,-84.8733,Santa Fe,New Mexico,35.687,-105.9378
+Frankfort,Kentucky,38.2009,-84.8733,Albany,New York,42.6512,-73.755
+Frankfort,Kentucky,38.2009,-84.8733,Raleigh,North Carolina,35.7804,-78.6391
+Frankfort,Kentucky,38.2009,-84.8733,Bismarck,North Dakota,46.8083,-100.7837
+Frankfort,Kentucky,38.2009,-84.8733,Columbus,Ohio,39.9623,-83.0007
+Frankfort,Kentucky,38.2009,-84.8733,Oklahoma City,Oklahoma,35.473,-97.5171
+Frankfort,Kentucky,38.2009,-84.8733,Salem,Oregon,44.9392,-123.0331
+Frankfort,Kentucky,38.2009,-84.8733,Harrisburg,Pennsylvania,40.2663,-76.8861
+Frankfort,Kentucky,38.2009,-84.8733,Providence,Rhoda Island,41.8249,-71.4136
+Frankfort,Kentucky,38.2009,-84.8733,Columbia,South Carolina,34.0007,-81.0343
+Frankfort,Kentucky,38.2009,-84.8733,Pierre,South Dakoda,44.3684,-100.354
+Frankfort,Kentucky,38.2009,-84.8733,Nashville,Tennessee,36.1622,-86.7744
+Frankfort,Kentucky,38.2009,-84.8733,Austin,Texas,30.2711,-97.7437
+Frankfort,Kentucky,38.2009,-84.8733,Salt Lake City,Utah,40.767,-111.8904
+Frankfort,Kentucky,38.2009,-84.8733,Montpelier,Vermont,44.2604,-72.5757
+Frankfort,Kentucky,38.2009,-84.8733,Richmond,Virginia,37.5385,-77.4343
+Frankfort,Kentucky,38.2009,-84.8733,Olympia,Washington,47.0451,-122.895
+Frankfort,Kentucky,38.2009,-84.8733,Charleston,West Virginia,38.3506,-81.6333
+Frankfort,Kentucky,38.2009,-84.8733,Madison,Wisconsin,43.0748,-89.3838
+Frankfort,Kentucky,38.2009,-84.8733,Cheyenne,Wyoming,41.14,-104.82
+Baton Rouge,Louisiana,30.446,-91.1874,Montgomery,Alabama,32.367,-86.3006
+Baton Rouge,Louisiana,30.446,-91.1874,Juneau,Alaska,58.3019,-134.4197
+Baton Rouge,Louisiana,30.446,-91.1874,Phoenix,Arizona,33.4486,-112.0773
+Baton Rouge,Louisiana,30.446,-91.1874,Little Rock,Arkansas,34.7465,-92.2896
+Baton Rouge,Louisiana,30.446,-91.1874,Sacramento,California,38.5816,-121.4944
+Baton Rouge,Louisiana,30.446,-91.1874,Denver,Colorado,39.7392,-104.9849
+Baton Rouge,Louisiana,30.446,-91.1874,Hartford,Connecticut,41.7646,-72.6909
+Baton Rouge,Louisiana,30.446,-91.1874,Dover,Delaware,39.1582,-75.5244
+Baton Rouge,Louisiana,30.446,-91.1874,Tallahassee,Florida,30.4381,-84.2809
+Baton Rouge,Louisiana,30.446,-91.1874,Atlanta,Georgia,33.7491,-84.3902
+Baton Rouge,Louisiana,30.446,-91.1874,Honolulu,Hawaii,21.3251,-157.8466
+Baton Rouge,Louisiana,30.446,-91.1874,Boise,Idaho,43.6166,-116.2008
+Baton Rouge,Louisiana,30.446,-91.1874,Springfield,Illinios,39.7997,-89.6475
+Baton Rouge,Louisiana,30.446,-91.1874,Indianapolis,Indiana,39.7683,-86.1584
+Baton Rouge,Louisiana,30.446,-91.1874,Des Monies,Iowa,41.5872,-93.6219
+Baton Rouge,Louisiana,30.446,-91.1874,Topeka,Kansas,39.049,-95.6776
+Baton Rouge,Louisiana,30.446,-91.1874,Frankfort,Kentucky,38.2009,-84.8733
+Baton Rouge,Louisiana,30.446,-91.1874,Baton Rouge,Louisiana,30.446,-91.1874
+Baton Rouge,Louisiana,30.446,-91.1874,Augusta,Maine,44.3106,-69.7797
+Baton Rouge,Louisiana,30.446,-91.1874,Annapolis,Maryland,38.9786,-76.4928
+Baton Rouge,Louisiana,30.446,-91.1874,Boston,Massachusetts,42.3603,-71.0583
+Baton Rouge,Louisiana,30.446,-91.1874,Lansing,Michigan,42.7338,-84.5554
+Baton Rouge,Louisiana,30.446,-91.1874,St. Paul,Minnesota,44.9504,-93.1015
+Baton Rouge,Louisiana,30.446,-91.1874,Jackson,Mississippi,32.299,-90.1848
+Baton Rouge,Louisiana,30.446,-91.1874,Jefferson City,Missouri,38.5774,-92.1724
+Baton Rouge,Louisiana,30.446,-91.1874,Helena,Montana,46.5927,-112.0361
+Baton Rouge,Louisiana,30.446,-91.1874,Lincoln,Nebraska,40.8,-96.6678
+Baton Rouge,Louisiana,30.446,-91.1874,Carson City,Neveda,39.1695,-119.766
+Baton Rouge,Louisiana,30.446,-91.1874,Concord,New Hampshire,43.2072,-71.5375
+Baton Rouge,Louisiana,30.446,-91.1874,Trenton,New Jersey,40.2171,-74.7429
+Baton Rouge,Louisiana,30.446,-91.1874,Santa Fe,New Mexico,35.687,-105.9378
+Baton Rouge,Louisiana,30.446,-91.1874,Albany,New York,42.6512,-73.755
+Baton Rouge,Louisiana,30.446,-91.1874,Raleigh,North Carolina,35.7804,-78.6391
+Baton Rouge,Louisiana,30.446,-91.1874,Bismarck,North Dakota,46.8083,-100.7837
+Baton Rouge,Louisiana,30.446,-91.1874,Columbus,Ohio,39.9623,-83.0007
+Baton Rouge,Louisiana,30.446,-91.1874,Oklahoma City,Oklahoma,35.473,-97.5171
+Baton Rouge,Louisiana,30.446,-91.1874,Salem,Oregon,44.9392,-123.0331
+Baton Rouge,Louisiana,30.446,-91.1874,Harrisburg,Pennsylvania,40.2663,-76.8861
+Baton Rouge,Louisiana,30.446,-91.1874,Providence,Rhoda Island,41.8249,-71.4136
+Baton Rouge,Louisiana,30.446,-91.1874,Columbia,South Carolina,34.0007,-81.0343
+Baton Rouge,Louisiana,30.446,-91.1874,Pierre,South Dakoda,44.3684,-100.354
+Baton Rouge,Louisiana,30.446,-91.1874,Nashville,Tennessee,36.1622,-86.7744
+Baton Rouge,Louisiana,30.446,-91.1874,Austin,Texas,30.2711,-97.7437
+Baton Rouge,Louisiana,30.446,-91.1874,Salt Lake City,Utah,40.767,-111.8904
+Baton Rouge,Louisiana,30.446,-91.1874,Montpelier,Vermont,44.2604,-72.5757
+Baton Rouge,Louisiana,30.446,-91.1874,Richmond,Virginia,37.5385,-77.4343
+Baton Rouge,Louisiana,30.446,-91.1874,Olympia,Washington,47.0451,-122.895
+Baton Rouge,Louisiana,30.446,-91.1874,Charleston,West Virginia,38.3506,-81.6333
+Baton Rouge,Louisiana,30.446,-91.1874,Madison,Wisconsin,43.0748,-89.3838
+Baton Rouge,Louisiana,30.446,-91.1874,Cheyenne,Wyoming,41.14,-104.82
+Augusta,Maine,44.3106,-69.7797,Montgomery,Alabama,32.367,-86.3006
+Augusta,Maine,44.3106,-69.7797,Juneau,Alaska,58.3019,-134.4197
+Augusta,Maine,44.3106,-69.7797,Phoenix,Arizona,33.4486,-112.0773
+Augusta,Maine,44.3106,-69.7797,Little Rock,Arkansas,34.7465,-92.2896
+Augusta,Maine,44.3106,-69.7797,Sacramento,California,38.5816,-121.4944
+Augusta,Maine,44.3106,-69.7797,Denver,Colorado,39.7392,-104.9849
+Augusta,Maine,44.3106,-69.7797,Hartford,Connecticut,41.7646,-72.6909
+Augusta,Maine,44.3106,-69.7797,Dover,Delaware,39.1582,-75.5244
+Augusta,Maine,44.3106,-69.7797,Tallahassee,Florida,30.4381,-84.2809
+Augusta,Maine,44.3106,-69.7797,Atlanta,Georgia,33.7491,-84.3902
+Augusta,Maine,44.3106,-69.7797,Honolulu,Hawaii,21.3251,-157.8466
+Augusta,Maine,44.3106,-69.7797,Boise,Idaho,43.6166,-116.2008
+Augusta,Maine,44.3106,-69.7797,Springfield,Illinios,39.7997,-89.6475
+Augusta,Maine,44.3106,-69.7797,Indianapolis,Indiana,39.7683,-86.1584
+Augusta,Maine,44.3106,-69.7797,Des Monies,Iowa,41.5872,-93.6219
+Augusta,Maine,44.3106,-69.7797,Topeka,Kansas,39.049,-95.6776
+Augusta,Maine,44.3106,-69.7797,Frankfort,Kentucky,38.2009,-84.8733
+Augusta,Maine,44.3106,-69.7797,Baton Rouge,Louisiana,30.446,-91.1874
+Augusta,Maine,44.3106,-69.7797,Augusta,Maine,44.3106,-69.7797
+Augusta,Maine,44.3106,-69.7797,Annapolis,Maryland,38.9786,-76.4928
+Augusta,Maine,44.3106,-69.7797,Boston,Massachusetts,42.3603,-71.0583
+Augusta,Maine,44.3106,-69.7797,Lansing,Michigan,42.7338,-84.5554
+Augusta,Maine,44.3106,-69.7797,St. Paul,Minnesota,44.9504,-93.1015
+Augusta,Maine,44.3106,-69.7797,Jackson,Mississippi,32.299,-90.1848
+Augusta,Maine,44.3106,-69.7797,Jefferson City,Missouri,38.5774,-92.1724
+Augusta,Maine,44.3106,-69.7797,Helena,Montana,46.5927,-112.0361
+Augusta,Maine,44.3106,-69.7797,Lincoln,Nebraska,40.8,-96.6678
+Augusta,Maine,44.3106,-69.7797,Carson City,Neveda,39.1695,-119.766
+Augusta,Maine,44.3106,-69.7797,Concord,New Hampshire,43.2072,-71.5375
+Augusta,Maine,44.3106,-69.7797,Trenton,New Jersey,40.2171,-74.7429
+Augusta,Maine,44.3106,-69.7797,Santa Fe,New Mexico,35.687,-105.9378
+Augusta,Maine,44.3106,-69.7797,Albany,New York,42.6512,-73.755
+Augusta,Maine,44.3106,-69.7797,Raleigh,North Carolina,35.7804,-78.6391
+Augusta,Maine,44.3106,-69.7797,Bismarck,North Dakota,46.8083,-100.7837
+Augusta,Maine,44.3106,-69.7797,Columbus,Ohio,39.9623,-83.0007
+Augusta,Maine,44.3106,-69.7797,Oklahoma City,Oklahoma,35.473,-97.5171
+Augusta,Maine,44.3106,-69.7797,Salem,Oregon,44.9392,-123.0331
+Augusta,Maine,44.3106,-69.7797,Harrisburg,Pennsylvania,40.2663,-76.8861
+Augusta,Maine,44.3106,-69.7797,Providence,Rhoda Island,41.8249,-71.4136
+Augusta,Maine,44.3106,-69.7797,Columbia,South Carolina,34.0007,-81.0343
+Augusta,Maine,44.3106,-69.7797,Pierre,South Dakoda,44.3684,-100.354
+Augusta,Maine,44.3106,-69.7797,Nashville,Tennessee,36.1622,-86.7744
+Augusta,Maine,44.3106,-69.7797,Austin,Texas,30.2711,-97.7437
+Augusta,Maine,44.3106,-69.7797,Salt Lake City,Utah,40.767,-111.8904
+Augusta,Maine,44.3106,-69.7797,Montpelier,Vermont,44.2604,-72.5757
+Augusta,Maine,44.3106,-69.7797,Richmond,Virginia,37.5385,-77.4343
+Augusta,Maine,44.3106,-69.7797,Olympia,Washington,47.0451,-122.895
+Augusta,Maine,44.3106,-69.7797,Charleston,West Virginia,38.3506,-81.6333
+Augusta,Maine,44.3106,-69.7797,Madison,Wisconsin,43.0748,-89.3838
+Augusta,Maine,44.3106,-69.7797,Cheyenne,Wyoming,41.14,-104.82
+Annapolis,Maryland,38.9786,-76.4928,Montgomery,Alabama,32.367,-86.3006
+Annapolis,Maryland,38.9786,-76.4928,Juneau,Alaska,58.3019,-134.4197
+Annapolis,Maryland,38.9786,-76.4928,Phoenix,Arizona,33.4486,-112.0773
+Annapolis,Maryland,38.9786,-76.4928,Little Rock,Arkansas,34.7465,-92.2896
+Annapolis,Maryland,38.9786,-76.4928,Sacramento,California,38.5816,-121.4944
+Annapolis,Maryland,38.9786,-76.4928,Denver,Colorado,39.7392,-104.9849
+Annapolis,Maryland,38.9786,-76.4928,Hartford,Connecticut,41.7646,-72.6909
+Annapolis,Maryland,38.9786,-76.4928,Dover,Delaware,39.1582,-75.5244
+Annapolis,Maryland,38.9786,-76.4928,Tallahassee,Florida,30.4381,-84.2809
+Annapolis,Maryland,38.9786,-76.4928,Atlanta,Georgia,33.7491,-84.3902
+Annapolis,Maryland,38.9786,-76.4928,Honolulu,Hawaii,21.3251,-157.8466
+Annapolis,Maryland,38.9786,-76.4928,Boise,Idaho,43.6166,-116.2008
+Annapolis,Maryland,38.9786,-76.4928,Springfield,Illinios,39.7997,-89.6475
+Annapolis,Maryland,38.9786,-76.4928,Indianapolis,Indiana,39.7683,-86.1584
+Annapolis,Maryland,38.9786,-76.4928,Des Monies,Iowa,41.5872,-93.6219
+Annapolis,Maryland,38.9786,-76.4928,Topeka,Kansas,39.049,-95.6776
+Annapolis,Maryland,38.9786,-76.4928,Frankfort,Kentucky,38.2009,-84.8733
+Annapolis,Maryland,38.9786,-76.4928,Baton Rouge,Louisiana,30.446,-91.1874
+Annapolis,Maryland,38.9786,-76.4928,Augusta,Maine,44.3106,-69.7797
+Annapolis,Maryland,38.9786,-76.4928,Annapolis,Maryland,38.9786,-76.4928
+Annapolis,Maryland,38.9786,-76.4928,Boston,Massachusetts,42.3603,-71.0583
+Annapolis,Maryland,38.9786,-76.4928,Lansing,Michigan,42.7338,-84.5554
+Annapolis,Maryland,38.9786,-76.4928,St. Paul,Minnesota,44.9504,-93.1015
+Annapolis,Maryland,38.9786,-76.4928,Jackson,Mississippi,32.299,-90.1848
+Annapolis,Maryland,38.9786,-76.4928,Jefferson City,Missouri,38.5774,-92.1724
+Annapolis,Maryland,38.9786,-76.4928,Helena,Montana,46.5927,-112.0361
+Annapolis,Maryland,38.9786,-76.4928,Lincoln,Nebraska,40.8,-96.6678
+Annapolis,Maryland,38.9786,-76.4928,Carson City,Neveda,39.1695,-119.766
+Annapolis,Maryland,38.9786,-76.4928,Concord,New Hampshire,43.2072,-71.5375
+Annapolis,Maryland,38.9786,-76.4928,Trenton,New Jersey,40.2171,-74.7429
+Annapolis,Maryland,38.9786,-76.4928,Santa Fe,New Mexico,35.687,-105.9378
+Annapolis,Maryland,38.9786,-76.4928,Albany,New York,42.6512,-73.755
+Annapolis,Maryland,38.9786,-76.4928,Raleigh,North Carolina,35.7804,-78.6391
+Annapolis,Maryland,38.9786,-76.4928,Bismarck,North Dakota,46.8083,-100.7837
+Annapolis,Maryland,38.9786,-76.4928,Columbus,Ohio,39.9623,-83.0007
+Annapolis,Maryland,38.9786,-76.4928,Oklahoma City,Oklahoma,35.473,-97.5171
+Annapolis,Maryland,38.9786,-76.4928,Salem,Oregon,44.9392,-123.0331
+Annapolis,Maryland,38.9786,-76.4928,Harrisburg,Pennsylvania,40.2663,-76.8861
+Annapolis,Maryland,38.9786,-76.4928,Providence,Rhoda Island,41.8249,-71.4136
+Annapolis,Maryland,38.9786,-76.4928,Columbia,South Carolina,34.0007,-81.0343
+Annapolis,Maryland,38.9786,-76.4928,Pierre,South Dakoda,44.3684,-100.354
+Annapolis,Maryland,38.9786,-76.4928,Nashville,Tennessee,36.1622,-86.7744
+Annapolis,Maryland,38.9786,-76.4928,Austin,Texas,30.2711,-97.7437
+Annapolis,Maryland,38.9786,-76.4928,Salt Lake City,Utah,40.767,-111.8904
+Annapolis,Maryland,38.9786,-76.4928,Montpelier,Vermont,44.2604,-72.5757
+Annapolis,Maryland,38.9786,-76.4928,Richmond,Virginia,37.5385,-77.4343
+Annapolis,Maryland,38.9786,-76.4928,Olympia,Washington,47.0451,-122.895
+Annapolis,Maryland,38.9786,-76.4928,Charleston,West Virginia,38.3506,-81.6333
+Annapolis,Maryland,38.9786,-76.4928,Madison,Wisconsin,43.0748,-89.3838
+Annapolis,Maryland,38.9786,-76.4928,Cheyenne,Wyoming,41.14,-104.82
+Boston,Massachusetts,42.3603,-71.0583,Montgomery,Alabama,32.367,-86.3006
+Boston,Massachusetts,42.3603,-71.0583,Juneau,Alaska,58.3019,-134.4197
+Boston,Massachusetts,42.3603,-71.0583,Phoenix,Arizona,33.4486,-112.0773
+Boston,Massachusetts,42.3603,-71.0583,Little Rock,Arkansas,34.7465,-92.2896
+Boston,Massachusetts,42.3603,-71.0583,Sacramento,California,38.5816,-121.4944
+Boston,Massachusetts,42.3603,-71.0583,Denver,Colorado,39.7392,-104.9849
+Boston,Massachusetts,42.3603,-71.0583,Hartford,Connecticut,41.7646,-72.6909
+Boston,Massachusetts,42.3603,-71.0583,Dover,Delaware,39.1582,-75.5244
+Boston,Massachusetts,42.3603,-71.0583,Tallahassee,Florida,30.4381,-84.2809
+Boston,Massachusetts,42.3603,-71.0583,Atlanta,Georgia,33.7491,-84.3902
+Boston,Massachusetts,42.3603,-71.0583,Honolulu,Hawaii,21.3251,-157.8466
+Boston,Massachusetts,42.3603,-71.0583,Boise,Idaho,43.6166,-116.2008
+Boston,Massachusetts,42.3603,-71.0583,Springfield,Illinios,39.7997,-89.6475
+Boston,Massachusetts,42.3603,-71.0583,Indianapolis,Indiana,39.7683,-86.1584
+Boston,Massachusetts,42.3603,-71.0583,Des Monies,Iowa,41.5872,-93.6219
+Boston,Massachusetts,42.3603,-71.0583,Topeka,Kansas,39.049,-95.6776
+Boston,Massachusetts,42.3603,-71.0583,Frankfort,Kentucky,38.2009,-84.8733
+Boston,Massachusetts,42.3603,-71.0583,Baton Rouge,Louisiana,30.446,-91.1874
+Boston,Massachusetts,42.3603,-71.0583,Augusta,Maine,44.3106,-69.7797
+Boston,Massachusetts,42.3603,-71.0583,Annapolis,Maryland,38.9786,-76.4928
+Boston,Massachusetts,42.3603,-71.0583,Boston,Massachusetts,42.3603,-71.0583
+Boston,Massachusetts,42.3603,-71.0583,Lansing,Michigan,42.7338,-84.5554
+Boston,Massachusetts,42.3603,-71.0583,St. Paul,Minnesota,44.9504,-93.1015
+Boston,Massachusetts,42.3603,-71.0583,Jackson,Mississippi,32.299,-90.1848
+Boston,Massachusetts,42.3603,-71.0583,Jefferson City,Missouri,38.5774,-92.1724
+Boston,Massachusetts,42.3603,-71.0583,Helena,Montana,46.5927,-112.0361
+Boston,Massachusetts,42.3603,-71.0583,Lincoln,Nebraska,40.8,-96.6678
+Boston,Massachusetts,42.3603,-71.0583,Carson City,Neveda,39.1695,-119.766
+Boston,Massachusetts,42.3603,-71.0583,Concord,New Hampshire,43.2072,-71.5375
+Boston,Massachusetts,42.3603,-71.0583,Trenton,New Jersey,40.2171,-74.7429
+Boston,Massachusetts,42.3603,-71.0583,Santa Fe,New Mexico,35.687,-105.9378
+Boston,Massachusetts,42.3603,-71.0583,Albany,New York,42.6512,-73.755
+Boston,Massachusetts,42.3603,-71.0583,Raleigh,North Carolina,35.7804,-78.6391
+Boston,Massachusetts,42.3603,-71.0583,Bismarck,North Dakota,46.8083,-100.7837
+Boston,Massachusetts,42.3603,-71.0583,Columbus,Ohio,39.9623,-83.0007
+Boston,Massachusetts,42.3603,-71.0583,Oklahoma City,Oklahoma,35.473,-97.5171
+Boston,Massachusetts,42.3603,-71.0583,Salem,Oregon,44.9392,-123.0331
+Boston,Massachusetts,42.3603,-71.0583,Harrisburg,Pennsylvania,40.2663,-76.8861
+Boston,Massachusetts,42.3603,-71.0583,Providence,Rhoda Island,41.8249,-71.4136
+Boston,Massachusetts,42.3603,-71.0583,Columbia,South Carolina,34.0007,-81.0343
+Boston,Massachusetts,42.3603,-71.0583,Pierre,South Dakoda,44.3684,-100.354
+Boston,Massachusetts,42.3603,-71.0583,Nashville,Tennessee,36.1622,-86.7744
+Boston,Massachusetts,42.3603,-71.0583,Austin,Texas,30.2711,-97.7437
+Boston,Massachusetts,42.3603,-71.0583,Salt Lake City,Utah,40.767,-111.8904
+Boston,Massachusetts,42.3603,-71.0583,Montpelier,Vermont,44.2604,-72.5757
+Boston,Massachusetts,42.3603,-71.0583,Richmond,Virginia,37.5385,-77.4343
+Boston,Massachusetts,42.3603,-71.0583,Olympia,Washington,47.0451,-122.895
+Boston,Massachusetts,42.3603,-71.0583,Charleston,West Virginia,38.3506,-81.6333
+Boston,Massachusetts,42.3603,-71.0583,Madison,Wisconsin,43.0748,-89.3838
+Boston,Massachusetts,42.3603,-71.0583,Cheyenne,Wyoming,41.14,-104.82
+Lansing,Michigan,42.7338,-84.5554,Montgomery,Alabama,32.367,-86.3006
+Lansing,Michigan,42.7338,-84.5554,Juneau,Alaska,58.3019,-134.4197
+Lansing,Michigan,42.7338,-84.5554,Phoenix,Arizona,33.4486,-112.0773
+Lansing,Michigan,42.7338,-84.5554,Little Rock,Arkansas,34.7465,-92.2896
+Lansing,Michigan,42.7338,-84.5554,Sacramento,California,38.5816,-121.4944
+Lansing,Michigan,42.7338,-84.5554,Denver,Colorado,39.7392,-104.9849
+Lansing,Michigan,42.7338,-84.5554,Hartford,Connecticut,41.7646,-72.6909
+Lansing,Michigan,42.7338,-84.5554,Dover,Delaware,39.1582,-75.5244
+Lansing,Michigan,42.7338,-84.5554,Tallahassee,Florida,30.4381,-84.2809
+Lansing,Michigan,42.7338,-84.5554,Atlanta,Georgia,33.7491,-84.3902
+Lansing,Michigan,42.7338,-84.5554,Honolulu,Hawaii,21.3251,-157.8466
+Lansing,Michigan,42.7338,-84.5554,Boise,Idaho,43.6166,-116.2008
+Lansing,Michigan,42.7338,-84.5554,Springfield,Illinios,39.7997,-89.6475
+Lansing,Michigan,42.7338,-84.5554,Indianapolis,Indiana,39.7683,-86.1584
+Lansing,Michigan,42.7338,-84.5554,Des Monies,Iowa,41.5872,-93.6219
+Lansing,Michigan,42.7338,-84.5554,Topeka,Kansas,39.049,-95.6776
+Lansing,Michigan,42.7338,-84.5554,Frankfort,Kentucky,38.2009,-84.8733
+Lansing,Michigan,42.7338,-84.5554,Baton Rouge,Louisiana,30.446,-91.1874
+Lansing,Michigan,42.7338,-84.5554,Augusta,Maine,44.3106,-69.7797
+Lansing,Michigan,42.7338,-84.5554,Annapolis,Maryland,38.9786,-76.4928
+Lansing,Michigan,42.7338,-84.5554,Boston,Massachusetts,42.3603,-71.0583
+Lansing,Michigan,42.7338,-84.5554,Lansing,Michigan,42.7338,-84.5554
+Lansing,Michigan,42.7338,-84.5554,St. Paul,Minnesota,44.9504,-93.1015
+Lansing,Michigan,42.7338,-84.5554,Jackson,Mississippi,32.299,-90.1848
+Lansing,Michigan,42.7338,-84.5554,Jefferson City,Missouri,38.5774,-92.1724
+Lansing,Michigan,42.7338,-84.5554,Helena,Montana,46.5927,-112.0361
+Lansing,Michigan,42.7338,-84.5554,Lincoln,Nebraska,40.8,-96.6678
+Lansing,Michigan,42.7338,-84.5554,Carson City,Neveda,39.1695,-119.766
+Lansing,Michigan,42.7338,-84.5554,Concord,New Hampshire,43.2072,-71.5375
+Lansing,Michigan,42.7338,-84.5554,Trenton,New Jersey,40.2171,-74.7429
+Lansing,Michigan,42.7338,-84.5554,Santa Fe,New Mexico,35.687,-105.9378
+Lansing,Michigan,42.7338,-84.5554,Albany,New York,42.6512,-73.755
+Lansing,Michigan,42.7338,-84.5554,Raleigh,North Carolina,35.7804,-78.6391
+Lansing,Michigan,42.7338,-84.5554,Bismarck,North Dakota,46.8083,-100.7837
+Lansing,Michigan,42.7338,-84.5554,Columbus,Ohio,39.9623,-83.0007
+Lansing,Michigan,42.7338,-84.5554,Oklahoma City,Oklahoma,35.473,-97.5171
+Lansing,Michigan,42.7338,-84.5554,Salem,Oregon,44.9392,-123.0331
+Lansing,Michigan,42.7338,-84.5554,Harrisburg,Pennsylvania,40.2663,-76.8861
+Lansing,Michigan,42.7338,-84.5554,Providence,Rhoda Island,41.8249,-71.4136
+Lansing,Michigan,42.7338,-84.5554,Columbia,South Carolina,34.0007,-81.0343
+Lansing,Michigan,42.7338,-84.5554,Pierre,South Dakoda,44.3684,-100.354
+Lansing,Michigan,42.7338,-84.5554,Nashville,Tennessee,36.1622,-86.7744
+Lansing,Michigan,42.7338,-84.5554,Austin,Texas,30.2711,-97.7437
+Lansing,Michigan,42.7338,-84.5554,Salt Lake City,Utah,40.767,-111.8904
+Lansing,Michigan,42.7338,-84.5554,Montpelier,Vermont,44.2604,-72.5757
+Lansing,Michigan,42.7338,-84.5554,Richmond,Virginia,37.5385,-77.4343
+Lansing,Michigan,42.7338,-84.5554,Olympia,Washington,47.0451,-122.895
+Lansing,Michigan,42.7338,-84.5554,Charleston,West Virginia,38.3506,-81.6333
+Lansing,Michigan,42.7338,-84.5554,Madison,Wisconsin,43.0748,-89.3838
+Lansing,Michigan,42.7338,-84.5554,Cheyenne,Wyoming,41.14,-104.82
+St. Paul,Minnesota,44.9504,-93.1015,Montgomery,Alabama,32.367,-86.3006
+St. Paul,Minnesota,44.9504,-93.1015,Juneau,Alaska,58.3019,-134.4197
+St. Paul,Minnesota,44.9504,-93.1015,Phoenix,Arizona,33.4486,-112.0773
+St. Paul,Minnesota,44.9504,-93.1015,Little Rock,Arkansas,34.7465,-92.2896
+St. Paul,Minnesota,44.9504,-93.1015,Sacramento,California,38.5816,-121.4944
+St. Paul,Minnesota,44.9504,-93.1015,Denver,Colorado,39.7392,-104.9849
+St. Paul,Minnesota,44.9504,-93.1015,Hartford,Connecticut,41.7646,-72.6909
+St. Paul,Minnesota,44.9504,-93.1015,Dover,Delaware,39.1582,-75.5244
+St. Paul,Minnesota,44.9504,-93.1015,Tallahassee,Florida,30.4381,-84.2809
+St. Paul,Minnesota,44.9504,-93.1015,Atlanta,Georgia,33.7491,-84.3902
+St. Paul,Minnesota,44.9504,-93.1015,Honolulu,Hawaii,21.3251,-157.8466
+St. Paul,Minnesota,44.9504,-93.1015,Boise,Idaho,43.6166,-116.2008
+St. Paul,Minnesota,44.9504,-93.1015,Springfield,Illinios,39.7997,-89.6475
+St. Paul,Minnesota,44.9504,-93.1015,Indianapolis,Indiana,39.7683,-86.1584
+St. Paul,Minnesota,44.9504,-93.1015,Des Monies,Iowa,41.5872,-93.6219
+St. Paul,Minnesota,44.9504,-93.1015,Topeka,Kansas,39.049,-95.6776
+St. Paul,Minnesota,44.9504,-93.1015,Frankfort,Kentucky,38.2009,-84.8733
+St. Paul,Minnesota,44.9504,-93.1015,Baton Rouge,Louisiana,30.446,-91.1874
+St. Paul,Minnesota,44.9504,-93.1015,Augusta,Maine,44.3106,-69.7797
+St. Paul,Minnesota,44.9504,-93.1015,Annapolis,Maryland,38.9786,-76.4928
+St. Paul,Minnesota,44.9504,-93.1015,Boston,Massachusetts,42.3603,-71.0583
+St. Paul,Minnesota,44.9504,-93.1015,Lansing,Michigan,42.7338,-84.5554
+St. Paul,Minnesota,44.9504,-93.1015,St. Paul,Minnesota,44.9504,-93.1015
+St. Paul,Minnesota,44.9504,-93.1015,Jackson,Mississippi,32.299,-90.1848
+St. Paul,Minnesota,44.9504,-93.1015,Jefferson City,Missouri,38.5774,-92.1724
+St. Paul,Minnesota,44.9504,-93.1015,Helena,Montana,46.5927,-112.0361
+St. Paul,Minnesota,44.9504,-93.1015,Lincoln,Nebraska,40.8,-96.6678
+St. Paul,Minnesota,44.9504,-93.1015,Carson City,Neveda,39.1695,-119.766
+St. Paul,Minnesota,44.9504,-93.1015,Concord,New Hampshire,43.2072,-71.5375
+St. Paul,Minnesota,44.9504,-93.1015,Trenton,New Jersey,40.2171,-74.7429
+St. Paul,Minnesota,44.9504,-93.1015,Santa Fe,New Mexico,35.687,-105.9378
+St. Paul,Minnesota,44.9504,-93.1015,Albany,New York,42.6512,-73.755
+St. Paul,Minnesota,44.9504,-93.1015,Raleigh,North Carolina,35.7804,-78.6391
+St. Paul,Minnesota,44.9504,-93.1015,Bismarck,North Dakota,46.8083,-100.7837
+St. Paul,Minnesota,44.9504,-93.1015,Columbus,Ohio,39.9623,-83.0007
+St. Paul,Minnesota,44.9504,-93.1015,Oklahoma City,Oklahoma,35.473,-97.5171
+St. Paul,Minnesota,44.9504,-93.1015,Salem,Oregon,44.9392,-123.0331
+St. Paul,Minnesota,44.9504,-93.1015,Harrisburg,Pennsylvania,40.2663,-76.8861
+St. Paul,Minnesota,44.9504,-93.1015,Providence,Rhoda Island,41.8249,-71.4136
+St. Paul,Minnesota,44.9504,-93.1015,Columbia,South Carolina,34.0007,-81.0343
+St. Paul,Minnesota,44.9504,-93.1015,Pierre,South Dakoda,44.3684,-100.354
+St. Paul,Minnesota,44.9504,-93.1015,Nashville,Tennessee,36.1622,-86.7744
+St. Paul,Minnesota,44.9504,-93.1015,Austin,Texas,30.2711,-97.7437
+St. Paul,Minnesota,44.9504,-93.1015,Salt Lake City,Utah,40.767,-111.8904
+St. Paul,Minnesota,44.9504,-93.1015,Montpelier,Vermont,44.2604,-72.5757
+St. Paul,Minnesota,44.9504,-93.1015,Richmond,Virginia,37.5385,-77.4343
+St. Paul,Minnesota,44.9504,-93.1015,Olympia,Washington,47.0451,-122.895
+St. Paul,Minnesota,44.9504,-93.1015,Charleston,West Virginia,38.3506,-81.6333
+St. Paul,Minnesota,44.9504,-93.1015,Madison,Wisconsin,43.0748,-89.3838
+St. Paul,Minnesota,44.9504,-93.1015,Cheyenne,Wyoming,41.14,-104.82
+Jackson,Mississippi,32.299,-90.1848,Montgomery,Alabama,32.367,-86.3006
+Jackson,Mississippi,32.299,-90.1848,Juneau,Alaska,58.3019,-134.4197
+Jackson,Mississippi,32.299,-90.1848,Phoenix,Arizona,33.4486,-112.0773
+Jackson,Mississippi,32.299,-90.1848,Little Rock,Arkansas,34.7465,-92.2896
+Jackson,Mississippi,32.299,-90.1848,Sacramento,California,38.5816,-121.4944
+Jackson,Mississippi,32.299,-90.1848,Denver,Colorado,39.7392,-104.9849
+Jackson,Mississippi,32.299,-90.1848,Hartford,Connecticut,41.7646,-72.6909
+Jackson,Mississippi,32.299,-90.1848,Dover,Delaware,39.1582,-75.5244
+Jackson,Mississippi,32.299,-90.1848,Tallahassee,Florida,30.4381,-84.2809
+Jackson,Mississippi,32.299,-90.1848,Atlanta,Georgia,33.7491,-84.3902
+Jackson,Mississippi,32.299,-90.1848,Honolulu,Hawaii,21.3251,-157.8466
+Jackson,Mississippi,32.299,-90.1848,Boise,Idaho,43.6166,-116.2008
+Jackson,Mississippi,32.299,-90.1848,Springfield,Illinios,39.7997,-89.6475
+Jackson,Mississippi,32.299,-90.1848,Indianapolis,Indiana,39.7683,-86.1584
+Jackson,Mississippi,32.299,-90.1848,Des Monies,Iowa,41.5872,-93.6219
+Jackson,Mississippi,32.299,-90.1848,Topeka,Kansas,39.049,-95.6776
+Jackson,Mississippi,32.299,-90.1848,Frankfort,Kentucky,38.2009,-84.8733
+Jackson,Mississippi,32.299,-90.1848,Baton Rouge,Louisiana,30.446,-91.1874
+Jackson,Mississippi,32.299,-90.1848,Augusta,Maine,44.3106,-69.7797
+Jackson,Mississippi,32.299,-90.1848,Annapolis,Maryland,38.9786,-76.4928
+Jackson,Mississippi,32.299,-90.1848,Boston,Massachusetts,42.3603,-71.0583
+Jackson,Mississippi,32.299,-90.1848,Lansing,Michigan,42.7338,-84.5554
+Jackson,Mississippi,32.299,-90.1848,St. Paul,Minnesota,44.9504,-93.1015
+Jackson,Mississippi,32.299,-90.1848,Jackson,Mississippi,32.299,-90.1848
+Jackson,Mississippi,32.299,-90.1848,Jefferson City,Missouri,38.5774,-92.1724
+Jackson,Mississippi,32.299,-90.1848,Helena,Montana,46.5927,-112.0361
+Jackson,Mississippi,32.299,-90.1848,Lincoln,Nebraska,40.8,-96.6678
+Jackson,Mississippi,32.299,-90.1848,Carson City,Neveda,39.1695,-119.766
+Jackson,Mississippi,32.299,-90.1848,Concord,New Hampshire,43.2072,-71.5375
+Jackson,Mississippi,32.299,-90.1848,Trenton,New Jersey,40.2171,-74.7429
+Jackson,Mississippi,32.299,-90.1848,Santa Fe,New Mexico,35.687,-105.9378
+Jackson,Mississippi,32.299,-90.1848,Albany,New York,42.6512,-73.755
+Jackson,Mississippi,32.299,-90.1848,Raleigh,North Carolina,35.7804,-78.6391
+Jackson,Mississippi,32.299,-90.1848,Bismarck,North Dakota,46.8083,-100.7837
+Jackson,Mississippi,32.299,-90.1848,Columbus,Ohio,39.9623,-83.0007
+Jackson,Mississippi,32.299,-90.1848,Oklahoma City,Oklahoma,35.473,-97.5171
+Jackson,Mississippi,32.299,-90.1848,Salem,Oregon,44.9392,-123.0331
+Jackson,Mississippi,32.299,-90.1848,Harrisburg,Pennsylvania,40.2663,-76.8861
+Jackson,Mississippi,32.299,-90.1848,Providence,Rhoda Island,41.8249,-71.4136
+Jackson,Mississippi,32.299,-90.1848,Columbia,South Carolina,34.0007,-81.0343
+Jackson,Mississippi,32.299,-90.1848,Pierre,South Dakoda,44.3684,-100.354
+Jackson,Mississippi,32.299,-90.1848,Nashville,Tennessee,36.1622,-86.7744
+Jackson,Mississippi,32.299,-90.1848,Austin,Texas,30.2711,-97.7437
+Jackson,Mississippi,32.299,-90.1848,Salt Lake City,Utah,40.767,-111.8904
+Jackson,Mississippi,32.299,-90.1848,Montpelier,Vermont,44.2604,-72.5757
+Jackson,Mississippi,32.299,-90.1848,Richmond,Virginia,37.5385,-77.4343
+Jackson,Mississippi,32.299,-90.1848,Olympia,Washington,47.0451,-122.895
+Jackson,Mississippi,32.299,-90.1848,Charleston,West Virginia,38.3506,-81.6333
+Jackson,Mississippi,32.299,-90.1848,Madison,Wisconsin,43.0748,-89.3838
+Jackson,Mississippi,32.299,-90.1848,Cheyenne,Wyoming,41.14,-104.82
+Jefferson City,Missouri,38.5774,-92.1724,Montgomery,Alabama,32.367,-86.3006
+Jefferson City,Missouri,38.5774,-92.1724,Juneau,Alaska,58.3019,-134.4197
+Jefferson City,Missouri,38.5774,-92.1724,Phoenix,Arizona,33.4486,-112.0773
+Jefferson City,Missouri,38.5774,-92.1724,Little Rock,Arkansas,34.7465,-92.2896
+Jefferson City,Missouri,38.5774,-92.1724,Sacramento,California,38.5816,-121.4944
+Jefferson City,Missouri,38.5774,-92.1724,Denver,Colorado,39.7392,-104.9849
+Jefferson City,Missouri,38.5774,-92.1724,Hartford,Connecticut,41.7646,-72.6909
+Jefferson City,Missouri,38.5774,-92.1724,Dover,Delaware,39.1582,-75.5244
+Jefferson City,Missouri,38.5774,-92.1724,Tallahassee,Florida,30.4381,-84.2809
+Jefferson City,Missouri,38.5774,-92.1724,Atlanta,Georgia,33.7491,-84.3902
+Jefferson City,Missouri,38.5774,-92.1724,Honolulu,Hawaii,21.3251,-157.8466
+Jefferson City,Missouri,38.5774,-92.1724,Boise,Idaho,43.6166,-116.2008
+Jefferson City,Missouri,38.5774,-92.1724,Springfield,Illinios,39.7997,-89.6475
+Jefferson City,Missouri,38.5774,-92.1724,Indianapolis,Indiana,39.7683,-86.1584
+Jefferson City,Missouri,38.5774,-92.1724,Des Monies,Iowa,41.5872,-93.6219
+Jefferson City,Missouri,38.5774,-92.1724,Topeka,Kansas,39.049,-95.6776
+Jefferson City,Missouri,38.5774,-92.1724,Frankfort,Kentucky,38.2009,-84.8733
+Jefferson City,Missouri,38.5774,-92.1724,Baton Rouge,Louisiana,30.446,-91.1874
+Jefferson City,Missouri,38.5774,-92.1724,Augusta,Maine,44.3106,-69.7797
+Jefferson City,Missouri,38.5774,-92.1724,Annapolis,Maryland,38.9786,-76.4928
+Jefferson City,Missouri,38.5774,-92.1724,Boston,Massachusetts,42.3603,-71.0583
+Jefferson City,Missouri,38.5774,-92.1724,Lansing,Michigan,42.7338,-84.5554
+Jefferson City,Missouri,38.5774,-92.1724,St. Paul,Minnesota,44.9504,-93.1015
+Jefferson City,Missouri,38.5774,-92.1724,Jackson,Mississippi,32.299,-90.1848
+Jefferson City,Missouri,38.5774,-92.1724,Jefferson City,Missouri,38.5774,-92.1724
+Jefferson City,Missouri,38.5774,-92.1724,Helena,Montana,46.5927,-112.0361
+Jefferson City,Missouri,38.5774,-92.1724,Lincoln,Nebraska,40.8,-96.6678
+Jefferson City,Missouri,38.5774,-92.1724,Carson City,Neveda,39.1695,-119.766
+Jefferson City,Missouri,38.5774,-92.1724,Concord,New Hampshire,43.2072,-71.5375
+Jefferson City,Missouri,38.5774,-92.1724,Trenton,New Jersey,40.2171,-74.7429
+Jefferson City,Missouri,38.5774,-92.1724,Santa Fe,New Mexico,35.687,-105.9378
+Jefferson City,Missouri,38.5774,-92.1724,Albany,New York,42.6512,-73.755
+Jefferson City,Missouri,38.5774,-92.1724,Raleigh,North Carolina,35.7804,-78.6391
+Jefferson City,Missouri,38.5774,-92.1724,Bismarck,North Dakota,46.8083,-100.7837
+Jefferson City,Missouri,38.5774,-92.1724,Columbus,Ohio,39.9623,-83.0007
+Jefferson City,Missouri,38.5774,-92.1724,Oklahoma City,Oklahoma,35.473,-97.5171
+Jefferson City,Missouri,38.5774,-92.1724,Salem,Oregon,44.9392,-123.0331
+Jefferson City,Missouri,38.5774,-92.1724,Harrisburg,Pennsylvania,40.2663,-76.8861
+Jefferson City,Missouri,38.5774,-92.1724,Providence,Rhoda Island,41.8249,-71.4136
+Jefferson City,Missouri,38.5774,-92.1724,Columbia,South Carolina,34.0007,-81.0343
+Jefferson City,Missouri,38.5774,-92.1724,Pierre,South Dakoda,44.3684,-100.354
+Jefferson City,Missouri,38.5774,-92.1724,Nashville,Tennessee,36.1622,-86.7744
+Jefferson City,Missouri,38.5774,-92.1724,Austin,Texas,30.2711,-97.7437
+Jefferson City,Missouri,38.5774,-92.1724,Salt Lake City,Utah,40.767,-111.8904
+Jefferson City,Missouri,38.5774,-92.1724,Montpelier,Vermont,44.2604,-72.5757
+Jefferson City,Missouri,38.5774,-92.1724,Richmond,Virginia,37.5385,-77.4343
+Jefferson City,Missouri,38.5774,-92.1724,Olympia,Washington,47.0451,-122.895
+Jefferson City,Missouri,38.5774,-92.1724,Charleston,West Virginia,38.3506,-81.6333
+Jefferson City,Missouri,38.5774,-92.1724,Madison,Wisconsin,43.0748,-89.3838
+Jefferson City,Missouri,38.5774,-92.1724,Cheyenne,Wyoming,41.14,-104.82
+Helena,Montana,46.5927,-112.0361,Montgomery,Alabama,32.367,-86.3006
+Helena,Montana,46.5927,-112.0361,Juneau,Alaska,58.3019,-134.4197
+Helena,Montana,46.5927,-112.0361,Phoenix,Arizona,33.4486,-112.0773
+Helena,Montana,46.5927,-112.0361,Little Rock,Arkansas,34.7465,-92.2896
+Helena,Montana,46.5927,-112.0361,Sacramento,California,38.5816,-121.4944
+Helena,Montana,46.5927,-112.0361,Denver,Colorado,39.7392,-104.9849
+Helena,Montana,46.5927,-112.0361,Hartford,Connecticut,41.7646,-72.6909
+Helena,Montana,46.5927,-112.0361,Dover,Delaware,39.1582,-75.5244
+Helena,Montana,46.5927,-112.0361,Tallahassee,Florida,30.4381,-84.2809
+Helena,Montana,46.5927,-112.0361,Atlanta,Georgia,33.7491,-84.3902
+Helena,Montana,46.5927,-112.0361,Honolulu,Hawaii,21.3251,-157.8466
+Helena,Montana,46.5927,-112.0361,Boise,Idaho,43.6166,-116.2008
+Helena,Montana,46.5927,-112.0361,Springfield,Illinios,39.7997,-89.6475
+Helena,Montana,46.5927,-112.0361,Indianapolis,Indiana,39.7683,-86.1584
+Helena,Montana,46.5927,-112.0361,Des Monies,Iowa,41.5872,-93.6219
+Helena,Montana,46.5927,-112.0361,Topeka,Kansas,39.049,-95.6776
+Helena,Montana,46.5927,-112.0361,Frankfort,Kentucky,38.2009,-84.8733
+Helena,Montana,46.5927,-112.0361,Baton Rouge,Louisiana,30.446,-91.1874
+Helena,Montana,46.5927,-112.0361,Augusta,Maine,44.3106,-69.7797
+Helena,Montana,46.5927,-112.0361,Annapolis,Maryland,38.9786,-76.4928
+Helena,Montana,46.5927,-112.0361,Boston,Massachusetts,42.3603,-71.0583
+Helena,Montana,46.5927,-112.0361,Lansing,Michigan,42.7338,-84.5554
+Helena,Montana,46.5927,-112.0361,St. Paul,Minnesota,44.9504,-93.1015
+Helena,Montana,46.5927,-112.0361,Jackson,Mississippi,32.299,-90.1848
+Helena,Montana,46.5927,-112.0361,Jefferson City,Missouri,38.5774,-92.1724
+Helena,Montana,46.5927,-112.0361,Helena,Montana,46.5927,-112.0361
+Helena,Montana,46.5927,-112.0361,Lincoln,Nebraska,40.8,-96.6678
+Helena,Montana,46.5927,-112.0361,Carson City,Neveda,39.1695,-119.766
+Helena,Montana,46.5927,-112.0361,Concord,New Hampshire,43.2072,-71.5375
+Helena,Montana,46.5927,-112.0361,Trenton,New Jersey,40.2171,-74.7429
+Helena,Montana,46.5927,-112.0361,Santa Fe,New Mexico,35.687,-105.9378
+Helena,Montana,46.5927,-112.0361,Albany,New York,42.6512,-73.755
+Helena,Montana,46.5927,-112.0361,Raleigh,North Carolina,35.7804,-78.6391
+Helena,Montana,46.5927,-112.0361,Bismarck,North Dakota,46.8083,-100.7837
+Helena,Montana,46.5927,-112.0361,Columbus,Ohio,39.9623,-83.0007
+Helena,Montana,46.5927,-112.0361,Oklahoma City,Oklahoma,35.473,-97.5171
+Helena,Montana,46.5927,-112.0361,Salem,Oregon,44.9392,-123.0331
+Helena,Montana,46.5927,-112.0361,Harrisburg,Pennsylvania,40.2663,-76.8861
+Helena,Montana,46.5927,-112.0361,Providence,Rhoda Island,41.8249,-71.4136
+Helena,Montana,46.5927,-112.0361,Columbia,South Carolina,34.0007,-81.0343
+Helena,Montana,46.5927,-112.0361,Pierre,South Dakoda,44.3684,-100.354
+Helena,Montana,46.5927,-112.0361,Nashville,Tennessee,36.1622,-86.7744
+Helena,Montana,46.5927,-112.0361,Austin,Texas,30.2711,-97.7437
+Helena,Montana,46.5927,-112.0361,Salt Lake City,Utah,40.767,-111.8904
+Helena,Montana,46.5927,-112.0361,Montpelier,Vermont,44.2604,-72.5757
+Helena,Montana,46.5927,-112.0361,Richmond,Virginia,37.5385,-77.4343
+Helena,Montana,46.5927,-112.0361,Olympia,Washington,47.0451,-122.895
+Helena,Montana,46.5927,-112.0361,Charleston,West Virginia,38.3506,-81.6333
+Helena,Montana,46.5927,-112.0361,Madison,Wisconsin,43.0748,-89.3838
+Helena,Montana,46.5927,-112.0361,Cheyenne,Wyoming,41.14,-104.82
+Lincoln,Nebraska,40.8,-96.6678,Montgomery,Alabama,32.367,-86.3006
+Lincoln,Nebraska,40.8,-96.6678,Juneau,Alaska,58.3019,-134.4197
+Lincoln,Nebraska,40.8,-96.6678,Phoenix,Arizona,33.4486,-112.0773
+Lincoln,Nebraska,40.8,-96.6678,Little Rock,Arkansas,34.7465,-92.2896
+Lincoln,Nebraska,40.8,-96.6678,Sacramento,California,38.5816,-121.4944
+Lincoln,Nebraska,40.8,-96.6678,Denver,Colorado,39.7392,-104.9849
+Lincoln,Nebraska,40.8,-96.6678,Hartford,Connecticut,41.7646,-72.6909
+Lincoln,Nebraska,40.8,-96.6678,Dover,Delaware,39.1582,-75.5244
+Lincoln,Nebraska,40.8,-96.6678,Tallahassee,Florida,30.4381,-84.2809
+Lincoln,Nebraska,40.8,-96.6678,Atlanta,Georgia,33.7491,-84.3902
+Lincoln,Nebraska,40.8,-96.6678,Honolulu,Hawaii,21.3251,-157.8466
+Lincoln,Nebraska,40.8,-96.6678,Boise,Idaho,43.6166,-116.2008
+Lincoln,Nebraska,40.8,-96.6678,Springfield,Illinios,39.7997,-89.6475
+Lincoln,Nebraska,40.8,-96.6678,Indianapolis,Indiana,39.7683,-86.1584
+Lincoln,Nebraska,40.8,-96.6678,Des Monies,Iowa,41.5872,-93.6219
+Lincoln,Nebraska,40.8,-96.6678,Topeka,Kansas,39.049,-95.6776
+Lincoln,Nebraska,40.8,-96.6678,Frankfort,Kentucky,38.2009,-84.8733
+Lincoln,Nebraska,40.8,-96.6678,Baton Rouge,Louisiana,30.446,-91.1874
+Lincoln,Nebraska,40.8,-96.6678,Augusta,Maine,44.3106,-69.7797
+Lincoln,Nebraska,40.8,-96.6678,Annapolis,Maryland,38.9786,-76.4928
+Lincoln,Nebraska,40.8,-96.6678,Boston,Massachusetts,42.3603,-71.0583
+Lincoln,Nebraska,40.8,-96.6678,Lansing,Michigan,42.7338,-84.5554
+Lincoln,Nebraska,40.8,-96.6678,St. Paul,Minnesota,44.9504,-93.1015
+Lincoln,Nebraska,40.8,-96.6678,Jackson,Mississippi,32.299,-90.1848
+Lincoln,Nebraska,40.8,-96.6678,Jefferson City,Missouri,38.5774,-92.1724
+Lincoln,Nebraska,40.8,-96.6678,Helena,Montana,46.5927,-112.0361
+Lincoln,Nebraska,40.8,-96.6678,Lincoln,Nebraska,40.8,-96.6678
+Lincoln,Nebraska,40.8,-96.6678,Carson City,Neveda,39.1695,-119.766
+Lincoln,Nebraska,40.8,-96.6678,Concord,New Hampshire,43.2072,-71.5375
+Lincoln,Nebraska,40.8,-96.6678,Trenton,New Jersey,40.2171,-74.7429
+Lincoln,Nebraska,40.8,-96.6678,Santa Fe,New Mexico,35.687,-105.9378
+Lincoln,Nebraska,40.8,-96.6678,Albany,New York,42.6512,-73.755
+Lincoln,Nebraska,40.8,-96.6678,Raleigh,North Carolina,35.7804,-78.6391
+Lincoln,Nebraska,40.8,-96.6678,Bismarck,North Dakota,46.8083,-100.7837
+Lincoln,Nebraska,40.8,-96.6678,Columbus,Ohio,39.9623,-83.0007
+Lincoln,Nebraska,40.8,-96.6678,Oklahoma City,Oklahoma,35.473,-97.5171
+Lincoln,Nebraska,40.8,-96.6678,Salem,Oregon,44.9392,-123.0331
+Lincoln,Nebraska,40.8,-96.6678,Harrisburg,Pennsylvania,40.2663,-76.8861
+Lincoln,Nebraska,40.8,-96.6678,Providence,Rhoda Island,41.8249,-71.4136
+Lincoln,Nebraska,40.8,-96.6678,Columbia,South Carolina,34.0007,-81.0343
+Lincoln,Nebraska,40.8,-96.6678,Pierre,South Dakoda,44.3684,-100.354
+Lincoln,Nebraska,40.8,-96.6678,Nashville,Tennessee,36.1622,-86.7744
+Lincoln,Nebraska,40.8,-96.6678,Austin,Texas,30.2711,-97.7437
+Lincoln,Nebraska,40.8,-96.6678,Salt Lake City,Utah,40.767,-111.8904
+Lincoln,Nebraska,40.8,-96.6678,Montpelier,Vermont,44.2604,-72.5757
+Lincoln,Nebraska,40.8,-96.6678,Richmond,Virginia,37.5385,-77.4343
+Lincoln,Nebraska,40.8,-96.6678,Olympia,Washington,47.0451,-122.895
+Lincoln,Nebraska,40.8,-96.6678,Charleston,West Virginia,38.3506,-81.6333
+Lincoln,Nebraska,40.8,-96.6678,Madison,Wisconsin,43.0748,-89.3838
+Lincoln,Nebraska,40.8,-96.6678,Cheyenne,Wyoming,41.14,-104.82
+Carson City,Neveda,39.1695,-119.766,Montgomery,Alabama,32.367,-86.3006
+Carson City,Neveda,39.1695,-119.766,Juneau,Alaska,58.3019,-134.4197
+Carson City,Neveda,39.1695,-119.766,Phoenix,Arizona,33.4486,-112.0773
+Carson City,Neveda,39.1695,-119.766,Little Rock,Arkansas,34.7465,-92.2896
+Carson City,Neveda,39.1695,-119.766,Sacramento,California,38.5816,-121.4944
+Carson City,Neveda,39.1695,-119.766,Denver,Colorado,39.7392,-104.9849
+Carson City,Neveda,39.1695,-119.766,Hartford,Connecticut,41.7646,-72.6909
+Carson City,Neveda,39.1695,-119.766,Dover,Delaware,39.1582,-75.5244
+Carson City,Neveda,39.1695,-119.766,Tallahassee,Florida,30.4381,-84.2809
+Carson City,Neveda,39.1695,-119.766,Atlanta,Georgia,33.7491,-84.3902
+Carson City,Neveda,39.1695,-119.766,Honolulu,Hawaii,21.3251,-157.8466
+Carson City,Neveda,39.1695,-119.766,Boise,Idaho,43.6166,-116.2008
+Carson City,Neveda,39.1695,-119.766,Springfield,Illinios,39.7997,-89.6475
+Carson City,Neveda,39.1695,-119.766,Indianapolis,Indiana,39.7683,-86.1584
+Carson City,Neveda,39.1695,-119.766,Des Monies,Iowa,41.5872,-93.6219
+Carson City,Neveda,39.1695,-119.766,Topeka,Kansas,39.049,-95.6776
+Carson City,Neveda,39.1695,-119.766,Frankfort,Kentucky,38.2009,-84.8733
+Carson City,Neveda,39.1695,-119.766,Baton Rouge,Louisiana,30.446,-91.1874
+Carson City,Neveda,39.1695,-119.766,Augusta,Maine,44.3106,-69.7797
+Carson City,Neveda,39.1695,-119.766,Annapolis,Maryland,38.9786,-76.4928
+Carson City,Neveda,39.1695,-119.766,Boston,Massachusetts,42.3603,-71.0583
+Carson City,Neveda,39.1695,-119.766,Lansing,Michigan,42.7338,-84.5554
+Carson City,Neveda,39.1695,-119.766,St. Paul,Minnesota,44.9504,-93.1015
+Carson City,Neveda,39.1695,-119.766,Jackson,Mississippi,32.299,-90.1848
+Carson City,Neveda,39.1695,-119.766,Jefferson City,Missouri,38.5774,-92.1724
+Carson City,Neveda,39.1695,-119.766,Helena,Montana,46.5927,-112.0361
+Carson City,Neveda,39.1695,-119.766,Lincoln,Nebraska,40.8,-96.6678
+Carson City,Neveda,39.1695,-119.766,Carson City,Neveda,39.1695,-119.766
+Carson City,Neveda,39.1695,-119.766,Concord,New Hampshire,43.2072,-71.5375
+Carson City,Neveda,39.1695,-119.766,Trenton,New Jersey,40.2171,-74.7429
+Carson City,Neveda,39.1695,-119.766,Santa Fe,New Mexico,35.687,-105.9378
+Carson City,Neveda,39.1695,-119.766,Albany,New York,42.6512,-73.755
+Carson City,Neveda,39.1695,-119.766,Raleigh,North Carolina,35.7804,-78.6391
+Carson City,Neveda,39.1695,-119.766,Bismarck,North Dakota,46.8083,-100.7837
+Carson City,Neveda,39.1695,-119.766,Columbus,Ohio,39.9623,-83.0007
+Carson City,Neveda,39.1695,-119.766,Oklahoma City,Oklahoma,35.473,-97.5171
+Carson City,Neveda,39.1695,-119.766,Salem,Oregon,44.9392,-123.0331
+Carson City,Neveda,39.1695,-119.766,Harrisburg,Pennsylvania,40.2663,-76.8861
+Carson City,Neveda,39.1695,-119.766,Providence,Rhoda Island,41.8249,-71.4136
+Carson City,Neveda,39.1695,-119.766,Columbia,South Carolina,34.0007,-81.0343
+Carson City,Neveda,39.1695,-119.766,Pierre,South Dakoda,44.3684,-100.354
+Carson City,Neveda,39.1695,-119.766,Nashville,Tennessee,36.1622,-86.7744
+Carson City,Neveda,39.1695,-119.766,Austin,Texas,30.2711,-97.7437
+Carson City,Neveda,39.1695,-119.766,Salt Lake City,Utah,40.767,-111.8904
+Carson City,Neveda,39.1695,-119.766,Montpelier,Vermont,44.2604,-72.5757
+Carson City,Neveda,39.1695,-119.766,Richmond,Virginia,37.5385,-77.4343
+Carson City,Neveda,39.1695,-119.766,Olympia,Washington,47.0451,-122.895
+Carson City,Neveda,39.1695,-119.766,Charleston,West Virginia,38.3506,-81.6333
+Carson City,Neveda,39.1695,-119.766,Madison,Wisconsin,43.0748,-89.3838
+Carson City,Neveda,39.1695,-119.766,Cheyenne,Wyoming,41.14,-104.82
+Concord,New Hampshire,43.2072,-71.5375,Montgomery,Alabama,32.367,-86.3006
+Concord,New Hampshire,43.2072,-71.5375,Juneau,Alaska,58.3019,-134.4197
+Concord,New Hampshire,43.2072,-71.5375,Phoenix,Arizona,33.4486,-112.0773
+Concord,New Hampshire,43.2072,-71.5375,Little Rock,Arkansas,34.7465,-92.2896
+Concord,New Hampshire,43.2072,-71.5375,Sacramento,California,38.5816,-121.4944
+Concord,New Hampshire,43.2072,-71.5375,Denver,Colorado,39.7392,-104.9849
+Concord,New Hampshire,43.2072,-71.5375,Hartford,Connecticut,41.7646,-72.6909
+Concord,New Hampshire,43.2072,-71.5375,Dover,Delaware,39.1582,-75.5244
+Concord,New Hampshire,43.2072,-71.5375,Tallahassee,Florida,30.4381,-84.2809
+Concord,New Hampshire,43.2072,-71.5375,Atlanta,Georgia,33.7491,-84.3902
+Concord,New Hampshire,43.2072,-71.5375,Honolulu,Hawaii,21.3251,-157.8466
+Concord,New Hampshire,43.2072,-71.5375,Boise,Idaho,43.6166,-116.2008
+Concord,New Hampshire,43.2072,-71.5375,Springfield,Illinios,39.7997,-89.6475
+Concord,New Hampshire,43.2072,-71.5375,Indianapolis,Indiana,39.7683,-86.1584
+Concord,New Hampshire,43.2072,-71.5375,Des Monies,Iowa,41.5872,-93.6219
+Concord,New Hampshire,43.2072,-71.5375,Topeka,Kansas,39.049,-95.6776
+Concord,New Hampshire,43.2072,-71.5375,Frankfort,Kentucky,38.2009,-84.8733
+Concord,New Hampshire,43.2072,-71.5375,Baton Rouge,Louisiana,30.446,-91.1874
+Concord,New Hampshire,43.2072,-71.5375,Augusta,Maine,44.3106,-69.7797
+Concord,New Hampshire,43.2072,-71.5375,Annapolis,Maryland,38.9786,-76.4928
+Concord,New Hampshire,43.2072,-71.5375,Boston,Massachusetts,42.3603,-71.0583
+Concord,New Hampshire,43.2072,-71.5375,Lansing,Michigan,42.7338,-84.5554
+Concord,New Hampshire,43.2072,-71.5375,St. Paul,Minnesota,44.9504,-93.1015
+Concord,New Hampshire,43.2072,-71.5375,Jackson,Mississippi,32.299,-90.1848
+Concord,New Hampshire,43.2072,-71.5375,Jefferson City,Missouri,38.5774,-92.1724
+Concord,New Hampshire,43.2072,-71.5375,Helena,Montana,46.5927,-112.0361
+Concord,New Hampshire,43.2072,-71.5375,Lincoln,Nebraska,40.8,-96.6678
+Concord,New Hampshire,43.2072,-71.5375,Carson City,Neveda,39.1695,-119.766
+Concord,New Hampshire,43.2072,-71.5375,Concord,New Hampshire,43.2072,-71.5375
+Concord,New Hampshire,43.2072,-71.5375,Trenton,New Jersey,40.2171,-74.7429
+Concord,New Hampshire,43.2072,-71.5375,Santa Fe,New Mexico,35.687,-105.9378
+Concord,New Hampshire,43.2072,-71.5375,Albany,New York,42.6512,-73.755
+Concord,New Hampshire,43.2072,-71.5375,Raleigh,North Carolina,35.7804,-78.6391
+Concord,New Hampshire,43.2072,-71.5375,Bismarck,North Dakota,46.8083,-100.7837
+Concord,New Hampshire,43.2072,-71.5375,Columbus,Ohio,39.9623,-83.0007
+Concord,New Hampshire,43.2072,-71.5375,Oklahoma City,Oklahoma,35.473,-97.5171
+Concord,New Hampshire,43.2072,-71.5375,Salem,Oregon,44.9392,-123.0331
+Concord,New Hampshire,43.2072,-71.5375,Harrisburg,Pennsylvania,40.2663,-76.8861
+Concord,New Hampshire,43.2072,-71.5375,Providence,Rhoda Island,41.8249,-71.4136
+Concord,New Hampshire,43.2072,-71.5375,Columbia,South Carolina,34.0007,-81.0343
+Concord,New Hampshire,43.2072,-71.5375,Pierre,South Dakoda,44.3684,-100.354
+Concord,New Hampshire,43.2072,-71.5375,Nashville,Tennessee,36.1622,-86.7744
+Concord,New Hampshire,43.2072,-71.5375,Austin,Texas,30.2711,-97.7437
+Concord,New Hampshire,43.2072,-71.5375,Salt Lake City,Utah,40.767,-111.8904
+Concord,New Hampshire,43.2072,-71.5375,Montpelier,Vermont,44.2604,-72.5757
+Concord,New Hampshire,43.2072,-71.5375,Richmond,Virginia,37.5385,-77.4343
+Concord,New Hampshire,43.2072,-71.5375,Olympia,Washington,47.0451,-122.895
+Concord,New Hampshire,43.2072,-71.5375,Charleston,West Virginia,38.3506,-81.6333
+Concord,New Hampshire,43.2072,-71.5375,Madison,Wisconsin,43.0748,-89.3838
+Concord,New Hampshire,43.2072,-71.5375,Cheyenne,Wyoming,41.14,-104.82
+Trenton,New Jersey,40.2171,-74.7429,Montgomery,Alabama,32.367,-86.3006
+Trenton,New Jersey,40.2171,-74.7429,Juneau,Alaska,58.3019,-134.4197
+Trenton,New Jersey,40.2171,-74.7429,Phoenix,Arizona,33.4486,-112.0773
+Trenton,New Jersey,40.2171,-74.7429,Little Rock,Arkansas,34.7465,-92.2896
+Trenton,New Jersey,40.2171,-74.7429,Sacramento,California,38.5816,-121.4944
+Trenton,New Jersey,40.2171,-74.7429,Denver,Colorado,39.7392,-104.9849
+Trenton,New Jersey,40.2171,-74.7429,Hartford,Connecticut,41.7646,-72.6909
+Trenton,New Jersey,40.2171,-74.7429,Dover,Delaware,39.1582,-75.5244
+Trenton,New Jersey,40.2171,-74.7429,Tallahassee,Florida,30.4381,-84.2809
+Trenton,New Jersey,40.2171,-74.7429,Atlanta,Georgia,33.7491,-84.3902
+Trenton,New Jersey,40.2171,-74.7429,Honolulu,Hawaii,21.3251,-157.8466
+Trenton,New Jersey,40.2171,-74.7429,Boise,Idaho,43.6166,-116.2008
+Trenton,New Jersey,40.2171,-74.7429,Springfield,Illinios,39.7997,-89.6475
+Trenton,New Jersey,40.2171,-74.7429,Indianapolis,Indiana,39.7683,-86.1584
+Trenton,New Jersey,40.2171,-74.7429,Des Monies,Iowa,41.5872,-93.6219
+Trenton,New Jersey,40.2171,-74.7429,Topeka,Kansas,39.049,-95.6776
+Trenton,New Jersey,40.2171,-74.7429,Frankfort,Kentucky,38.2009,-84.8733
+Trenton,New Jersey,40.2171,-74.7429,Baton Rouge,Louisiana,30.446,-91.1874
+Trenton,New Jersey,40.2171,-74.7429,Augusta,Maine,44.3106,-69.7797
+Trenton,New Jersey,40.2171,-74.7429,Annapolis,Maryland,38.9786,-76.4928
+Trenton,New Jersey,40.2171,-74.7429,Boston,Massachusetts,42.3603,-71.0583
+Trenton,New Jersey,40.2171,-74.7429,Lansing,Michigan,42.7338,-84.5554
+Trenton,New Jersey,40.2171,-74.7429,St. Paul,Minnesota,44.9504,-93.1015
+Trenton,New Jersey,40.2171,-74.7429,Jackson,Mississippi,32.299,-90.1848
+Trenton,New Jersey,40.2171,-74.7429,Jefferson City,Missouri,38.5774,-92.1724
+Trenton,New Jersey,40.2171,-74.7429,Helena,Montana,46.5927,-112.0361
+Trenton,New Jersey,40.2171,-74.7429,Lincoln,Nebraska,40.8,-96.6678
+Trenton,New Jersey,40.2171,-74.7429,Carson City,Neveda,39.1695,-119.766
+Trenton,New Jersey,40.2171,-74.7429,Concord,New Hampshire,43.2072,-71.5375
+Trenton,New Jersey,40.2171,-74.7429,Trenton,New Jersey,40.2171,-74.7429
+Trenton,New Jersey,40.2171,-74.7429,Santa Fe,New Mexico,35.687,-105.9378
+Trenton,New Jersey,40.2171,-74.7429,Albany,New York,42.6512,-73.755
+Trenton,New Jersey,40.2171,-74.7429,Raleigh,North Carolina,35.7804,-78.6391
+Trenton,New Jersey,40.2171,-74.7429,Bismarck,North Dakota,46.8083,-100.7837
+Trenton,New Jersey,40.2171,-74.7429,Columbus,Ohio,39.9623,-83.0007
+Trenton,New Jersey,40.2171,-74.7429,Oklahoma City,Oklahoma,35.473,-97.5171
+Trenton,New Jersey,40.2171,-74.7429,Salem,Oregon,44.9392,-123.0331
+Trenton,New Jersey,40.2171,-74.7429,Harrisburg,Pennsylvania,40.2663,-76.8861
+Trenton,New Jersey,40.2171,-74.7429,Providence,Rhoda Island,41.8249,-71.4136
+Trenton,New Jersey,40.2171,-74.7429,Columbia,South Carolina,34.0007,-81.0343
+Trenton,New Jersey,40.2171,-74.7429,Pierre,South Dakoda,44.3684,-100.354
+Trenton,New Jersey,40.2171,-74.7429,Nashville,Tennessee,36.1622,-86.7744
+Trenton,New Jersey,40.2171,-74.7429,Austin,Texas,30.2711,-97.7437
+Trenton,New Jersey,40.2171,-74.7429,Salt Lake City,Utah,40.767,-111.8904
+Trenton,New Jersey,40.2171,-74.7429,Montpelier,Vermont,44.2604,-72.5757
+Trenton,New Jersey,40.2171,-74.7429,Richmond,Virginia,37.5385,-77.4343
+Trenton,New Jersey,40.2171,-74.7429,Olympia,Washington,47.0451,-122.895
+Trenton,New Jersey,40.2171,-74.7429,Charleston,West Virginia,38.3506,-81.6333
+Trenton,New Jersey,40.2171,-74.7429,Madison,Wisconsin,43.0748,-89.3838
+Trenton,New Jersey,40.2171,-74.7429,Cheyenne,Wyoming,41.14,-104.82
+Santa Fe,New Mexico,35.687,-105.9378,Montgomery,Alabama,32.367,-86.3006
+Santa Fe,New Mexico,35.687,-105.9378,Juneau,Alaska,58.3019,-134.4197
+Santa Fe,New Mexico,35.687,-105.9378,Phoenix,Arizona,33.4486,-112.0773
+Santa Fe,New Mexico,35.687,-105.9378,Little Rock,Arkansas,34.7465,-92.2896
+Santa Fe,New Mexico,35.687,-105.9378,Sacramento,California,38.5816,-121.4944
+Santa Fe,New Mexico,35.687,-105.9378,Denver,Colorado,39.7392,-104.9849
+Santa Fe,New Mexico,35.687,-105.9378,Hartford,Connecticut,41.7646,-72.6909
+Santa Fe,New Mexico,35.687,-105.9378,Dover,Delaware,39.1582,-75.5244
+Santa Fe,New Mexico,35.687,-105.9378,Tallahassee,Florida,30.4381,-84.2809
+Santa Fe,New Mexico,35.687,-105.9378,Atlanta,Georgia,33.7491,-84.3902
+Santa Fe,New Mexico,35.687,-105.9378,Honolulu,Hawaii,21.3251,-157.8466
+Santa Fe,New Mexico,35.687,-105.9378,Boise,Idaho,43.6166,-116.2008
+Santa Fe,New Mexico,35.687,-105.9378,Springfield,Illinios,39.7997,-89.6475
+Santa Fe,New Mexico,35.687,-105.9378,Indianapolis,Indiana,39.7683,-86.1584
+Santa Fe,New Mexico,35.687,-105.9378,Des Monies,Iowa,41.5872,-93.6219
+Santa Fe,New Mexico,35.687,-105.9378,Topeka,Kansas,39.049,-95.6776
+Santa Fe,New Mexico,35.687,-105.9378,Frankfort,Kentucky,38.2009,-84.8733
+Santa Fe,New Mexico,35.687,-105.9378,Baton Rouge,Louisiana,30.446,-91.1874
+Santa Fe,New Mexico,35.687,-105.9378,Augusta,Maine,44.3106,-69.7797
+Santa Fe,New Mexico,35.687,-105.9378,Annapolis,Maryland,38.9786,-76.4928
+Santa Fe,New Mexico,35.687,-105.9378,Boston,Massachusetts,42.3603,-71.0583
+Santa Fe,New Mexico,35.687,-105.9378,Lansing,Michigan,42.7338,-84.5554
+Santa Fe,New Mexico,35.687,-105.9378,St. Paul,Minnesota,44.9504,-93.1015
+Santa Fe,New Mexico,35.687,-105.9378,Jackson,Mississippi,32.299,-90.1848
+Santa Fe,New Mexico,35.687,-105.9378,Jefferson City,Missouri,38.5774,-92.1724
+Santa Fe,New Mexico,35.687,-105.9378,Helena,Montana,46.5927,-112.0361
+Santa Fe,New Mexico,35.687,-105.9378,Lincoln,Nebraska,40.8,-96.6678
+Santa Fe,New Mexico,35.687,-105.9378,Carson City,Neveda,39.1695,-119.766
+Santa Fe,New Mexico,35.687,-105.9378,Concord,New Hampshire,43.2072,-71.5375
+Santa Fe,New Mexico,35.687,-105.9378,Trenton,New Jersey,40.2171,-74.7429
+Santa Fe,New Mexico,35.687,-105.9378,Santa Fe,New Mexico,35.687,-105.9378
+Santa Fe,New Mexico,35.687,-105.9378,Albany,New York,42.6512,-73.755
+Santa Fe,New Mexico,35.687,-105.9378,Raleigh,North Carolina,35.7804,-78.6391
+Santa Fe,New Mexico,35.687,-105.9378,Bismarck,North Dakota,46.8083,-100.7837
+Santa Fe,New Mexico,35.687,-105.9378,Columbus,Ohio,39.9623,-83.0007
+Santa Fe,New Mexico,35.687,-105.9378,Oklahoma City,Oklahoma,35.473,-97.5171
+Santa Fe,New Mexico,35.687,-105.9378,Salem,Oregon,44.9392,-123.0331
+Santa Fe,New Mexico,35.687,-105.9378,Harrisburg,Pennsylvania,40.2663,-76.8861
+Santa Fe,New Mexico,35.687,-105.9378,Providence,Rhoda Island,41.8249,-71.4136
+Santa Fe,New Mexico,35.687,-105.9378,Columbia,South Carolina,34.0007,-81.0343
+Santa Fe,New Mexico,35.687,-105.9378,Pierre,South Dakoda,44.3684,-100.354
+Santa Fe,New Mexico,35.687,-105.9378,Nashville,Tennessee,36.1622,-86.7744
+Santa Fe,New Mexico,35.687,-105.9378,Austin,Texas,30.2711,-97.7437
+Santa Fe,New Mexico,35.687,-105.9378,Salt Lake City,Utah,40.767,-111.8904
+Santa Fe,New Mexico,35.687,-105.9378,Montpelier,Vermont,44.2604,-72.5757
+Santa Fe,New Mexico,35.687,-105.9378,Richmond,Virginia,37.5385,-77.4343
+Santa Fe,New Mexico,35.687,-105.9378,Olympia,Washington,47.0451,-122.895
+Santa Fe,New Mexico,35.687,-105.9378,Charleston,West Virginia,38.3506,-81.6333
+Santa Fe,New Mexico,35.687,-105.9378,Madison,Wisconsin,43.0748,-89.3838
+Santa Fe,New Mexico,35.687,-105.9378,Cheyenne,Wyoming,41.14,-104.82
+Albany,New York,42.6512,-73.755,Montgomery,Alabama,32.367,-86.3006
+Albany,New York,42.6512,-73.755,Juneau,Alaska,58.3019,-134.4197
+Albany,New York,42.6512,-73.755,Phoenix,Arizona,33.4486,-112.0773
+Albany,New York,42.6512,-73.755,Little Rock,Arkansas,34.7465,-92.2896
+Albany,New York,42.6512,-73.755,Sacramento,California,38.5816,-121.4944
+Albany,New York,42.6512,-73.755,Denver,Colorado,39.7392,-104.9849
+Albany,New York,42.6512,-73.755,Hartford,Connecticut,41.7646,-72.6909
+Albany,New York,42.6512,-73.755,Dover,Delaware,39.1582,-75.5244
+Albany,New York,42.6512,-73.755,Tallahassee,Florida,30.4381,-84.2809
+Albany,New York,42.6512,-73.755,Atlanta,Georgia,33.7491,-84.3902
+Albany,New York,42.6512,-73.755,Honolulu,Hawaii,21.3251,-157.8466
+Albany,New York,42.6512,-73.755,Boise,Idaho,43.6166,-116.2008
+Albany,New York,42.6512,-73.755,Springfield,Illinios,39.7997,-89.6475
+Albany,New York,42.6512,-73.755,Indianapolis,Indiana,39.7683,-86.1584
+Albany,New York,42.6512,-73.755,Des Monies,Iowa,41.5872,-93.6219
+Albany,New York,42.6512,-73.755,Topeka,Kansas,39.049,-95.6776
+Albany,New York,42.6512,-73.755,Frankfort,Kentucky,38.2009,-84.8733
+Albany,New York,42.6512,-73.755,Baton Rouge,Louisiana,30.446,-91.1874
+Albany,New York,42.6512,-73.755,Augusta,Maine,44.3106,-69.7797
+Albany,New York,42.6512,-73.755,Annapolis,Maryland,38.9786,-76.4928
+Albany,New York,42.6512,-73.755,Boston,Massachusetts,42.3603,-71.0583
+Albany,New York,42.6512,-73.755,Lansing,Michigan,42.7338,-84.5554
+Albany,New York,42.6512,-73.755,St. Paul,Minnesota,44.9504,-93.1015
+Albany,New York,42.6512,-73.755,Jackson,Mississippi,32.299,-90.1848
+Albany,New York,42.6512,-73.755,Jefferson City,Missouri,38.5774,-92.1724
+Albany,New York,42.6512,-73.755,Helena,Montana,46.5927,-112.0361
+Albany,New York,42.6512,-73.755,Lincoln,Nebraska,40.8,-96.6678
+Albany,New York,42.6512,-73.755,Carson City,Neveda,39.1695,-119.766
+Albany,New York,42.6512,-73.755,Concord,New Hampshire,43.2072,-71.5375
+Albany,New York,42.6512,-73.755,Trenton,New Jersey,40.2171,-74.7429
+Albany,New York,42.6512,-73.755,Santa Fe,New Mexico,35.687,-105.9378
+Albany,New York,42.6512,-73.755,Albany,New York,42.6512,-73.755
+Albany,New York,42.6512,-73.755,Raleigh,North Carolina,35.7804,-78.6391
+Albany,New York,42.6512,-73.755,Bismarck,North Dakota,46.8083,-100.7837
+Albany,New York,42.6512,-73.755,Columbus,Ohio,39.9623,-83.0007
+Albany,New York,42.6512,-73.755,Oklahoma City,Oklahoma,35.473,-97.5171
+Albany,New York,42.6512,-73.755,Salem,Oregon,44.9392,-123.0331
+Albany,New York,42.6512,-73.755,Harrisburg,Pennsylvania,40.2663,-76.8861
+Albany,New York,42.6512,-73.755,Providence,Rhoda Island,41.8249,-71.4136
+Albany,New York,42.6512,-73.755,Columbia,South Carolina,34.0007,-81.0343
+Albany,New York,42.6512,-73.755,Pierre,South Dakoda,44.3684,-100.354
+Albany,New York,42.6512,-73.755,Nashville,Tennessee,36.1622,-86.7744
+Albany,New York,42.6512,-73.755,Austin,Texas,30.2711,-97.7437
+Albany,New York,42.6512,-73.755,Salt Lake City,Utah,40.767,-111.8904
+Albany,New York,42.6512,-73.755,Montpelier,Vermont,44.2604,-72.5757
+Albany,New York,42.6512,-73.755,Richmond,Virginia,37.5385,-77.4343
+Albany,New York,42.6512,-73.755,Olympia,Washington,47.0451,-122.895
+Albany,New York,42.6512,-73.755,Charleston,West Virginia,38.3506,-81.6333
+Albany,New York,42.6512,-73.755,Madison,Wisconsin,43.0748,-89.3838
+Albany,New York,42.6512,-73.755,Cheyenne,Wyoming,41.14,-104.82
+Raleigh,North Carolina,35.7804,-78.6391,Montgomery,Alabama,32.367,-86.3006
+Raleigh,North Carolina,35.7804,-78.6391,Juneau,Alaska,58.3019,-134.4197
+Raleigh,North Carolina,35.7804,-78.6391,Phoenix,Arizona,33.4486,-112.0773
+Raleigh,North Carolina,35.7804,-78.6391,Little Rock,Arkansas,34.7465,-92.2896
+Raleigh,North Carolina,35.7804,-78.6391,Sacramento,California,38.5816,-121.4944
+Raleigh,North Carolina,35.7804,-78.6391,Denver,Colorado,39.7392,-104.9849
+Raleigh,North Carolina,35.7804,-78.6391,Hartford,Connecticut,41.7646,-72.6909
+Raleigh,North Carolina,35.7804,-78.6391,Dover,Delaware,39.1582,-75.5244
+Raleigh,North Carolina,35.7804,-78.6391,Tallahassee,Florida,30.4381,-84.2809
+Raleigh,North Carolina,35.7804,-78.6391,Atlanta,Georgia,33.7491,-84.3902
+Raleigh,North Carolina,35.7804,-78.6391,Honolulu,Hawaii,21.3251,-157.8466
+Raleigh,North Carolina,35.7804,-78.6391,Boise,Idaho,43.6166,-116.2008
+Raleigh,North Carolina,35.7804,-78.6391,Springfield,Illinios,39.7997,-89.6475
+Raleigh,North Carolina,35.7804,-78.6391,Indianapolis,Indiana,39.7683,-86.1584
+Raleigh,North Carolina,35.7804,-78.6391,Des Monies,Iowa,41.5872,-93.6219
+Raleigh,North Carolina,35.7804,-78.6391,Topeka,Kansas,39.049,-95.6776
+Raleigh,North Carolina,35.7804,-78.6391,Frankfort,Kentucky,38.2009,-84.8733
+Raleigh,North Carolina,35.7804,-78.6391,Baton Rouge,Louisiana,30.446,-91.1874
+Raleigh,North Carolina,35.7804,-78.6391,Augusta,Maine,44.3106,-69.7797
+Raleigh,North Carolina,35.7804,-78.6391,Annapolis,Maryland,38.9786,-76.4928
+Raleigh,North Carolina,35.7804,-78.6391,Boston,Massachusetts,42.3603,-71.0583
+Raleigh,North Carolina,35.7804,-78.6391,Lansing,Michigan,42.7338,-84.5554
+Raleigh,North Carolina,35.7804,-78.6391,St. Paul,Minnesota,44.9504,-93.1015
+Raleigh,North Carolina,35.7804,-78.6391,Jackson,Mississippi,32.299,-90.1848
+Raleigh,North Carolina,35.7804,-78.6391,Jefferson City,Missouri,38.5774,-92.1724
+Raleigh,North Carolina,35.7804,-78.6391,Helena,Montana,46.5927,-112.0361
+Raleigh,North Carolina,35.7804,-78.6391,Lincoln,Nebraska,40.8,-96.6678
+Raleigh,North Carolina,35.7804,-78.6391,Carson City,Neveda,39.1695,-119.766
+Raleigh,North Carolina,35.7804,-78.6391,Concord,New Hampshire,43.2072,-71.5375
+Raleigh,North Carolina,35.7804,-78.6391,Trenton,New Jersey,40.2171,-74.7429
+Raleigh,North Carolina,35.7804,-78.6391,Santa Fe,New Mexico,35.687,-105.9378
+Raleigh,North Carolina,35.7804,-78.6391,Albany,New York,42.6512,-73.755
+Raleigh,North Carolina,35.7804,-78.6391,Raleigh,North Carolina,35.7804,-78.6391
+Raleigh,North Carolina,35.7804,-78.6391,Bismarck,North Dakota,46.8083,-100.7837
+Raleigh,North Carolina,35.7804,-78.6391,Columbus,Ohio,39.9623,-83.0007
+Raleigh,North Carolina,35.7804,-78.6391,Oklahoma City,Oklahoma,35.473,-97.5171
+Raleigh,North Carolina,35.7804,-78.6391,Salem,Oregon,44.9392,-123.0331
+Raleigh,North Carolina,35.7804,-78.6391,Harrisburg,Pennsylvania,40.2663,-76.8861
+Raleigh,North Carolina,35.7804,-78.6391,Providence,Rhoda Island,41.8249,-71.4136
+Raleigh,North Carolina,35.7804,-78.6391,Columbia,South Carolina,34.0007,-81.0343
+Raleigh,North Carolina,35.7804,-78.6391,Pierre,South Dakoda,44.3684,-100.354
+Raleigh,North Carolina,35.7804,-78.6391,Nashville,Tennessee,36.1622,-86.7744
+Raleigh,North Carolina,35.7804,-78.6391,Austin,Texas,30.2711,-97.7437
+Raleigh,North Carolina,35.7804,-78.6391,Salt Lake City,Utah,40.767,-111.8904
+Raleigh,North Carolina,35.7804,-78.6391,Montpelier,Vermont,44.2604,-72.5757
+Raleigh,North Carolina,35.7804,-78.6391,Richmond,Virginia,37.5385,-77.4343
+Raleigh,North Carolina,35.7804,-78.6391,Olympia,Washington,47.0451,-122.895
+Raleigh,North Carolina,35.7804,-78.6391,Charleston,West Virginia,38.3506,-81.6333
+Raleigh,North Carolina,35.7804,-78.6391,Madison,Wisconsin,43.0748,-89.3838
+Raleigh,North Carolina,35.7804,-78.6391,Cheyenne,Wyoming,41.14,-104.82
+Bismarck,North Dakota,46.8083,-100.7837,Montgomery,Alabama,32.367,-86.3006
+Bismarck,North Dakota,46.8083,-100.7837,Juneau,Alaska,58.3019,-134.4197
+Bismarck,North Dakota,46.8083,-100.7837,Phoenix,Arizona,33.4486,-112.0773
+Bismarck,North Dakota,46.8083,-100.7837,Little Rock,Arkansas,34.7465,-92.2896
+Bismarck,North Dakota,46.8083,-100.7837,Sacramento,California,38.5816,-121.4944
+Bismarck,North Dakota,46.8083,-100.7837,Denver,Colorado,39.7392,-104.9849
+Bismarck,North Dakota,46.8083,-100.7837,Hartford,Connecticut,41.7646,-72.6909
+Bismarck,North Dakota,46.8083,-100.7837,Dover,Delaware,39.1582,-75.5244
+Bismarck,North Dakota,46.8083,-100.7837,Tallahassee,Florida,30.4381,-84.2809
+Bismarck,North Dakota,46.8083,-100.7837,Atlanta,Georgia,33.7491,-84.3902
+Bismarck,North Dakota,46.8083,-100.7837,Honolulu,Hawaii,21.3251,-157.8466
+Bismarck,North Dakota,46.8083,-100.7837,Boise,Idaho,43.6166,-116.2008
+Bismarck,North Dakota,46.8083,-100.7837,Springfield,Illinios,39.7997,-89.6475
+Bismarck,North Dakota,46.8083,-100.7837,Indianapolis,Indiana,39.7683,-86.1584
+Bismarck,North Dakota,46.8083,-100.7837,Des Monies,Iowa,41.5872,-93.6219
+Bismarck,North Dakota,46.8083,-100.7837,Topeka,Kansas,39.049,-95.6776
+Bismarck,North Dakota,46.8083,-100.7837,Frankfort,Kentucky,38.2009,-84.8733
+Bismarck,North Dakota,46.8083,-100.7837,Baton Rouge,Louisiana,30.446,-91.1874
+Bismarck,North Dakota,46.8083,-100.7837,Augusta,Maine,44.3106,-69.7797
+Bismarck,North Dakota,46.8083,-100.7837,Annapolis,Maryland,38.9786,-76.4928
+Bismarck,North Dakota,46.8083,-100.7837,Boston,Massachusetts,42.3603,-71.0583
+Bismarck,North Dakota,46.8083,-100.7837,Lansing,Michigan,42.7338,-84.5554
+Bismarck,North Dakota,46.8083,-100.7837,St. Paul,Minnesota,44.9504,-93.1015
+Bismarck,North Dakota,46.8083,-100.7837,Jackson,Mississippi,32.299,-90.1848
+Bismarck,North Dakota,46.8083,-100.7837,Jefferson City,Missouri,38.5774,-92.1724
+Bismarck,North Dakota,46.8083,-100.7837,Helena,Montana,46.5927,-112.0361
+Bismarck,North Dakota,46.8083,-100.7837,Lincoln,Nebraska,40.8,-96.6678
+Bismarck,North Dakota,46.8083,-100.7837,Carson City,Neveda,39.1695,-119.766
+Bismarck,North Dakota,46.8083,-100.7837,Concord,New Hampshire,43.2072,-71.5375
+Bismarck,North Dakota,46.8083,-100.7837,Trenton,New Jersey,40.2171,-74.7429
+Bismarck,North Dakota,46.8083,-100.7837,Santa Fe,New Mexico,35.687,-105.9378
+Bismarck,North Dakota,46.8083,-100.7837,Albany,New York,42.6512,-73.755
+Bismarck,North Dakota,46.8083,-100.7837,Raleigh,North Carolina,35.7804,-78.6391
+Bismarck,North Dakota,46.8083,-100.7837,Bismarck,North Dakota,46.8083,-100.7837
+Bismarck,North Dakota,46.8083,-100.7837,Columbus,Ohio,39.9623,-83.0007
+Bismarck,North Dakota,46.8083,-100.7837,Oklahoma City,Oklahoma,35.473,-97.5171
+Bismarck,North Dakota,46.8083,-100.7837,Salem,Oregon,44.9392,-123.0331
+Bismarck,North Dakota,46.8083,-100.7837,Harrisburg,Pennsylvania,40.2663,-76.8861
+Bismarck,North Dakota,46.8083,-100.7837,Providence,Rhoda Island,41.8249,-71.4136
+Bismarck,North Dakota,46.8083,-100.7837,Columbia,South Carolina,34.0007,-81.0343
+Bismarck,North Dakota,46.8083,-100.7837,Pierre,South Dakoda,44.3684,-100.354
+Bismarck,North Dakota,46.8083,-100.7837,Nashville,Tennessee,36.1622,-86.7744
+Bismarck,North Dakota,46.8083,-100.7837,Austin,Texas,30.2711,-97.7437
+Bismarck,North Dakota,46.8083,-100.7837,Salt Lake City,Utah,40.767,-111.8904
+Bismarck,North Dakota,46.8083,-100.7837,Montpelier,Vermont,44.2604,-72.5757
+Bismarck,North Dakota,46.8083,-100.7837,Richmond,Virginia,37.5385,-77.4343
+Bismarck,North Dakota,46.8083,-100.7837,Olympia,Washington,47.0451,-122.895
+Bismarck,North Dakota,46.8083,-100.7837,Charleston,West Virginia,38.3506,-81.6333
+Bismarck,North Dakota,46.8083,-100.7837,Madison,Wisconsin,43.0748,-89.3838
+Bismarck,North Dakota,46.8083,-100.7837,Cheyenne,Wyoming,41.14,-104.82
+Columbus,Ohio,39.9623,-83.0007,Montgomery,Alabama,32.367,-86.3006
+Columbus,Ohio,39.9623,-83.0007,Juneau,Alaska,58.3019,-134.4197
+Columbus,Ohio,39.9623,-83.0007,Phoenix,Arizona,33.4486,-112.0773
+Columbus,Ohio,39.9623,-83.0007,Little Rock,Arkansas,34.7465,-92.2896
+Columbus,Ohio,39.9623,-83.0007,Sacramento,California,38.5816,-121.4944
+Columbus,Ohio,39.9623,-83.0007,Denver,Colorado,39.7392,-104.9849
+Columbus,Ohio,39.9623,-83.0007,Hartford,Connecticut,41.7646,-72.6909
+Columbus,Ohio,39.9623,-83.0007,Dover,Delaware,39.1582,-75.5244
+Columbus,Ohio,39.9623,-83.0007,Tallahassee,Florida,30.4381,-84.2809
+Columbus,Ohio,39.9623,-83.0007,Atlanta,Georgia,33.7491,-84.3902
+Columbus,Ohio,39.9623,-83.0007,Honolulu,Hawaii,21.3251,-157.8466
+Columbus,Ohio,39.9623,-83.0007,Boise,Idaho,43.6166,-116.2008
+Columbus,Ohio,39.9623,-83.0007,Springfield,Illinios,39.7997,-89.6475
+Columbus,Ohio,39.9623,-83.0007,Indianapolis,Indiana,39.7683,-86.1584
+Columbus,Ohio,39.9623,-83.0007,Des Monies,Iowa,41.5872,-93.6219
+Columbus,Ohio,39.9623,-83.0007,Topeka,Kansas,39.049,-95.6776
+Columbus,Ohio,39.9623,-83.0007,Frankfort,Kentucky,38.2009,-84.8733
+Columbus,Ohio,39.9623,-83.0007,Baton Rouge,Louisiana,30.446,-91.1874
+Columbus,Ohio,39.9623,-83.0007,Augusta,Maine,44.3106,-69.7797
+Columbus,Ohio,39.9623,-83.0007,Annapolis,Maryland,38.9786,-76.4928
+Columbus,Ohio,39.9623,-83.0007,Boston,Massachusetts,42.3603,-71.0583
+Columbus,Ohio,39.9623,-83.0007,Lansing,Michigan,42.7338,-84.5554
+Columbus,Ohio,39.9623,-83.0007,St. Paul,Minnesota,44.9504,-93.1015
+Columbus,Ohio,39.9623,-83.0007,Jackson,Mississippi,32.299,-90.1848
+Columbus,Ohio,39.9623,-83.0007,Jefferson City,Missouri,38.5774,-92.1724
+Columbus,Ohio,39.9623,-83.0007,Helena,Montana,46.5927,-112.0361
+Columbus,Ohio,39.9623,-83.0007,Lincoln,Nebraska,40.8,-96.6678
+Columbus,Ohio,39.9623,-83.0007,Carson City,Neveda,39.1695,-119.766
+Columbus,Ohio,39.9623,-83.0007,Concord,New Hampshire,43.2072,-71.5375
+Columbus,Ohio,39.9623,-83.0007,Trenton,New Jersey,40.2171,-74.7429
+Columbus,Ohio,39.9623,-83.0007,Santa Fe,New Mexico,35.687,-105.9378
+Columbus,Ohio,39.9623,-83.0007,Albany,New York,42.6512,-73.755
+Columbus,Ohio,39.9623,-83.0007,Raleigh,North Carolina,35.7804,-78.6391
+Columbus,Ohio,39.9623,-83.0007,Bismarck,North Dakota,46.8083,-100.7837
+Columbus,Ohio,39.9623,-83.0007,Columbus,Ohio,39.9623,-83.0007
+Columbus,Ohio,39.9623,-83.0007,Oklahoma City,Oklahoma,35.473,-97.5171
+Columbus,Ohio,39.9623,-83.0007,Salem,Oregon,44.9392,-123.0331
+Columbus,Ohio,39.9623,-83.0007,Harrisburg,Pennsylvania,40.2663,-76.8861
+Columbus,Ohio,39.9623,-83.0007,Providence,Rhoda Island,41.8249,-71.4136
+Columbus,Ohio,39.9623,-83.0007,Columbia,South Carolina,34.0007,-81.0343
+Columbus,Ohio,39.9623,-83.0007,Pierre,South Dakoda,44.3684,-100.354
+Columbus,Ohio,39.9623,-83.0007,Nashville,Tennessee,36.1622,-86.7744
+Columbus,Ohio,39.9623,-83.0007,Austin,Texas,30.2711,-97.7437
+Columbus,Ohio,39.9623,-83.0007,Salt Lake City,Utah,40.767,-111.8904
+Columbus,Ohio,39.9623,-83.0007,Montpelier,Vermont,44.2604,-72.5757
+Columbus,Ohio,39.9623,-83.0007,Richmond,Virginia,37.5385,-77.4343
+Columbus,Ohio,39.9623,-83.0007,Olympia,Washington,47.0451,-122.895
+Columbus,Ohio,39.9623,-83.0007,Charleston,West Virginia,38.3506,-81.6333
+Columbus,Ohio,39.9623,-83.0007,Madison,Wisconsin,43.0748,-89.3838
+Columbus,Ohio,39.9623,-83.0007,Cheyenne,Wyoming,41.14,-104.82
+Oklahoma City,Oklahoma,35.473,-97.5171,Montgomery,Alabama,32.367,-86.3006
+Oklahoma City,Oklahoma,35.473,-97.5171,Juneau,Alaska,58.3019,-134.4197
+Oklahoma City,Oklahoma,35.473,-97.5171,Phoenix,Arizona,33.4486,-112.0773
+Oklahoma City,Oklahoma,35.473,-97.5171,Little Rock,Arkansas,34.7465,-92.2896
+Oklahoma City,Oklahoma,35.473,-97.5171,Sacramento,California,38.5816,-121.4944
+Oklahoma City,Oklahoma,35.473,-97.5171,Denver,Colorado,39.7392,-104.9849
+Oklahoma City,Oklahoma,35.473,-97.5171,Hartford,Connecticut,41.7646,-72.6909
+Oklahoma City,Oklahoma,35.473,-97.5171,Dover,Delaware,39.1582,-75.5244
+Oklahoma City,Oklahoma,35.473,-97.5171,Tallahassee,Florida,30.4381,-84.2809
+Oklahoma City,Oklahoma,35.473,-97.5171,Atlanta,Georgia,33.7491,-84.3902
+Oklahoma City,Oklahoma,35.473,-97.5171,Honolulu,Hawaii,21.3251,-157.8466
+Oklahoma City,Oklahoma,35.473,-97.5171,Boise,Idaho,43.6166,-116.2008
+Oklahoma City,Oklahoma,35.473,-97.5171,Springfield,Illinios,39.7997,-89.6475
+Oklahoma City,Oklahoma,35.473,-97.5171,Indianapolis,Indiana,39.7683,-86.1584
+Oklahoma City,Oklahoma,35.473,-97.5171,Des Monies,Iowa,41.5872,-93.6219
+Oklahoma City,Oklahoma,35.473,-97.5171,Topeka,Kansas,39.049,-95.6776
+Oklahoma City,Oklahoma,35.473,-97.5171,Frankfort,Kentucky,38.2009,-84.8733
+Oklahoma City,Oklahoma,35.473,-97.5171,Baton Rouge,Louisiana,30.446,-91.1874
+Oklahoma City,Oklahoma,35.473,-97.5171,Augusta,Maine,44.3106,-69.7797
+Oklahoma City,Oklahoma,35.473,-97.5171,Annapolis,Maryland,38.9786,-76.4928
+Oklahoma City,Oklahoma,35.473,-97.5171,Boston,Massachusetts,42.3603,-71.0583
+Oklahoma City,Oklahoma,35.473,-97.5171,Lansing,Michigan,42.7338,-84.5554
+Oklahoma City,Oklahoma,35.473,-97.5171,St. Paul,Minnesota,44.9504,-93.1015
+Oklahoma City,Oklahoma,35.473,-97.5171,Jackson,Mississippi,32.299,-90.1848
+Oklahoma City,Oklahoma,35.473,-97.5171,Jefferson City,Missouri,38.5774,-92.1724
+Oklahoma City,Oklahoma,35.473,-97.5171,Helena,Montana,46.5927,-112.0361
+Oklahoma City,Oklahoma,35.473,-97.5171,Lincoln,Nebraska,40.8,-96.6678
+Oklahoma City,Oklahoma,35.473,-97.5171,Carson City,Neveda,39.1695,-119.766
+Oklahoma City,Oklahoma,35.473,-97.5171,Concord,New Hampshire,43.2072,-71.5375
+Oklahoma City,Oklahoma,35.473,-97.5171,Trenton,New Jersey,40.2171,-74.7429
+Oklahoma City,Oklahoma,35.473,-97.5171,Santa Fe,New Mexico,35.687,-105.9378
+Oklahoma City,Oklahoma,35.473,-97.5171,Albany,New York,42.6512,-73.755
+Oklahoma City,Oklahoma,35.473,-97.5171,Raleigh,North Carolina,35.7804,-78.6391
+Oklahoma City,Oklahoma,35.473,-97.5171,Bismarck,North Dakota,46.8083,-100.7837
+Oklahoma City,Oklahoma,35.473,-97.5171,Columbus,Ohio,39.9623,-83.0007
+Oklahoma City,Oklahoma,35.473,-97.5171,Oklahoma City,Oklahoma,35.473,-97.5171
+Oklahoma City,Oklahoma,35.473,-97.5171,Salem,Oregon,44.9392,-123.0331
+Oklahoma City,Oklahoma,35.473,-97.5171,Harrisburg,Pennsylvania,40.2663,-76.8861
+Oklahoma City,Oklahoma,35.473,-97.5171,Providence,Rhoda Island,41.8249,-71.4136
+Oklahoma City,Oklahoma,35.473,-97.5171,Columbia,South Carolina,34.0007,-81.0343
+Oklahoma City,Oklahoma,35.473,-97.5171,Pierre,South Dakoda,44.3684,-100.354
+Oklahoma City,Oklahoma,35.473,-97.5171,Nashville,Tennessee,36.1622,-86.7744
+Oklahoma City,Oklahoma,35.473,-97.5171,Austin,Texas,30.2711,-97.7437
+Oklahoma City,Oklahoma,35.473,-97.5171,Salt Lake City,Utah,40.767,-111.8904
+Oklahoma City,Oklahoma,35.473,-97.5171,Montpelier,Vermont,44.2604,-72.5757
+Oklahoma City,Oklahoma,35.473,-97.5171,Richmond,Virginia,37.5385,-77.4343
+Oklahoma City,Oklahoma,35.473,-97.5171,Olympia,Washington,47.0451,-122.895
+Oklahoma City,Oklahoma,35.473,-97.5171,Charleston,West Virginia,38.3506,-81.6333
+Oklahoma City,Oklahoma,35.473,-97.5171,Madison,Wisconsin,43.0748,-89.3838
+Oklahoma City,Oklahoma,35.473,-97.5171,Cheyenne,Wyoming,41.14,-104.82
+Salem,Oregon,44.9392,-123.0331,Montgomery,Alabama,32.367,-86.3006
+Salem,Oregon,44.9392,-123.0331,Juneau,Alaska,58.3019,-134.4197
+Salem,Oregon,44.9392,-123.0331,Phoenix,Arizona,33.4486,-112.0773
+Salem,Oregon,44.9392,-123.0331,Little Rock,Arkansas,34.7465,-92.2896
+Salem,Oregon,44.9392,-123.0331,Sacramento,California,38.5816,-121.4944
+Salem,Oregon,44.9392,-123.0331,Denver,Colorado,39.7392,-104.9849
+Salem,Oregon,44.9392,-123.0331,Hartford,Connecticut,41.7646,-72.6909
+Salem,Oregon,44.9392,-123.0331,Dover,Delaware,39.1582,-75.5244
+Salem,Oregon,44.9392,-123.0331,Tallahassee,Florida,30.4381,-84.2809
+Salem,Oregon,44.9392,-123.0331,Atlanta,Georgia,33.7491,-84.3902
+Salem,Oregon,44.9392,-123.0331,Honolulu,Hawaii,21.3251,-157.8466
+Salem,Oregon,44.9392,-123.0331,Boise,Idaho,43.6166,-116.2008
+Salem,Oregon,44.9392,-123.0331,Springfield,Illinios,39.7997,-89.6475
+Salem,Oregon,44.9392,-123.0331,Indianapolis,Indiana,39.7683,-86.1584
+Salem,Oregon,44.9392,-123.0331,Des Monies,Iowa,41.5872,-93.6219
+Salem,Oregon,44.9392,-123.0331,Topeka,Kansas,39.049,-95.6776
+Salem,Oregon,44.9392,-123.0331,Frankfort,Kentucky,38.2009,-84.8733
+Salem,Oregon,44.9392,-123.0331,Baton Rouge,Louisiana,30.446,-91.1874
+Salem,Oregon,44.9392,-123.0331,Augusta,Maine,44.3106,-69.7797
+Salem,Oregon,44.9392,-123.0331,Annapolis,Maryland,38.9786,-76.4928
+Salem,Oregon,44.9392,-123.0331,Boston,Massachusetts,42.3603,-71.0583
+Salem,Oregon,44.9392,-123.0331,Lansing,Michigan,42.7338,-84.5554
+Salem,Oregon,44.9392,-123.0331,St. Paul,Minnesota,44.9504,-93.1015
+Salem,Oregon,44.9392,-123.0331,Jackson,Mississippi,32.299,-90.1848
+Salem,Oregon,44.9392,-123.0331,Jefferson City,Missouri,38.5774,-92.1724
+Salem,Oregon,44.9392,-123.0331,Helena,Montana,46.5927,-112.0361
+Salem,Oregon,44.9392,-123.0331,Lincoln,Nebraska,40.8,-96.6678
+Salem,Oregon,44.9392,-123.0331,Carson City,Neveda,39.1695,-119.766
+Salem,Oregon,44.9392,-123.0331,Concord,New Hampshire,43.2072,-71.5375
+Salem,Oregon,44.9392,-123.0331,Trenton,New Jersey,40.2171,-74.7429
+Salem,Oregon,44.9392,-123.0331,Santa Fe,New Mexico,35.687,-105.9378
+Salem,Oregon,44.9392,-123.0331,Albany,New York,42.6512,-73.755
+Salem,Oregon,44.9392,-123.0331,Raleigh,North Carolina,35.7804,-78.6391
+Salem,Oregon,44.9392,-123.0331,Bismarck,North Dakota,46.8083,-100.7837
+Salem,Oregon,44.9392,-123.0331,Columbus,Ohio,39.9623,-83.0007
+Salem,Oregon,44.9392,-123.0331,Oklahoma City,Oklahoma,35.473,-97.5171
+Salem,Oregon,44.9392,-123.0331,Salem,Oregon,44.9392,-123.0331
+Salem,Oregon,44.9392,-123.0331,Harrisburg,Pennsylvania,40.2663,-76.8861
+Salem,Oregon,44.9392,-123.0331,Providence,Rhoda Island,41.8249,-71.4136
+Salem,Oregon,44.9392,-123.0331,Columbia,South Carolina,34.0007,-81.0343
+Salem,Oregon,44.9392,-123.0331,Pierre,South Dakoda,44.3684,-100.354
+Salem,Oregon,44.9392,-123.0331,Nashville,Tennessee,36.1622,-86.7744
+Salem,Oregon,44.9392,-123.0331,Austin,Texas,30.2711,-97.7437
+Salem,Oregon,44.9392,-123.0331,Salt Lake City,Utah,40.767,-111.8904
+Salem,Oregon,44.9392,-123.0331,Montpelier,Vermont,44.2604,-72.5757
+Salem,Oregon,44.9392,-123.0331,Richmond,Virginia,37.5385,-77.4343
+Salem,Oregon,44.9392,-123.0331,Olympia,Washington,47.0451,-122.895
+Salem,Oregon,44.9392,-123.0331,Charleston,West Virginia,38.3506,-81.6333
+Salem,Oregon,44.9392,-123.0331,Madison,Wisconsin,43.0748,-89.3838
+Salem,Oregon,44.9392,-123.0331,Cheyenne,Wyoming,41.14,-104.82
+Harrisburg,Pennsylvania,40.2663,-76.8861,Montgomery,Alabama,32.367,-86.3006
+Harrisburg,Pennsylvania,40.2663,-76.8861,Juneau,Alaska,58.3019,-134.4197
+Harrisburg,Pennsylvania,40.2663,-76.8861,Phoenix,Arizona,33.4486,-112.0773
+Harrisburg,Pennsylvania,40.2663,-76.8861,Little Rock,Arkansas,34.7465,-92.2896
+Harrisburg,Pennsylvania,40.2663,-76.8861,Sacramento,California,38.5816,-121.4944
+Harrisburg,Pennsylvania,40.2663,-76.8861,Denver,Colorado,39.7392,-104.9849
+Harrisburg,Pennsylvania,40.2663,-76.8861,Hartford,Connecticut,41.7646,-72.6909
+Harrisburg,Pennsylvania,40.2663,-76.8861,Dover,Delaware,39.1582,-75.5244
+Harrisburg,Pennsylvania,40.2663,-76.8861,Tallahassee,Florida,30.4381,-84.2809
+Harrisburg,Pennsylvania,40.2663,-76.8861,Atlanta,Georgia,33.7491,-84.3902
+Harrisburg,Pennsylvania,40.2663,-76.8861,Honolulu,Hawaii,21.3251,-157.8466
+Harrisburg,Pennsylvania,40.2663,-76.8861,Boise,Idaho,43.6166,-116.2008
+Harrisburg,Pennsylvania,40.2663,-76.8861,Springfield,Illinios,39.7997,-89.6475
+Harrisburg,Pennsylvania,40.2663,-76.8861,Indianapolis,Indiana,39.7683,-86.1584
+Harrisburg,Pennsylvania,40.2663,-76.8861,Des Monies,Iowa,41.5872,-93.6219
+Harrisburg,Pennsylvania,40.2663,-76.8861,Topeka,Kansas,39.049,-95.6776
+Harrisburg,Pennsylvania,40.2663,-76.8861,Frankfort,Kentucky,38.2009,-84.8733
+Harrisburg,Pennsylvania,40.2663,-76.8861,Baton Rouge,Louisiana,30.446,-91.1874
+Harrisburg,Pennsylvania,40.2663,-76.8861,Augusta,Maine,44.3106,-69.7797
+Harrisburg,Pennsylvania,40.2663,-76.8861,Annapolis,Maryland,38.9786,-76.4928
+Harrisburg,Pennsylvania,40.2663,-76.8861,Boston,Massachusetts,42.3603,-71.0583
+Harrisburg,Pennsylvania,40.2663,-76.8861,Lansing,Michigan,42.7338,-84.5554
+Harrisburg,Pennsylvania,40.2663,-76.8861,St. Paul,Minnesota,44.9504,-93.1015
+Harrisburg,Pennsylvania,40.2663,-76.8861,Jackson,Mississippi,32.299,-90.1848
+Harrisburg,Pennsylvania,40.2663,-76.8861,Jefferson City,Missouri,38.5774,-92.1724
+Harrisburg,Pennsylvania,40.2663,-76.8861,Helena,Montana,46.5927,-112.0361
+Harrisburg,Pennsylvania,40.2663,-76.8861,Lincoln,Nebraska,40.8,-96.6678
+Harrisburg,Pennsylvania,40.2663,-76.8861,Carson City,Neveda,39.1695,-119.766
+Harrisburg,Pennsylvania,40.2663,-76.8861,Concord,New Hampshire,43.2072,-71.5375
+Harrisburg,Pennsylvania,40.2663,-76.8861,Trenton,New Jersey,40.2171,-74.7429
+Harrisburg,Pennsylvania,40.2663,-76.8861,Santa Fe,New Mexico,35.687,-105.9378
+Harrisburg,Pennsylvania,40.2663,-76.8861,Albany,New York,42.6512,-73.755
+Harrisburg,Pennsylvania,40.2663,-76.8861,Raleigh,North Carolina,35.7804,-78.6391
+Harrisburg,Pennsylvania,40.2663,-76.8861,Bismarck,North Dakota,46.8083,-100.7837
+Harrisburg,Pennsylvania,40.2663,-76.8861,Columbus,Ohio,39.9623,-83.0007
+Harrisburg,Pennsylvania,40.2663,-76.8861,Oklahoma City,Oklahoma,35.473,-97.5171
+Harrisburg,Pennsylvania,40.2663,-76.8861,Salem,Oregon,44.9392,-123.0331
+Harrisburg,Pennsylvania,40.2663,-76.8861,Harrisburg,Pennsylvania,40.2663,-76.8861
+Harrisburg,Pennsylvania,40.2663,-76.8861,Providence,Rhoda Island,41.8249,-71.4136
+Harrisburg,Pennsylvania,40.2663,-76.8861,Columbia,South Carolina,34.0007,-81.0343
+Harrisburg,Pennsylvania,40.2663,-76.8861,Pierre,South Dakoda,44.3684,-100.354
+Harrisburg,Pennsylvania,40.2663,-76.8861,Nashville,Tennessee,36.1622,-86.7744
+Harrisburg,Pennsylvania,40.2663,-76.8861,Austin,Texas,30.2711,-97.7437
+Harrisburg,Pennsylvania,40.2663,-76.8861,Salt Lake City,Utah,40.767,-111.8904
+Harrisburg,Pennsylvania,40.2663,-76.8861,Montpelier,Vermont,44.2604,-72.5757
+Harrisburg,Pennsylvania,40.2663,-76.8861,Richmond,Virginia,37.5385,-77.4343
+Harrisburg,Pennsylvania,40.2663,-76.8861,Olympia,Washington,47.0451,-122.895
+Harrisburg,Pennsylvania,40.2663,-76.8861,Charleston,West Virginia,38.3506,-81.6333
+Harrisburg,Pennsylvania,40.2663,-76.8861,Madison,Wisconsin,43.0748,-89.3838
+Harrisburg,Pennsylvania,40.2663,-76.8861,Cheyenne,Wyoming,41.14,-104.82
+Providence,Rhoda Island,41.8249,-71.4136,Montgomery,Alabama,32.367,-86.3006
+Providence,Rhoda Island,41.8249,-71.4136,Juneau,Alaska,58.3019,-134.4197
+Providence,Rhoda Island,41.8249,-71.4136,Phoenix,Arizona,33.4486,-112.0773
+Providence,Rhoda Island,41.8249,-71.4136,Little Rock,Arkansas,34.7465,-92.2896
+Providence,Rhoda Island,41.8249,-71.4136,Sacramento,California,38.5816,-121.4944
+Providence,Rhoda Island,41.8249,-71.4136,Denver,Colorado,39.7392,-104.9849
+Providence,Rhoda Island,41.8249,-71.4136,Hartford,Connecticut,41.7646,-72.6909
+Providence,Rhoda Island,41.8249,-71.4136,Dover,Delaware,39.1582,-75.5244
+Providence,Rhoda Island,41.8249,-71.4136,Tallahassee,Florida,30.4381,-84.2809
+Providence,Rhoda Island,41.8249,-71.4136,Atlanta,Georgia,33.7491,-84.3902
+Providence,Rhoda Island,41.8249,-71.4136,Honolulu,Hawaii,21.3251,-157.8466
+Providence,Rhoda Island,41.8249,-71.4136,Boise,Idaho,43.6166,-116.2008
+Providence,Rhoda Island,41.8249,-71.4136,Springfield,Illinios,39.7997,-89.6475
+Providence,Rhoda Island,41.8249,-71.4136,Indianapolis,Indiana,39.7683,-86.1584
+Providence,Rhoda Island,41.8249,-71.4136,Des Monies,Iowa,41.5872,-93.6219
+Providence,Rhoda Island,41.8249,-71.4136,Topeka,Kansas,39.049,-95.6776
+Providence,Rhoda Island,41.8249,-71.4136,Frankfort,Kentucky,38.2009,-84.8733
+Providence,Rhoda Island,41.8249,-71.4136,Baton Rouge,Louisiana,30.446,-91.1874
+Providence,Rhoda Island,41.8249,-71.4136,Augusta,Maine,44.3106,-69.7797
+Providence,Rhoda Island,41.8249,-71.4136,Annapolis,Maryland,38.9786,-76.4928
+Providence,Rhoda Island,41.8249,-71.4136,Boston,Massachusetts,42.3603,-71.0583
+Providence,Rhoda Island,41.8249,-71.4136,Lansing,Michigan,42.7338,-84.5554
+Providence,Rhoda Island,41.8249,-71.4136,St. Paul,Minnesota,44.9504,-93.1015
+Providence,Rhoda Island,41.8249,-71.4136,Jackson,Mississippi,32.299,-90.1848
+Providence,Rhoda Island,41.8249,-71.4136,Jefferson City,Missouri,38.5774,-92.1724
+Providence,Rhoda Island,41.8249,-71.4136,Helena,Montana,46.5927,-112.0361
+Providence,Rhoda Island,41.8249,-71.4136,Lincoln,Nebraska,40.8,-96.6678
+Providence,Rhoda Island,41.8249,-71.4136,Carson City,Neveda,39.1695,-119.766
+Providence,Rhoda Island,41.8249,-71.4136,Concord,New Hampshire,43.2072,-71.5375
+Providence,Rhoda Island,41.8249,-71.4136,Trenton,New Jersey,40.2171,-74.7429
+Providence,Rhoda Island,41.8249,-71.4136,Santa Fe,New Mexico,35.687,-105.9378
+Providence,Rhoda Island,41.8249,-71.4136,Albany,New York,42.6512,-73.755
+Providence,Rhoda Island,41.8249,-71.4136,Raleigh,North Carolina,35.7804,-78.6391
+Providence,Rhoda Island,41.8249,-71.4136,Bismarck,North Dakota,46.8083,-100.7837
+Providence,Rhoda Island,41.8249,-71.4136,Columbus,Ohio,39.9623,-83.0007
+Providence,Rhoda Island,41.8249,-71.4136,Oklahoma City,Oklahoma,35.473,-97.5171
+Providence,Rhoda Island,41.8249,-71.4136,Salem,Oregon,44.9392,-123.0331
+Providence,Rhoda Island,41.8249,-71.4136,Harrisburg,Pennsylvania,40.2663,-76.8861
+Providence,Rhoda Island,41.8249,-71.4136,Providence,Rhoda Island,41.8249,-71.4136
+Providence,Rhoda Island,41.8249,-71.4136,Columbia,South Carolina,34.0007,-81.0343
+Providence,Rhoda Island,41.8249,-71.4136,Pierre,South Dakoda,44.3684,-100.354
+Providence,Rhoda Island,41.8249,-71.4136,Nashville,Tennessee,36.1622,-86.7744
+Providence,Rhoda Island,41.8249,-71.4136,Austin,Texas,30.2711,-97.7437
+Providence,Rhoda Island,41.8249,-71.4136,Salt Lake City,Utah,40.767,-111.8904
+Providence,Rhoda Island,41.8249,-71.4136,Montpelier,Vermont,44.2604,-72.5757
+Providence,Rhoda Island,41.8249,-71.4136,Richmond,Virginia,37.5385,-77.4343
+Providence,Rhoda Island,41.8249,-71.4136,Olympia,Washington,47.0451,-122.895
+Providence,Rhoda Island,41.8249,-71.4136,Charleston,West Virginia,38.3506,-81.6333
+Providence,Rhoda Island,41.8249,-71.4136,Madison,Wisconsin,43.0748,-89.3838
+Providence,Rhoda Island,41.8249,-71.4136,Cheyenne,Wyoming,41.14,-104.82
+Columbia,South Carolina,34.0007,-81.0343,Montgomery,Alabama,32.367,-86.3006
+Columbia,South Carolina,34.0007,-81.0343,Juneau,Alaska,58.3019,-134.4197
+Columbia,South Carolina,34.0007,-81.0343,Phoenix,Arizona,33.4486,-112.0773
+Columbia,South Carolina,34.0007,-81.0343,Little Rock,Arkansas,34.7465,-92.2896
+Columbia,South Carolina,34.0007,-81.0343,Sacramento,California,38.5816,-121.4944
+Columbia,South Carolina,34.0007,-81.0343,Denver,Colorado,39.7392,-104.9849
+Columbia,South Carolina,34.0007,-81.0343,Hartford,Connecticut,41.7646,-72.6909
+Columbia,South Carolina,34.0007,-81.0343,Dover,Delaware,39.1582,-75.5244
+Columbia,South Carolina,34.0007,-81.0343,Tallahassee,Florida,30.4381,-84.2809
+Columbia,South Carolina,34.0007,-81.0343,Atlanta,Georgia,33.7491,-84.3902
+Columbia,South Carolina,34.0007,-81.0343,Honolulu,Hawaii,21.3251,-157.8466
+Columbia,South Carolina,34.0007,-81.0343,Boise,Idaho,43.6166,-116.2008
+Columbia,South Carolina,34.0007,-81.0343,Springfield,Illinios,39.7997,-89.6475
+Columbia,South Carolina,34.0007,-81.0343,Indianapolis,Indiana,39.7683,-86.1584
+Columbia,South Carolina,34.0007,-81.0343,Des Monies,Iowa,41.5872,-93.6219
+Columbia,South Carolina,34.0007,-81.0343,Topeka,Kansas,39.049,-95.6776
+Columbia,South Carolina,34.0007,-81.0343,Frankfort,Kentucky,38.2009,-84.8733
+Columbia,South Carolina,34.0007,-81.0343,Baton Rouge,Louisiana,30.446,-91.1874
+Columbia,South Carolina,34.0007,-81.0343,Augusta,Maine,44.3106,-69.7797
+Columbia,South Carolina,34.0007,-81.0343,Annapolis,Maryland,38.9786,-76.4928
+Columbia,South Carolina,34.0007,-81.0343,Boston,Massachusetts,42.3603,-71.0583
+Columbia,South Carolina,34.0007,-81.0343,Lansing,Michigan,42.7338,-84.5554
+Columbia,South Carolina,34.0007,-81.0343,St. Paul,Minnesota,44.9504,-93.1015
+Columbia,South Carolina,34.0007,-81.0343,Jackson,Mississippi,32.299,-90.1848
+Columbia,South Carolina,34.0007,-81.0343,Jefferson City,Missouri,38.5774,-92.1724
+Columbia,South Carolina,34.0007,-81.0343,Helena,Montana,46.5927,-112.0361
+Columbia,South Carolina,34.0007,-81.0343,Lincoln,Nebraska,40.8,-96.6678
+Columbia,South Carolina,34.0007,-81.0343,Carson City,Neveda,39.1695,-119.766
+Columbia,South Carolina,34.0007,-81.0343,Concord,New Hampshire,43.2072,-71.5375
+Columbia,South Carolina,34.0007,-81.0343,Trenton,New Jersey,40.2171,-74.7429
+Columbia,South Carolina,34.0007,-81.0343,Santa Fe,New Mexico,35.687,-105.9378
+Columbia,South Carolina,34.0007,-81.0343,Albany,New York,42.6512,-73.755
+Columbia,South Carolina,34.0007,-81.0343,Raleigh,North Carolina,35.7804,-78.6391
+Columbia,South Carolina,34.0007,-81.0343,Bismarck,North Dakota,46.8083,-100.7837
+Columbia,South Carolina,34.0007,-81.0343,Columbus,Ohio,39.9623,-83.0007
+Columbia,South Carolina,34.0007,-81.0343,Oklahoma City,Oklahoma,35.473,-97.5171
+Columbia,South Carolina,34.0007,-81.0343,Salem,Oregon,44.9392,-123.0331
+Columbia,South Carolina,34.0007,-81.0343,Harrisburg,Pennsylvania,40.2663,-76.8861
+Columbia,South Carolina,34.0007,-81.0343,Providence,Rhoda Island,41.8249,-71.4136
+Columbia,South Carolina,34.0007,-81.0343,Columbia,South Carolina,34.0007,-81.0343
+Columbia,South Carolina,34.0007,-81.0343,Pierre,South Dakoda,44.3684,-100.354
+Columbia,South Carolina,34.0007,-81.0343,Nashville,Tennessee,36.1622,-86.7744
+Columbia,South Carolina,34.0007,-81.0343,Austin,Texas,30.2711,-97.7437
+Columbia,South Carolina,34.0007,-81.0343,Salt Lake City,Utah,40.767,-111.8904
+Columbia,South Carolina,34.0007,-81.0343,Montpelier,Vermont,44.2604,-72.5757
+Columbia,South Carolina,34.0007,-81.0343,Richmond,Virginia,37.5385,-77.4343
+Columbia,South Carolina,34.0007,-81.0343,Olympia,Washington,47.0451,-122.895
+Columbia,South Carolina,34.0007,-81.0343,Charleston,West Virginia,38.3506,-81.6333
+Columbia,South Carolina,34.0007,-81.0343,Madison,Wisconsin,43.0748,-89.3838
+Columbia,South Carolina,34.0007,-81.0343,Cheyenne,Wyoming,41.14,-104.82
+Pierre,South Dakoda,44.3684,-100.354,Montgomery,Alabama,32.367,-86.3006
+Pierre,South Dakoda,44.3684,-100.354,Juneau,Alaska,58.3019,-134.4197
+Pierre,South Dakoda,44.3684,-100.354,Phoenix,Arizona,33.4486,-112.0773
+Pierre,South Dakoda,44.3684,-100.354,Little Rock,Arkansas,34.7465,-92.2896
+Pierre,South Dakoda,44.3684,-100.354,Sacramento,California,38.5816,-121.4944
+Pierre,South Dakoda,44.3684,-100.354,Denver,Colorado,39.7392,-104.9849
+Pierre,South Dakoda,44.3684,-100.354,Hartford,Connecticut,41.7646,-72.6909
+Pierre,South Dakoda,44.3684,-100.354,Dover,Delaware,39.1582,-75.5244
+Pierre,South Dakoda,44.3684,-100.354,Tallahassee,Florida,30.4381,-84.2809
+Pierre,South Dakoda,44.3684,-100.354,Atlanta,Georgia,33.7491,-84.3902
+Pierre,South Dakoda,44.3684,-100.354,Honolulu,Hawaii,21.3251,-157.8466
+Pierre,South Dakoda,44.3684,-100.354,Boise,Idaho,43.6166,-116.2008
+Pierre,South Dakoda,44.3684,-100.354,Springfield,Illinios,39.7997,-89.6475
+Pierre,South Dakoda,44.3684,-100.354,Indianapolis,Indiana,39.7683,-86.1584
+Pierre,South Dakoda,44.3684,-100.354,Des Monies,Iowa,41.5872,-93.6219
+Pierre,South Dakoda,44.3684,-100.354,Topeka,Kansas,39.049,-95.6776
+Pierre,South Dakoda,44.3684,-100.354,Frankfort,Kentucky,38.2009,-84.8733
+Pierre,South Dakoda,44.3684,-100.354,Baton Rouge,Louisiana,30.446,-91.1874
+Pierre,South Dakoda,44.3684,-100.354,Augusta,Maine,44.3106,-69.7797
+Pierre,South Dakoda,44.3684,-100.354,Annapolis,Maryland,38.9786,-76.4928
+Pierre,South Dakoda,44.3684,-100.354,Boston,Massachusetts,42.3603,-71.0583
+Pierre,South Dakoda,44.3684,-100.354,Lansing,Michigan,42.7338,-84.5554
+Pierre,South Dakoda,44.3684,-100.354,St. Paul,Minnesota,44.9504,-93.1015
+Pierre,South Dakoda,44.3684,-100.354,Jackson,Mississippi,32.299,-90.1848
+Pierre,South Dakoda,44.3684,-100.354,Jefferson City,Missouri,38.5774,-92.1724
+Pierre,South Dakoda,44.3684,-100.354,Helena,Montana,46.5927,-112.0361
+Pierre,South Dakoda,44.3684,-100.354,Lincoln,Nebraska,40.8,-96.6678
+Pierre,South Dakoda,44.3684,-100.354,Carson City,Neveda,39.1695,-119.766
+Pierre,South Dakoda,44.3684,-100.354,Concord,New Hampshire,43.2072,-71.5375
+Pierre,South Dakoda,44.3684,-100.354,Trenton,New Jersey,40.2171,-74.7429
+Pierre,South Dakoda,44.3684,-100.354,Santa Fe,New Mexico,35.687,-105.9378
+Pierre,South Dakoda,44.3684,-100.354,Albany,New York,42.6512,-73.755
+Pierre,South Dakoda,44.3684,-100.354,Raleigh,North Carolina,35.7804,-78.6391
+Pierre,South Dakoda,44.3684,-100.354,Bismarck,North Dakota,46.8083,-100.7837
+Pierre,South Dakoda,44.3684,-100.354,Columbus,Ohio,39.9623,-83.0007
+Pierre,South Dakoda,44.3684,-100.354,Oklahoma City,Oklahoma,35.473,-97.5171
+Pierre,South Dakoda,44.3684,-100.354,Salem,Oregon,44.9392,-123.0331
+Pierre,South Dakoda,44.3684,-100.354,Harrisburg,Pennsylvania,40.2663,-76.8861
+Pierre,South Dakoda,44.3684,-100.354,Providence,Rhoda Island,41.8249,-71.4136
+Pierre,South Dakoda,44.3684,-100.354,Columbia,South Carolina,34.0007,-81.0343
+Pierre,South Dakoda,44.3684,-100.354,Pierre,South Dakoda,44.3684,-100.354
+Pierre,South Dakoda,44.3684,-100.354,Nashville,Tennessee,36.1622,-86.7744
+Pierre,South Dakoda,44.3684,-100.354,Austin,Texas,30.2711,-97.7437
+Pierre,South Dakoda,44.3684,-100.354,Salt Lake City,Utah,40.767,-111.8904
+Pierre,South Dakoda,44.3684,-100.354,Montpelier,Vermont,44.2604,-72.5757
+Pierre,South Dakoda,44.3684,-100.354,Richmond,Virginia,37.5385,-77.4343
+Pierre,South Dakoda,44.3684,-100.354,Olympia,Washington,47.0451,-122.895
+Pierre,South Dakoda,44.3684,-100.354,Charleston,West Virginia,38.3506,-81.6333
+Pierre,South Dakoda,44.3684,-100.354,Madison,Wisconsin,43.0748,-89.3838
+Pierre,South Dakoda,44.3684,-100.354,Cheyenne,Wyoming,41.14,-104.82
+Nashville,Tennessee,36.1622,-86.7744,Montgomery,Alabama,32.367,-86.3006
+Nashville,Tennessee,36.1622,-86.7744,Juneau,Alaska,58.3019,-134.4197
+Nashville,Tennessee,36.1622,-86.7744,Phoenix,Arizona,33.4486,-112.0773
+Nashville,Tennessee,36.1622,-86.7744,Little Rock,Arkansas,34.7465,-92.2896
+Nashville,Tennessee,36.1622,-86.7744,Sacramento,California,38.5816,-121.4944
+Nashville,Tennessee,36.1622,-86.7744,Denver,Colorado,39.7392,-104.9849
+Nashville,Tennessee,36.1622,-86.7744,Hartford,Connecticut,41.7646,-72.6909
+Nashville,Tennessee,36.1622,-86.7744,Dover,Delaware,39.1582,-75.5244
+Nashville,Tennessee,36.1622,-86.7744,Tallahassee,Florida,30.4381,-84.2809
+Nashville,Tennessee,36.1622,-86.7744,Atlanta,Georgia,33.7491,-84.3902
+Nashville,Tennessee,36.1622,-86.7744,Honolulu,Hawaii,21.3251,-157.8466
+Nashville,Tennessee,36.1622,-86.7744,Boise,Idaho,43.6166,-116.2008
+Nashville,Tennessee,36.1622,-86.7744,Springfield,Illinios,39.7997,-89.6475
+Nashville,Tennessee,36.1622,-86.7744,Indianapolis,Indiana,39.7683,-86.1584
+Nashville,Tennessee,36.1622,-86.7744,Des Monies,Iowa,41.5872,-93.6219
+Nashville,Tennessee,36.1622,-86.7744,Topeka,Kansas,39.049,-95.6776
+Nashville,Tennessee,36.1622,-86.7744,Frankfort,Kentucky,38.2009,-84.8733
+Nashville,Tennessee,36.1622,-86.7744,Baton Rouge,Louisiana,30.446,-91.1874
+Nashville,Tennessee,36.1622,-86.7744,Augusta,Maine,44.3106,-69.7797
+Nashville,Tennessee,36.1622,-86.7744,Annapolis,Maryland,38.9786,-76.4928
+Nashville,Tennessee,36.1622,-86.7744,Boston,Massachusetts,42.3603,-71.0583
+Nashville,Tennessee,36.1622,-86.7744,Lansing,Michigan,42.7338,-84.5554
+Nashville,Tennessee,36.1622,-86.7744,St. Paul,Minnesota,44.9504,-93.1015
+Nashville,Tennessee,36.1622,-86.7744,Jackson,Mississippi,32.299,-90.1848
+Nashville,Tennessee,36.1622,-86.7744,Jefferson City,Missouri,38.5774,-92.1724
+Nashville,Tennessee,36.1622,-86.7744,Helena,Montana,46.5927,-112.0361
+Nashville,Tennessee,36.1622,-86.7744,Lincoln,Nebraska,40.8,-96.6678
+Nashville,Tennessee,36.1622,-86.7744,Carson City,Neveda,39.1695,-119.766
+Nashville,Tennessee,36.1622,-86.7744,Concord,New Hampshire,43.2072,-71.5375
+Nashville,Tennessee,36.1622,-86.7744,Trenton,New Jersey,40.2171,-74.7429
+Nashville,Tennessee,36.1622,-86.7744,Santa Fe,New Mexico,35.687,-105.9378
+Nashville,Tennessee,36.1622,-86.7744,Albany,New York,42.6512,-73.755
+Nashville,Tennessee,36.1622,-86.7744,Raleigh,North Carolina,35.7804,-78.6391
+Nashville,Tennessee,36.1622,-86.7744,Bismarck,North Dakota,46.8083,-100.7837
+Nashville,Tennessee,36.1622,-86.7744,Columbus,Ohio,39.9623,-83.0007
+Nashville,Tennessee,36.1622,-86.7744,Oklahoma City,Oklahoma,35.473,-97.5171
+Nashville,Tennessee,36.1622,-86.7744,Salem,Oregon,44.9392,-123.0331
+Nashville,Tennessee,36.1622,-86.7744,Harrisburg,Pennsylvania,40.2663,-76.8861
+Nashville,Tennessee,36.1622,-86.7744,Providence,Rhoda Island,41.8249,-71.4136
+Nashville,Tennessee,36.1622,-86.7744,Columbia,South Carolina,34.0007,-81.0343
+Nashville,Tennessee,36.1622,-86.7744,Pierre,South Dakoda,44.3684,-100.354
+Nashville,Tennessee,36.1622,-86.7744,Nashville,Tennessee,36.1622,-86.7744
+Nashville,Tennessee,36.1622,-86.7744,Austin,Texas,30.2711,-97.7437
+Nashville,Tennessee,36.1622,-86.7744,Salt Lake City,Utah,40.767,-111.8904
+Nashville,Tennessee,36.1622,-86.7744,Montpelier,Vermont,44.2604,-72.5757
+Nashville,Tennessee,36.1622,-86.7744,Richmond,Virginia,37.5385,-77.4343
+Nashville,Tennessee,36.1622,-86.7744,Olympia,Washington,47.0451,-122.895
+Nashville,Tennessee,36.1622,-86.7744,Charleston,West Virginia,38.3506,-81.6333
+Nashville,Tennessee,36.1622,-86.7744,Madison,Wisconsin,43.0748,-89.3838
+Nashville,Tennessee,36.1622,-86.7744,Cheyenne,Wyoming,41.14,-104.82
+Austin,Texas,30.2711,-97.7437,Montgomery,Alabama,32.367,-86.3006
+Austin,Texas,30.2711,-97.7437,Juneau,Alaska,58.3019,-134.4197
+Austin,Texas,30.2711,-97.7437,Phoenix,Arizona,33.4486,-112.0773
+Austin,Texas,30.2711,-97.7437,Little Rock,Arkansas,34.7465,-92.2896
+Austin,Texas,30.2711,-97.7437,Sacramento,California,38.5816,-121.4944
+Austin,Texas,30.2711,-97.7437,Denver,Colorado,39.7392,-104.9849
+Austin,Texas,30.2711,-97.7437,Hartford,Connecticut,41.7646,-72.6909
+Austin,Texas,30.2711,-97.7437,Dover,Delaware,39.1582,-75.5244
+Austin,Texas,30.2711,-97.7437,Tallahassee,Florida,30.4381,-84.2809
+Austin,Texas,30.2711,-97.7437,Atlanta,Georgia,33.7491,-84.3902
+Austin,Texas,30.2711,-97.7437,Honolulu,Hawaii,21.3251,-157.8466
+Austin,Texas,30.2711,-97.7437,Boise,Idaho,43.6166,-116.2008
+Austin,Texas,30.2711,-97.7437,Springfield,Illinios,39.7997,-89.6475
+Austin,Texas,30.2711,-97.7437,Indianapolis,Indiana,39.7683,-86.1584
+Austin,Texas,30.2711,-97.7437,Des Monies,Iowa,41.5872,-93.6219
+Austin,Texas,30.2711,-97.7437,Topeka,Kansas,39.049,-95.6776
+Austin,Texas,30.2711,-97.7437,Frankfort,Kentucky,38.2009,-84.8733
+Austin,Texas,30.2711,-97.7437,Baton Rouge,Louisiana,30.446,-91.1874
+Austin,Texas,30.2711,-97.7437,Augusta,Maine,44.3106,-69.7797
+Austin,Texas,30.2711,-97.7437,Annapolis,Maryland,38.9786,-76.4928
+Austin,Texas,30.2711,-97.7437,Boston,Massachusetts,42.3603,-71.0583
+Austin,Texas,30.2711,-97.7437,Lansing,Michigan,42.7338,-84.5554
+Austin,Texas,30.2711,-97.7437,St. Paul,Minnesota,44.9504,-93.1015
+Austin,Texas,30.2711,-97.7437,Jackson,Mississippi,32.299,-90.1848
+Austin,Texas,30.2711,-97.7437,Jefferson City,Missouri,38.5774,-92.1724
+Austin,Texas,30.2711,-97.7437,Helena,Montana,46.5927,-112.0361
+Austin,Texas,30.2711,-97.7437,Lincoln,Nebraska,40.8,-96.6678
+Austin,Texas,30.2711,-97.7437,Carson City,Neveda,39.1695,-119.766
+Austin,Texas,30.2711,-97.7437,Concord,New Hampshire,43.2072,-71.5375
+Austin,Texas,30.2711,-97.7437,Trenton,New Jersey,40.2171,-74.7429
+Austin,Texas,30.2711,-97.7437,Santa Fe,New Mexico,35.687,-105.9378
+Austin,Texas,30.2711,-97.7437,Albany,New York,42.6512,-73.755
+Austin,Texas,30.2711,-97.7437,Raleigh,North Carolina,35.7804,-78.6391
+Austin,Texas,30.2711,-97.7437,Bismarck,North Dakota,46.8083,-100.7837
+Austin,Texas,30.2711,-97.7437,Columbus,Ohio,39.9623,-83.0007
+Austin,Texas,30.2711,-97.7437,Oklahoma City,Oklahoma,35.473,-97.5171
+Austin,Texas,30.2711,-97.7437,Salem,Oregon,44.9392,-123.0331
+Austin,Texas,30.2711,-97.7437,Harrisburg,Pennsylvania,40.2663,-76.8861
+Austin,Texas,30.2711,-97.7437,Providence,Rhoda Island,41.8249,-71.4136
+Austin,Texas,30.2711,-97.7437,Columbia,South Carolina,34.0007,-81.0343
+Austin,Texas,30.2711,-97.7437,Pierre,South Dakoda,44.3684,-100.354
+Austin,Texas,30.2711,-97.7437,Nashville,Tennessee,36.1622,-86.7744
+Austin,Texas,30.2711,-97.7437,Austin,Texas,30.2711,-97.7437
+Austin,Texas,30.2711,-97.7437,Salt Lake City,Utah,40.767,-111.8904
+Austin,Texas,30.2711,-97.7437,Montpelier,Vermont,44.2604,-72.5757
+Austin,Texas,30.2711,-97.7437,Richmond,Virginia,37.5385,-77.4343
+Austin,Texas,30.2711,-97.7437,Olympia,Washington,47.0451,-122.895
+Austin,Texas,30.2711,-97.7437,Charleston,West Virginia,38.3506,-81.6333
+Austin,Texas,30.2711,-97.7437,Madison,Wisconsin,43.0748,-89.3838
+Austin,Texas,30.2711,-97.7437,Cheyenne,Wyoming,41.14,-104.82
+Salt Lake City,Utah,40.767,-111.8904,Montgomery,Alabama,32.367,-86.3006
+Salt Lake City,Utah,40.767,-111.8904,Juneau,Alaska,58.3019,-134.4197
+Salt Lake City,Utah,40.767,-111.8904,Phoenix,Arizona,33.4486,-112.0773
+Salt Lake City,Utah,40.767,-111.8904,Little Rock,Arkansas,34.7465,-92.2896
+Salt Lake City,Utah,40.767,-111.8904,Sacramento,California,38.5816,-121.4944
+Salt Lake City,Utah,40.767,-111.8904,Denver,Colorado,39.7392,-104.9849
+Salt Lake City,Utah,40.767,-111.8904,Hartford,Connecticut,41.7646,-72.6909
+Salt Lake City,Utah,40.767,-111.8904,Dover,Delaware,39.1582,-75.5244
+Salt Lake City,Utah,40.767,-111.8904,Tallahassee,Florida,30.4381,-84.2809
+Salt Lake City,Utah,40.767,-111.8904,Atlanta,Georgia,33.7491,-84.3902
+Salt Lake City,Utah,40.767,-111.8904,Honolulu,Hawaii,21.3251,-157.8466
+Salt Lake City,Utah,40.767,-111.8904,Boise,Idaho,43.6166,-116.2008
+Salt Lake City,Utah,40.767,-111.8904,Springfield,Illinios,39.7997,-89.6475
+Salt Lake City,Utah,40.767,-111.8904,Indianapolis,Indiana,39.7683,-86.1584
+Salt Lake City,Utah,40.767,-111.8904,Des Monies,Iowa,41.5872,-93.6219
+Salt Lake City,Utah,40.767,-111.8904,Topeka,Kansas,39.049,-95.6776
+Salt Lake City,Utah,40.767,-111.8904,Frankfort,Kentucky,38.2009,-84.8733
+Salt Lake City,Utah,40.767,-111.8904,Baton Rouge,Louisiana,30.446,-91.1874
+Salt Lake City,Utah,40.767,-111.8904,Augusta,Maine,44.3106,-69.7797
+Salt Lake City,Utah,40.767,-111.8904,Annapolis,Maryland,38.9786,-76.4928
+Salt Lake City,Utah,40.767,-111.8904,Boston,Massachusetts,42.3603,-71.0583
+Salt Lake City,Utah,40.767,-111.8904,Lansing,Michigan,42.7338,-84.5554
+Salt Lake City,Utah,40.767,-111.8904,St. Paul,Minnesota,44.9504,-93.1015
+Salt Lake City,Utah,40.767,-111.8904,Jackson,Mississippi,32.299,-90.1848
+Salt Lake City,Utah,40.767,-111.8904,Jefferson City,Missouri,38.5774,-92.1724
+Salt Lake City,Utah,40.767,-111.8904,Helena,Montana,46.5927,-112.0361
+Salt Lake City,Utah,40.767,-111.8904,Lincoln,Nebraska,40.8,-96.6678
+Salt Lake City,Utah,40.767,-111.8904,Carson City,Neveda,39.1695,-119.766
+Salt Lake City,Utah,40.767,-111.8904,Concord,New Hampshire,43.2072,-71.5375
+Salt Lake City,Utah,40.767,-111.8904,Trenton,New Jersey,40.2171,-74.7429
+Salt Lake City,Utah,40.767,-111.8904,Santa Fe,New Mexico,35.687,-105.9378
+Salt Lake City,Utah,40.767,-111.8904,Albany,New York,42.6512,-73.755
+Salt Lake City,Utah,40.767,-111.8904,Raleigh,North Carolina,35.7804,-78.6391
+Salt Lake City,Utah,40.767,-111.8904,Bismarck,North Dakota,46.8083,-100.7837
+Salt Lake City,Utah,40.767,-111.8904,Columbus,Ohio,39.9623,-83.0007
+Salt Lake City,Utah,40.767,-111.8904,Oklahoma City,Oklahoma,35.473,-97.5171
+Salt Lake City,Utah,40.767,-111.8904,Salem,Oregon,44.9392,-123.0331
+Salt Lake City,Utah,40.767,-111.8904,Harrisburg,Pennsylvania,40.2663,-76.8861
+Salt Lake City,Utah,40.767,-111.8904,Providence,Rhoda Island,41.8249,-71.4136
+Salt Lake City,Utah,40.767,-111.8904,Columbia,South Carolina,34.0007,-81.0343
+Salt Lake City,Utah,40.767,-111.8904,Pierre,South Dakoda,44.3684,-100.354
+Salt Lake City,Utah,40.767,-111.8904,Nashville,Tennessee,36.1622,-86.7744
+Salt Lake City,Utah,40.767,-111.8904,Austin,Texas,30.2711,-97.7437
+Salt Lake City,Utah,40.767,-111.8904,Salt Lake City,Utah,40.767,-111.8904
+Salt Lake City,Utah,40.767,-111.8904,Montpelier,Vermont,44.2604,-72.5757
+Salt Lake City,Utah,40.767,-111.8904,Richmond,Virginia,37.5385,-77.4343
+Salt Lake City,Utah,40.767,-111.8904,Olympia,Washington,47.0451,-122.895
+Salt Lake City,Utah,40.767,-111.8904,Charleston,West Virginia,38.3506,-81.6333
+Salt Lake City,Utah,40.767,-111.8904,Madison,Wisconsin,43.0748,-89.3838
+Salt Lake City,Utah,40.767,-111.8904,Cheyenne,Wyoming,41.14,-104.82
+Montpelier,Vermont,44.2604,-72.5757,Montgomery,Alabama,32.367,-86.3006
+Montpelier,Vermont,44.2604,-72.5757,Juneau,Alaska,58.3019,-134.4197
+Montpelier,Vermont,44.2604,-72.5757,Phoenix,Arizona,33.4486,-112.0773
+Montpelier,Vermont,44.2604,-72.5757,Little Rock,Arkansas,34.7465,-92.2896
+Montpelier,Vermont,44.2604,-72.5757,Sacramento,California,38.5816,-121.4944
+Montpelier,Vermont,44.2604,-72.5757,Denver,Colorado,39.7392,-104.9849
+Montpelier,Vermont,44.2604,-72.5757,Hartford,Connecticut,41.7646,-72.6909
+Montpelier,Vermont,44.2604,-72.5757,Dover,Delaware,39.1582,-75.5244
+Montpelier,Vermont,44.2604,-72.5757,Tallahassee,Florida,30.4381,-84.2809
+Montpelier,Vermont,44.2604,-72.5757,Atlanta,Georgia,33.7491,-84.3902
+Montpelier,Vermont,44.2604,-72.5757,Honolulu,Hawaii,21.3251,-157.8466
+Montpelier,Vermont,44.2604,-72.5757,Boise,Idaho,43.6166,-116.2008
+Montpelier,Vermont,44.2604,-72.5757,Springfield,Illinios,39.7997,-89.6475
+Montpelier,Vermont,44.2604,-72.5757,Indianapolis,Indiana,39.7683,-86.1584
+Montpelier,Vermont,44.2604,-72.5757,Des Monies,Iowa,41.5872,-93.6219
+Montpelier,Vermont,44.2604,-72.5757,Topeka,Kansas,39.049,-95.6776
+Montpelier,Vermont,44.2604,-72.5757,Frankfort,Kentucky,38.2009,-84.8733
+Montpelier,Vermont,44.2604,-72.5757,Baton Rouge,Louisiana,30.446,-91.1874
+Montpelier,Vermont,44.2604,-72.5757,Augusta,Maine,44.3106,-69.7797
+Montpelier,Vermont,44.2604,-72.5757,Annapolis,Maryland,38.9786,-76.4928
+Montpelier,Vermont,44.2604,-72.5757,Boston,Massachusetts,42.3603,-71.0583
+Montpelier,Vermont,44.2604,-72.5757,Lansing,Michigan,42.7338,-84.5554
+Montpelier,Vermont,44.2604,-72.5757,St. Paul,Minnesota,44.9504,-93.1015
+Montpelier,Vermont,44.2604,-72.5757,Jackson,Mississippi,32.299,-90.1848
+Montpelier,Vermont,44.2604,-72.5757,Jefferson City,Missouri,38.5774,-92.1724
+Montpelier,Vermont,44.2604,-72.5757,Helena,Montana,46.5927,-112.0361
+Montpelier,Vermont,44.2604,-72.5757,Lincoln,Nebraska,40.8,-96.6678
+Montpelier,Vermont,44.2604,-72.5757,Carson City,Neveda,39.1695,-119.766
+Montpelier,Vermont,44.2604,-72.5757,Concord,New Hampshire,43.2072,-71.5375
+Montpelier,Vermont,44.2604,-72.5757,Trenton,New Jersey,40.2171,-74.7429
+Montpelier,Vermont,44.2604,-72.5757,Santa Fe,New Mexico,35.687,-105.9378
+Montpelier,Vermont,44.2604,-72.5757,Albany,New York,42.6512,-73.755
+Montpelier,Vermont,44.2604,-72.5757,Raleigh,North Carolina,35.7804,-78.6391
+Montpelier,Vermont,44.2604,-72.5757,Bismarck,North Dakota,46.8083,-100.7837
+Montpelier,Vermont,44.2604,-72.5757,Columbus,Ohio,39.9623,-83.0007
+Montpelier,Vermont,44.2604,-72.5757,Oklahoma City,Oklahoma,35.473,-97.5171
+Montpelier,Vermont,44.2604,-72.5757,Salem,Oregon,44.9392,-123.0331
+Montpelier,Vermont,44.2604,-72.5757,Harrisburg,Pennsylvania,40.2663,-76.8861
+Montpelier,Vermont,44.2604,-72.5757,Providence,Rhoda Island,41.8249,-71.4136
+Montpelier,Vermont,44.2604,-72.5757,Columbia,South Carolina,34.0007,-81.0343
+Montpelier,Vermont,44.2604,-72.5757,Pierre,South Dakoda,44.3684,-100.354
+Montpelier,Vermont,44.2604,-72.5757,Nashville,Tennessee,36.1622,-86.7744
+Montpelier,Vermont,44.2604,-72.5757,Austin,Texas,30.2711,-97.7437
+Montpelier,Vermont,44.2604,-72.5757,Salt Lake City,Utah,40.767,-111.8904
+Montpelier,Vermont,44.2604,-72.5757,Montpelier,Vermont,44.2604,-72.5757
+Montpelier,Vermont,44.2604,-72.5757,Richmond,Virginia,37.5385,-77.4343
+Montpelier,Vermont,44.2604,-72.5757,Olympia,Washington,47.0451,-122.895
+Montpelier,Vermont,44.2604,-72.5757,Charleston,West Virginia,38.3506,-81.6333
+Montpelier,Vermont,44.2604,-72.5757,Madison,Wisconsin,43.0748,-89.3838
+Montpelier,Vermont,44.2604,-72.5757,Cheyenne,Wyoming,41.14,-104.82
+Richmond,Virginia,37.5385,-77.4343,Montgomery,Alabama,32.367,-86.3006
+Richmond,Virginia,37.5385,-77.4343,Juneau,Alaska,58.3019,-134.4197
+Richmond,Virginia,37.5385,-77.4343,Phoenix,Arizona,33.4486,-112.0773
+Richmond,Virginia,37.5385,-77.4343,Little Rock,Arkansas,34.7465,-92.2896
+Richmond,Virginia,37.5385,-77.4343,Sacramento,California,38.5816,-121.4944
+Richmond,Virginia,37.5385,-77.4343,Denver,Colorado,39.7392,-104.9849
+Richmond,Virginia,37.5385,-77.4343,Hartford,Connecticut,41.7646,-72.6909
+Richmond,Virginia,37.5385,-77.4343,Dover,Delaware,39.1582,-75.5244
+Richmond,Virginia,37.5385,-77.4343,Tallahassee,Florida,30.4381,-84.2809
+Richmond,Virginia,37.5385,-77.4343,Atlanta,Georgia,33.7491,-84.3902
+Richmond,Virginia,37.5385,-77.4343,Honolulu,Hawaii,21.3251,-157.8466
+Richmond,Virginia,37.5385,-77.4343,Boise,Idaho,43.6166,-116.2008
+Richmond,Virginia,37.5385,-77.4343,Springfield,Illinios,39.7997,-89.6475
+Richmond,Virginia,37.5385,-77.4343,Indianapolis,Indiana,39.7683,-86.1584
+Richmond,Virginia,37.5385,-77.4343,Des Monies,Iowa,41.5872,-93.6219
+Richmond,Virginia,37.5385,-77.4343,Topeka,Kansas,39.049,-95.6776
+Richmond,Virginia,37.5385,-77.4343,Frankfort,Kentucky,38.2009,-84.8733
+Richmond,Virginia,37.5385,-77.4343,Baton Rouge,Louisiana,30.446,-91.1874
+Richmond,Virginia,37.5385,-77.4343,Augusta,Maine,44.3106,-69.7797
+Richmond,Virginia,37.5385,-77.4343,Annapolis,Maryland,38.9786,-76.4928
+Richmond,Virginia,37.5385,-77.4343,Boston,Massachusetts,42.3603,-71.0583
+Richmond,Virginia,37.5385,-77.4343,Lansing,Michigan,42.7338,-84.5554
+Richmond,Virginia,37.5385,-77.4343,St. Paul,Minnesota,44.9504,-93.1015
+Richmond,Virginia,37.5385,-77.4343,Jackson,Mississippi,32.299,-90.1848
+Richmond,Virginia,37.5385,-77.4343,Jefferson City,Missouri,38.5774,-92.1724
+Richmond,Virginia,37.5385,-77.4343,Helena,Montana,46.5927,-112.0361
+Richmond,Virginia,37.5385,-77.4343,Lincoln,Nebraska,40.8,-96.6678
+Richmond,Virginia,37.5385,-77.4343,Carson City,Neveda,39.1695,-119.766
+Richmond,Virginia,37.5385,-77.4343,Concord,New Hampshire,43.2072,-71.5375
+Richmond,Virginia,37.5385,-77.4343,Trenton,New Jersey,40.2171,-74.7429
+Richmond,Virginia,37.5385,-77.4343,Santa Fe,New Mexico,35.687,-105.9378
+Richmond,Virginia,37.5385,-77.4343,Albany,New York,42.6512,-73.755
+Richmond,Virginia,37.5385,-77.4343,Raleigh,North Carolina,35.7804,-78.6391
+Richmond,Virginia,37.5385,-77.4343,Bismarck,North Dakota,46.8083,-100.7837
+Richmond,Virginia,37.5385,-77.4343,Columbus,Ohio,39.9623,-83.0007
+Richmond,Virginia,37.5385,-77.4343,Oklahoma City,Oklahoma,35.473,-97.5171
+Richmond,Virginia,37.5385,-77.4343,Salem,Oregon,44.9392,-123.0331
+Richmond,Virginia,37.5385,-77.4343,Harrisburg,Pennsylvania,40.2663,-76.8861
+Richmond,Virginia,37.5385,-77.4343,Providence,Rhoda Island,41.8249,-71.4136
+Richmond,Virginia,37.5385,-77.4343,Columbia,South Carolina,34.0007,-81.0343
+Richmond,Virginia,37.5385,-77.4343,Pierre,South Dakoda,44.3684,-100.354
+Richmond,Virginia,37.5385,-77.4343,Nashville,Tennessee,36.1622,-86.7744
+Richmond,Virginia,37.5385,-77.4343,Austin,Texas,30.2711,-97.7437
+Richmond,Virginia,37.5385,-77.4343,Salt Lake City,Utah,40.767,-111.8904
+Richmond,Virginia,37.5385,-77.4343,Montpelier,Vermont,44.2604,-72.5757
+Richmond,Virginia,37.5385,-77.4343,Richmond,Virginia,37.5385,-77.4343
+Richmond,Virginia,37.5385,-77.4343,Olympia,Washington,47.0451,-122.895
+Richmond,Virginia,37.5385,-77.4343,Charleston,West Virginia,38.3506,-81.6333
+Richmond,Virginia,37.5385,-77.4343,Madison,Wisconsin,43.0748,-89.3838
+Richmond,Virginia,37.5385,-77.4343,Cheyenne,Wyoming,41.14,-104.82
+Olympia,Washington,47.0451,-122.895,Montgomery,Alabama,32.367,-86.3006
+Olympia,Washington,47.0451,-122.895,Juneau,Alaska,58.3019,-134.4197
+Olympia,Washington,47.0451,-122.895,Phoenix,Arizona,33.4486,-112.0773
+Olympia,Washington,47.0451,-122.895,Little Rock,Arkansas,34.7465,-92.2896
+Olympia,Washington,47.0451,-122.895,Sacramento,California,38.5816,-121.4944
+Olympia,Washington,47.0451,-122.895,Denver,Colorado,39.7392,-104.9849
+Olympia,Washington,47.0451,-122.895,Hartford,Connecticut,41.7646,-72.6909
+Olympia,Washington,47.0451,-122.895,Dover,Delaware,39.1582,-75.5244
+Olympia,Washington,47.0451,-122.895,Tallahassee,Florida,30.4381,-84.2809
+Olympia,Washington,47.0451,-122.895,Atlanta,Georgia,33.7491,-84.3902
+Olympia,Washington,47.0451,-122.895,Honolulu,Hawaii,21.3251,-157.8466
+Olympia,Washington,47.0451,-122.895,Boise,Idaho,43.6166,-116.2008
+Olympia,Washington,47.0451,-122.895,Springfield,Illinios,39.7997,-89.6475
+Olympia,Washington,47.0451,-122.895,Indianapolis,Indiana,39.7683,-86.1584
+Olympia,Washington,47.0451,-122.895,Des Monies,Iowa,41.5872,-93.6219
+Olympia,Washington,47.0451,-122.895,Topeka,Kansas,39.049,-95.6776
+Olympia,Washington,47.0451,-122.895,Frankfort,Kentucky,38.2009,-84.8733
+Olympia,Washington,47.0451,-122.895,Baton Rouge,Louisiana,30.446,-91.1874
+Olympia,Washington,47.0451,-122.895,Augusta,Maine,44.3106,-69.7797
+Olympia,Washington,47.0451,-122.895,Annapolis,Maryland,38.9786,-76.4928
+Olympia,Washington,47.0451,-122.895,Boston,Massachusetts,42.3603,-71.0583
+Olympia,Washington,47.0451,-122.895,Lansing,Michigan,42.7338,-84.5554
+Olympia,Washington,47.0451,-122.895,St. Paul,Minnesota,44.9504,-93.1015
+Olympia,Washington,47.0451,-122.895,Jackson,Mississippi,32.299,-90.1848
+Olympia,Washington,47.0451,-122.895,Jefferson City,Missouri,38.5774,-92.1724
+Olympia,Washington,47.0451,-122.895,Helena,Montana,46.5927,-112.0361
+Olympia,Washington,47.0451,-122.895,Lincoln,Nebraska,40.8,-96.6678
+Olympia,Washington,47.0451,-122.895,Carson City,Neveda,39.1695,-119.766
+Olympia,Washington,47.0451,-122.895,Concord,New Hampshire,43.2072,-71.5375
+Olympia,Washington,47.0451,-122.895,Trenton,New Jersey,40.2171,-74.7429
+Olympia,Washington,47.0451,-122.895,Santa Fe,New Mexico,35.687,-105.9378
+Olympia,Washington,47.0451,-122.895,Albany,New York,42.6512,-73.755
+Olympia,Washington,47.0451,-122.895,Raleigh,North Carolina,35.7804,-78.6391
+Olympia,Washington,47.0451,-122.895,Bismarck,North Dakota,46.8083,-100.7837
+Olympia,Washington,47.0451,-122.895,Columbus,Ohio,39.9623,-83.0007
+Olympia,Washington,47.0451,-122.895,Oklahoma City,Oklahoma,35.473,-97.5171
+Olympia,Washington,47.0451,-122.895,Salem,Oregon,44.9392,-123.0331
+Olympia,Washington,47.0451,-122.895,Harrisburg,Pennsylvania,40.2663,-76.8861
+Olympia,Washington,47.0451,-122.895,Providence,Rhoda Island,41.8249,-71.4136
+Olympia,Washington,47.0451,-122.895,Columbia,South Carolina,34.0007,-81.0343
+Olympia,Washington,47.0451,-122.895,Pierre,South Dakoda,44.3684,-100.354
+Olympia,Washington,47.0451,-122.895,Nashville,Tennessee,36.1622,-86.7744
+Olympia,Washington,47.0451,-122.895,Austin,Texas,30.2711,-97.7437
+Olympia,Washington,47.0451,-122.895,Salt Lake City,Utah,40.767,-111.8904
+Olympia,Washington,47.0451,-122.895,Montpelier,Vermont,44.2604,-72.5757
+Olympia,Washington,47.0451,-122.895,Richmond,Virginia,37.5385,-77.4343
+Olympia,Washington,47.0451,-122.895,Olympia,Washington,47.0451,-122.895
+Olympia,Washington,47.0451,-122.895,Charleston,West Virginia,38.3506,-81.6333
+Olympia,Washington,47.0451,-122.895,Madison,Wisconsin,43.0748,-89.3838
+Olympia,Washington,47.0451,-122.895,Cheyenne,Wyoming,41.14,-104.82
+Charleston,West Virginia,38.3506,-81.6333,Montgomery,Alabama,32.367,-86.3006
+Charleston,West Virginia,38.3506,-81.6333,Juneau,Alaska,58.3019,-134.4197
+Charleston,West Virginia,38.3506,-81.6333,Phoenix,Arizona,33.4486,-112.0773
+Charleston,West Virginia,38.3506,-81.6333,Little Rock,Arkansas,34.7465,-92.2896
+Charleston,West Virginia,38.3506,-81.6333,Sacramento,California,38.5816,-121.4944
+Charleston,West Virginia,38.3506,-81.6333,Denver,Colorado,39.7392,-104.9849
+Charleston,West Virginia,38.3506,-81.6333,Hartford,Connecticut,41.7646,-72.6909
+Charleston,West Virginia,38.3506,-81.6333,Dover,Delaware,39.1582,-75.5244
+Charleston,West Virginia,38.3506,-81.6333,Tallahassee,Florida,30.4381,-84.2809
+Charleston,West Virginia,38.3506,-81.6333,Atlanta,Georgia,33.7491,-84.3902
+Charleston,West Virginia,38.3506,-81.6333,Honolulu,Hawaii,21.3251,-157.8466
+Charleston,West Virginia,38.3506,-81.6333,Boise,Idaho,43.6166,-116.2008
+Charleston,West Virginia,38.3506,-81.6333,Springfield,Illinios,39.7997,-89.6475
+Charleston,West Virginia,38.3506,-81.6333,Indianapolis,Indiana,39.7683,-86.1584
+Charleston,West Virginia,38.3506,-81.6333,Des Monies,Iowa,41.5872,-93.6219
+Charleston,West Virginia,38.3506,-81.6333,Topeka,Kansas,39.049,-95.6776
+Charleston,West Virginia,38.3506,-81.6333,Frankfort,Kentucky,38.2009,-84.8733
+Charleston,West Virginia,38.3506,-81.6333,Baton Rouge,Louisiana,30.446,-91.1874
+Charleston,West Virginia,38.3506,-81.6333,Augusta,Maine,44.3106,-69.7797
+Charleston,West Virginia,38.3506,-81.6333,Annapolis,Maryland,38.9786,-76.4928
+Charleston,West Virginia,38.3506,-81.6333,Boston,Massachusetts,42.3603,-71.0583
+Charleston,West Virginia,38.3506,-81.6333,Lansing,Michigan,42.7338,-84.5554
+Charleston,West Virginia,38.3506,-81.6333,St. Paul,Minnesota,44.9504,-93.1015
+Charleston,West Virginia,38.3506,-81.6333,Jackson,Mississippi,32.299,-90.1848
+Charleston,West Virginia,38.3506,-81.6333,Jefferson City,Missouri,38.5774,-92.1724
+Charleston,West Virginia,38.3506,-81.6333,Helena,Montana,46.5927,-112.0361
+Charleston,West Virginia,38.3506,-81.6333,Lincoln,Nebraska,40.8,-96.6678
+Charleston,West Virginia,38.3506,-81.6333,Carson City,Neveda,39.1695,-119.766
+Charleston,West Virginia,38.3506,-81.6333,Concord,New Hampshire,43.2072,-71.5375
+Charleston,West Virginia,38.3506,-81.6333,Trenton,New Jersey,40.2171,-74.7429
+Charleston,West Virginia,38.3506,-81.6333,Santa Fe,New Mexico,35.687,-105.9378
+Charleston,West Virginia,38.3506,-81.6333,Albany,New York,42.6512,-73.755
+Charleston,West Virginia,38.3506,-81.6333,Raleigh,North Carolina,35.7804,-78.6391
+Charleston,West Virginia,38.3506,-81.6333,Bismarck,North Dakota,46.8083,-100.7837
+Charleston,West Virginia,38.3506,-81.6333,Columbus,Ohio,39.9623,-83.0007
+Charleston,West Virginia,38.3506,-81.6333,Oklahoma City,Oklahoma,35.473,-97.5171
+Charleston,West Virginia,38.3506,-81.6333,Salem,Oregon,44.9392,-123.0331
+Charleston,West Virginia,38.3506,-81.6333,Harrisburg,Pennsylvania,40.2663,-76.8861
+Charleston,West Virginia,38.3506,-81.6333,Providence,Rhoda Island,41.8249,-71.4136
+Charleston,West Virginia,38.3506,-81.6333,Columbia,South Carolina,34.0007,-81.0343
+Charleston,West Virginia,38.3506,-81.6333,Pierre,South Dakoda,44.3684,-100.354
+Charleston,West Virginia,38.3506,-81.6333,Nashville,Tennessee,36.1622,-86.7744
+Charleston,West Virginia,38.3506,-81.6333,Austin,Texas,30.2711,-97.7437
+Charleston,West Virginia,38.3506,-81.6333,Salt Lake City,Utah,40.767,-111.8904
+Charleston,West Virginia,38.3506,-81.6333,Montpelier,Vermont,44.2604,-72.5757
+Charleston,West Virginia,38.3506,-81.6333,Richmond,Virginia,37.5385,-77.4343
+Charleston,West Virginia,38.3506,-81.6333,Olympia,Washington,47.0451,-122.895
+Charleston,West Virginia,38.3506,-81.6333,Charleston,West Virginia,38.3506,-81.6333
+Charleston,West Virginia,38.3506,-81.6333,Madison,Wisconsin,43.0748,-89.3838
+Charleston,West Virginia,38.3506,-81.6333,Cheyenne,Wyoming,41.14,-104.82
+Madison,Wisconsin,43.0748,-89.3838,Montgomery,Alabama,32.367,-86.3006
+Madison,Wisconsin,43.0748,-89.3838,Juneau,Alaska,58.3019,-134.4197
+Madison,Wisconsin,43.0748,-89.3838,Phoenix,Arizona,33.4486,-112.0773
+Madison,Wisconsin,43.0748,-89.3838,Little Rock,Arkansas,34.7465,-92.2896
+Madison,Wisconsin,43.0748,-89.3838,Sacramento,California,38.5816,-121.4944
+Madison,Wisconsin,43.0748,-89.3838,Denver,Colorado,39.7392,-104.9849
+Madison,Wisconsin,43.0748,-89.3838,Hartford,Connecticut,41.7646,-72.6909
+Madison,Wisconsin,43.0748,-89.3838,Dover,Delaware,39.1582,-75.5244
+Madison,Wisconsin,43.0748,-89.3838,Tallahassee,Florida,30.4381,-84.2809
+Madison,Wisconsin,43.0748,-89.3838,Atlanta,Georgia,33.7491,-84.3902
+Madison,Wisconsin,43.0748,-89.3838,Honolulu,Hawaii,21.3251,-157.8466
+Madison,Wisconsin,43.0748,-89.3838,Boise,Idaho,43.6166,-116.2008
+Madison,Wisconsin,43.0748,-89.3838,Springfield,Illinios,39.7997,-89.6475
+Madison,Wisconsin,43.0748,-89.3838,Indianapolis,Indiana,39.7683,-86.1584
+Madison,Wisconsin,43.0748,-89.3838,Des Monies,Iowa,41.5872,-93.6219
+Madison,Wisconsin,43.0748,-89.3838,Topeka,Kansas,39.049,-95.6776
+Madison,Wisconsin,43.0748,-89.3838,Frankfort,Kentucky,38.2009,-84.8733
+Madison,Wisconsin,43.0748,-89.3838,Baton Rouge,Louisiana,30.446,-91.1874
+Madison,Wisconsin,43.0748,-89.3838,Augusta,Maine,44.3106,-69.7797
+Madison,Wisconsin,43.0748,-89.3838,Annapolis,Maryland,38.9786,-76.4928
+Madison,Wisconsin,43.0748,-89.3838,Boston,Massachusetts,42.3603,-71.0583
+Madison,Wisconsin,43.0748,-89.3838,Lansing,Michigan,42.7338,-84.5554
+Madison,Wisconsin,43.0748,-89.3838,St. Paul,Minnesota,44.9504,-93.1015
+Madison,Wisconsin,43.0748,-89.3838,Jackson,Mississippi,32.299,-90.1848
+Madison,Wisconsin,43.0748,-89.3838,Jefferson City,Missouri,38.5774,-92.1724
+Madison,Wisconsin,43.0748,-89.3838,Helena,Montana,46.5927,-112.0361
+Madison,Wisconsin,43.0748,-89.3838,Lincoln,Nebraska,40.8,-96.6678
+Madison,Wisconsin,43.0748,-89.3838,Carson City,Neveda,39.1695,-119.766
+Madison,Wisconsin,43.0748,-89.3838,Concord,New Hampshire,43.2072,-71.5375
+Madison,Wisconsin,43.0748,-89.3838,Trenton,New Jersey,40.2171,-74.7429
+Madison,Wisconsin,43.0748,-89.3838,Santa Fe,New Mexico,35.687,-105.9378
+Madison,Wisconsin,43.0748,-89.3838,Albany,New York,42.6512,-73.755
+Madison,Wisconsin,43.0748,-89.3838,Raleigh,North Carolina,35.7804,-78.6391
+Madison,Wisconsin,43.0748,-89.3838,Bismarck,North Dakota,46.8083,-100.7837
+Madison,Wisconsin,43.0748,-89.3838,Columbus,Ohio,39.9623,-83.0007
+Madison,Wisconsin,43.0748,-89.3838,Oklahoma City,Oklahoma,35.473,-97.5171
+Madison,Wisconsin,43.0748,-89.3838,Salem,Oregon,44.9392,-123.0331
+Madison,Wisconsin,43.0748,-89.3838,Harrisburg,Pennsylvania,40.2663,-76.8861
+Madison,Wisconsin,43.0748,-89.3838,Providence,Rhoda Island,41.8249,-71.4136
+Madison,Wisconsin,43.0748,-89.3838,Columbia,South Carolina,34.0007,-81.0343
+Madison,Wisconsin,43.0748,-89.3838,Pierre,South Dakoda,44.3684,-100.354
+Madison,Wisconsin,43.0748,-89.3838,Nashville,Tennessee,36.1622,-86.7744
+Madison,Wisconsin,43.0748,-89.3838,Austin,Texas,30.2711,-97.7437
+Madison,Wisconsin,43.0748,-89.3838,Salt Lake City,Utah,40.767,-111.8904
+Madison,Wisconsin,43.0748,-89.3838,Montpelier,Vermont,44.2604,-72.5757
+Madison,Wisconsin,43.0748,-89.3838,Richmond,Virginia,37.5385,-77.4343
+Madison,Wisconsin,43.0748,-89.3838,Olympia,Washington,47.0451,-122.895
+Madison,Wisconsin,43.0748,-89.3838,Charleston,West Virginia,38.3506,-81.6333
+Madison,Wisconsin,43.0748,-89.3838,Madison,Wisconsin,43.0748,-89.3838
+Madison,Wisconsin,43.0748,-89.3838,Cheyenne,Wyoming,41.14,-104.82
+Cheyenne,Wyoming,41.14,-104.82,Montgomery,Alabama,32.367,-86.3006
+Cheyenne,Wyoming,41.14,-104.82,Juneau,Alaska,58.3019,-134.4197
+Cheyenne,Wyoming,41.14,-104.82,Phoenix,Arizona,33.4486,-112.0773
+Cheyenne,Wyoming,41.14,-104.82,Little Rock,Arkansas,34.7465,-92.2896
+Cheyenne,Wyoming,41.14,-104.82,Sacramento,California,38.5816,-121.4944
+Cheyenne,Wyoming,41.14,-104.82,Denver,Colorado,39.7392,-104.9849
+Cheyenne,Wyoming,41.14,-104.82,Hartford,Connecticut,41.7646,-72.6909
+Cheyenne,Wyoming,41.14,-104.82,Dover,Delaware,39.1582,-75.5244
+Cheyenne,Wyoming,41.14,-104.82,Tallahassee,Florida,30.4381,-84.2809
+Cheyenne,Wyoming,41.14,-104.82,Atlanta,Georgia,33.7491,-84.3902
+Cheyenne,Wyoming,41.14,-104.82,Honolulu,Hawaii,21.3251,-157.8466
+Cheyenne,Wyoming,41.14,-104.82,Boise,Idaho,43.6166,-116.2008
+Cheyenne,Wyoming,41.14,-104.82,Springfield,Illinios,39.7997,-89.6475
+Cheyenne,Wyoming,41.14,-104.82,Indianapolis,Indiana,39.7683,-86.1584
+Cheyenne,Wyoming,41.14,-104.82,Des Monies,Iowa,41.5872,-93.6219
+Cheyenne,Wyoming,41.14,-104.82,Topeka,Kansas,39.049,-95.6776
+Cheyenne,Wyoming,41.14,-104.82,Frankfort,Kentucky,38.2009,-84.8733
+Cheyenne,Wyoming,41.14,-104.82,Baton Rouge,Louisiana,30.446,-91.1874
+Cheyenne,Wyoming,41.14,-104.82,Augusta,Maine,44.3106,-69.7797
+Cheyenne,Wyoming,41.14,-104.82,Annapolis,Maryland,38.9786,-76.4928
+Cheyenne,Wyoming,41.14,-104.82,Boston,Massachusetts,42.3603,-71.0583
+Cheyenne,Wyoming,41.14,-104.82,Lansing,Michigan,42.7338,-84.5554
+Cheyenne,Wyoming,41.14,-104.82,St. Paul,Minnesota,44.9504,-93.1015
+Cheyenne,Wyoming,41.14,-104.82,Jackson,Mississippi,32.299,-90.1848
+Cheyenne,Wyoming,41.14,-104.82,Jefferson City,Missouri,38.5774,-92.1724
+Cheyenne,Wyoming,41.14,-104.82,Helena,Montana,46.5927,-112.0361
+Cheyenne,Wyoming,41.14,-104.82,Lincoln,Nebraska,40.8,-96.6678
+Cheyenne,Wyoming,41.14,-104.82,Carson City,Neveda,39.1695,-119.766
+Cheyenne,Wyoming,41.14,-104.82,Concord,New Hampshire,43.2072,-71.5375
+Cheyenne,Wyoming,41.14,-104.82,Trenton,New Jersey,40.2171,-74.7429
+Cheyenne,Wyoming,41.14,-104.82,Santa Fe,New Mexico,35.687,-105.9378
+Cheyenne,Wyoming,41.14,-104.82,Albany,New York,42.6512,-73.755
+Cheyenne,Wyoming,41.14,-104.82,Raleigh,North Carolina,35.7804,-78.6391
+Cheyenne,Wyoming,41.14,-104.82,Bismarck,North Dakota,46.8083,-100.7837
+Cheyenne,Wyoming,41.14,-104.82,Columbus,Ohio,39.9623,-83.0007
+Cheyenne,Wyoming,41.14,-104.82,Oklahoma City,Oklahoma,35.473,-97.5171
+Cheyenne,Wyoming,41.14,-104.82,Salem,Oregon,44.9392,-123.0331
+Cheyenne,Wyoming,41.14,-104.82,Harrisburg,Pennsylvania,40.2663,-76.8861
+Cheyenne,Wyoming,41.14,-104.82,Providence,Rhoda Island,41.8249,-71.4136
+Cheyenne,Wyoming,41.14,-104.82,Columbia,South Carolina,34.0007,-81.0343
+Cheyenne,Wyoming,41.14,-104.82,Pierre,South Dakoda,44.3684,-100.354
+Cheyenne,Wyoming,41.14,-104.82,Nashville,Tennessee,36.1622,-86.7744
+Cheyenne,Wyoming,41.14,-104.82,Austin,Texas,30.2711,-97.7437
+Cheyenne,Wyoming,41.14,-104.82,Salt Lake City,Utah,40.767,-111.8904
+Cheyenne,Wyoming,41.14,-104.82,Montpelier,Vermont,44.2604,-72.5757
+Cheyenne,Wyoming,41.14,-104.82,Richmond,Virginia,37.5385,-77.4343
+Cheyenne,Wyoming,41.14,-104.82,Olympia,Washington,47.0451,-122.895
+Cheyenne,Wyoming,41.14,-104.82,Charleston,West Virginia,38.3506,-81.6333
+Cheyenne,Wyoming,41.14,-104.82,Madison,Wisconsin,43.0748,-89.3838
+Cheyenne,Wyoming,41.14,-104.82,Cheyenne,Wyoming,41.14,-104.82
