@@ -1,51 +1,51 @@
-capital,state,lat,lon,,from_capital,from_state,from_lat,from_lon,to_capital,to_state,to_lat,to_lon
-Albany,New York,42.6511674,-73.754968,,Sacramento,California,38.5815719,-121.4943996,,,,
-Annapolis,Maryland,38.9786401,-76.492786,,,,,,,,,
-Atlanta,Georgia,33.7490987,-84.3901849,,,,,,,,,
-Augusta,Maine,44.310583,-69.779663,,,,,,,,,
-Austin,Texas,30.2711286,-97.7436995,,,,,,,,,
-Baton Rouge,Louisiana,30.4459596,-91.18738,,,,,,,,,
-Bismarck,North Dakota,46.808327,-100.783739,,,,,,,,,
-Boise,Idaho,43.61656,-116.200835,,,,,,,,,
-Boston,Massachusetts,42.3602534,-71.0582912,,,,,,,,,
-Carson City,Neveda,39.169461,-119.766035,,,,,,,,,
-Charleston,West Virginia,38.3505995,-81.6332812,,,,,,,,,
-Cheyenne,Wyoming,41.14,-104.82,,,,,,,,,
-Columbia,South Carolina,34.0007493,-81.0343313,,,,,,,,,
-Columbus,Ohio,39.9622601,-83.0007065,,,,,,,,,
-Concord,New Hampshire,43.207178,-71.537476,,,,,,,,,
-Denver,Colorado,39.7392364,-104.9848623,,,,,,,,,
-Des Monies,Iowa,41.587186,-93.621949,,,,,,,,,
-Dover,Delaware,39.158168,-75.5243682,,,,,,,,,
-Frankfort,Kentucky,38.2009055,-84.8732836,,,,,,,,,
-Harrisburg,Pennsylvania,40.2663107,-76.8861122,,,,,,,,,
-Hartford,Connecticut,41.764582,-72.6908547,,,,,,,,,
-Helena,Montana,46.592712,-112.036109,,,,,,,,,
-Honolulu,Hawaii,21.3250785,-157.8466442,,,,,,,,,
-Indianapolis,Indiana,39.7683331,-86.1583502,,,,,,,,,
-Jackson,Mississippi,32.2990384,-90.1847691,,,,,,,,,
-Jefferson City,Missouri,38.577359,-92.1724265,,,,,,,,,
-Juneau,Alaska,58.3019496,-134.419734,,,,,,,,,
-Lansing,Michigan,42.7337712,-84.5553805,,,,,,,,,
-Lincoln,Nebraska,40.8,-96.667821,,,,,,,,,
-Little Rock,Arkansas,34.7464809,-92.2895948,,,,,,,,,
-Madison,Wisconsin,43.074761,-89.3837613,,,,,,,,,
-Montgomery,Alabama,32.3669656,-86.3006485,,,,,,,,,
-Montpelier,Vermont,44.260445,-72.575684,,,,,,,,,
-Nashville,Tennessee,36.1622296,-86.7743531,,,,,,,,,
-Oklahoma City,Oklahoma,35.4729886,-97.5170536,,,,,,,,,
-Olympia,Washington,47.0451022,-122.8950075,,,,,,,,,
-Phoenix,Arizona,33.4485866,-112.0773456,,,,,,,,,
-Pierre,South Dakoda,44.368431,-100.354013,,,,,,,,,
-Providence,Rhoda Island,41.824877,-71.413618,,,,,,,,,
-Raleigh,North Carolina,35.7803977,-78.6390989,,,,,,,,,
-Richmond,Virginia,37.5385087,-77.43428,,,,,,,,,
-Sacramento,California,38.5815719,-121.4943996,,,,,,,,,
-Salem,Oregon,44.9391565,-123.033121,,,,,,,,,
-Salt Lake City,Utah,40.7670126,-111.8904308,,,,,,,,,
-Santa Fe,New Mexico,35.6869996,-105.9377997,,,,,,,,,
-Springfield,Illinios,39.799749,-89.647463,,,,,,,,,
-St. Paul,Minnesota,44.9504037,-93.1015026,,,,,,,,,
-Tallahassee,Florida,30.4380832,-84.2809332,,,,,,,,,
-Topeka,Kansas,39.049011,-95.677556,,,,,,,,,
-Trenton,New Jersey,40.2170575,-74.7429463,,,,,,,,,
+from_capital,from_state,from_lat,from_lon,to_capital,to_state,to_lat,to_lon
+Sacramento,California,38.5815719,-121.4943996,Carson City,Neveda,39.169461,-119.76604
+Carson City,Neveda,39.169461,-119.76604,Boise,Idaho,43.61656,-116.200835
+Boise,Idaho,43.61656,-116.200835,Helena,Montana,46.592712,-112.036109
+Helena,Montana,46.592712,-112.036109,Salt Lake City,Utah,40.7670126,-111.8904308
+Salt Lake City,Utah,40.7670126,-111.8904308,Cheyenne,Wyoming,41.14,-104.82
+Cheyenne,Wyoming,41.14,-104.82,Denver,Colorado,39.7392364,-104.9848623
+Denver,Colorado,39.7392364,-104.9848623,Santa Fe,New Mexico,35.6869996,-105.9377997
+Santa Fe,New Mexico,35.6869996,-105.9377997,Phoenix,Arizona,33.4485866,-112.0773456
+Phoenix,Arizona,33.4485866,-112.0773456,Oklahoma City,Oklahoma,35.4729886,-97.5170536
+Oklahoma City,Oklahoma,35.4729886,-97.5170536,Topeka,Kansas,39.049011,-95.677556
+Topeka,Kansas,39.049011,-95.677556,Lincoln,Nebraska,40.8,-96.667821
+Lincoln,Nebraska,40.8,-96.667821,Des Monies,Iowa,41.587186,-93.621949
+Des Monies,Iowa,41.587186,-93.621949,Jefferson City,Missouri,38.577359,-92.1724265
+Jefferson City,Missouri,38.577359,-92.1724265,Springfield,Illinios,39.799749,-89.647463
+Springfield,Illinios,39.799749,-89.647463,Indianapolis,Indiana,39.7683331,-86.1583502
+Indianapolis,Indiana,39.7683331,-86.1583502,Frankfort,Kentucky,38.2009055,-84.8732836
+Frankfort,Kentucky,38.2009055,-84.8732836,Columbus,Ohio,39.9622601,-83.0007065
+Columbus,Ohio,39.9622601,-83.0007065,Charleston,West Virginia,38.3505995,-81.6332812
+Charleston,West Virginia,38.3505995,-81.6332812,Richmond,Virginia,37.5385087,-77.43428
+Richmond,Virginia,37.5385087,-77.43428,Annapolis,Maryland,38.9786401,-76.492786
+Annapolis,Maryland,38.9786401,-76.492786,Dover,Delaware,39.158168,-75.5243682
+Dover,Delaware,39.158168,-75.5243682,Trenton,New Jersey,40.2170575,-74.7429463
+Trenton,New Jersey,40.2170575,-74.7429463,Harrisburg,Pennsylvania,40.2663107,-76.8861122
+Harrisburg,Pennsylvania,40.2663107,-76.8861122,Albany,New York,42.6511674,-73.754968
+Albany,New York,42.6511674,-73.754968,Hartford,Connecticut,41.764582,-72.6908547
+Hartford,Connecticut,41.764582,-72.6908547,Providence,Rhoda Island,41.824877,-71.413618
+Providence,Rhoda Island,41.824877,-71.413618,Boston,Massachusetts,42.3602534,-71.0582912
+Boston,Massachusetts,42.3602534,-71.0582912,Concord,New Hampshire,43.207178,-71.537476
+Concord,New Hampshire,43.207178,-71.537476,Montpelier,Vermont,44.260445,-72.575684
+Montpelier,Vermont,44.260445,-72.575684,Augusta,Maine,44.310583,-69.779663
+Augusta,Maine,44.310583,-69.779663,Lansing,Michigan,42.7337712,-84.5553805
+Lansing,Michigan,42.7337712,-84.5553805,Madison,Wisconsin,43.074761,-89.3837613
+Madison,Wisconsin,43.074761,-89.3837613,St. Paul,Minnesota,44.9504037,-93.1015026
+St. Paul,Minnesota,44.9504037,-93.1015026,Pierre,South Dakoda,44.368431,-100.354013
+Pierre,South Dakoda,44.368431,-100.354013,Bismarck,North Dakota,46.808327,-100.783739
+Bismarck,North Dakota,46.808327,-100.783739,Little Rock,Arkansas,34.7464809,-92.2895948
+Little Rock,Arkansas,34.7464809,-92.2895948,Jackson,Mississippi,32.2990384,-90.1847691
+Jackson,Mississippi,32.2990384,-90.1847691,Baton Rouge,Louisiana,30.4459596,-91.18738
+Baton Rouge,Louisiana,30.4459596,-91.18738,Montgomery,Alabama,32.3669656,-86.3006485
+Montgomery,Alabama,32.3669656,-86.3006485,Atlanta,Georgia,33.7490987,-84.3901849
+Atlanta,Georgia,33.7490987,-84.3901849,Columbia,South Carolina,34.0007493,-81.0343313
+Columbia,South Carolina,34.0007493,-81.0343313,Raleigh,North Carolina,35.7803977,-78.6390989
+Raleigh,North Carolina,35.7803977,-78.6390989,Nashville,Tennessee,36.1622296,-86.7743531
+Nashville,Tennessee,36.1622296,-86.7743531,Tallahassee,Florida,30.4380832,-84.2809332
+Tallahassee,Florida,30.4380832,-84.2809332,Austin,Texas,30.2711286,-97.7436995
+Austin,Texas,30.2711286,-97.7436995,Salem,Oregon,44.9391565,-123.033121
+Salem,Oregon,44.9391565,-123.033121,Olympia,Washington,47.0451022,-122.8950075
+Olympia,Washington,47.0451022,-122.8950075,Juneau,Alaska,58.3019496,-134.419734
+Juneau,Alaska,58.3019496,-134.419734,Honolulu,Hawaii,21.3250785,-157.8466442
+Honolulu,Hawaii,21.3250785,-157.8466442,Sacramento,California,38.5815719,-121.4943996
