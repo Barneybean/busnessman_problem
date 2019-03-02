@@ -1,0 +1,51 @@
+origin_city,origin_state,origin_lat,origin_lon,destination_city,destination_state,destination_lat,destination_lon
+Phoenix,Arizona,33.4486,-112.0773,Santa Fe,New Mexico,35.687,-105.9378
+Santa Fe,New Mexico,35.687,-105.9378,Denver,Colorado,39.7392,-104.9849
+Denver,Colorado,39.7392,-104.9849,Cheyenne,Wyoming,41.14,-104.82
+Cheyenne,Wyoming,41.14,-104.82,Pierre,South Dakoda,44.3684,-100.354
+Pierre,South Dakoda,44.3684,-100.354,Bismarck,North Dakota,46.8083,-100.7837
+Bismarck,North Dakota,46.8083,-100.7837,St. Paul,Minnesota,44.9504,-93.1015
+St. Paul,Minnesota,44.9504,-93.1015,Madison,Wisconsin,43.0748,-89.3838
+Madison,Wisconsin,43.0748,-89.3838,Springfield,Illinios,39.7997,-89.6475
+Springfield,Illinios,39.7997,-89.6475,Jefferson City,Missouri,38.5774,-92.1724
+Jefferson City,Missouri,38.5774,-92.1724,Topeka,Kansas,39.049,-95.6776
+Topeka,Kansas,39.049,-95.6776,Lincoln,Nebraska,40.8,-96.6678
+Lincoln,Nebraska,40.8,-96.6678,Des Monies,Iowa,41.5872,-93.6219
+Des Monies,Iowa,41.5872,-93.6219,Indianapolis,Indiana,39.7683,-86.1584
+Indianapolis,Indiana,39.7683,-86.1584,Frankfort,Kentucky,38.2009,-84.8733
+Frankfort,Kentucky,38.2009,-84.8733,Columbus,Ohio,39.9623,-83.0007
+Columbus,Ohio,39.9623,-83.0007,Charleston,West Virginia,38.3506,-81.6333
+Charleston,West Virginia,38.3506,-81.6333,Richmond,Virginia,37.5385,-77.4343
+Richmond,Virginia,37.5385,-77.4343,Annapolis,Maryland,38.9786,-76.4928
+Annapolis,Maryland,38.9786,-76.4928,Dover,Delaware,39.1582,-75.5244
+Dover,Delaware,39.1582,-75.5244,Trenton,New Jersey,40.2171,-74.7429
+Trenton,New Jersey,40.2171,-74.7429,Harrisburg,Pennsylvania,40.2663,-76.8861
+Harrisburg,Pennsylvania,40.2663,-76.8861,Albany,New York,42.6512,-73.755
+Albany,New York,42.6512,-73.755,Hartford,Connecticut,41.7646,-72.6909
+Hartford,Connecticut,41.7646,-72.6909,Providence,Rhoda Island,41.8249,-71.4136
+Providence,Rhoda Island,41.8249,-71.4136,Boston,Massachusetts,42.3603,-71.0583
+Boston,Massachusetts,42.3603,-71.0583,Concord,New Hampshire,43.2072,-71.5375
+Concord,New Hampshire,43.2072,-71.5375,Montpelier,Vermont,44.2604,-72.5757
+Montpelier,Vermont,44.2604,-72.5757,Augusta,Maine,44.3106,-69.7797
+Augusta,Maine,44.3106,-69.7797,Lansing,Michigan,42.7338,-84.5554
+Lansing,Michigan,42.7338,-84.5554,Nashville,Tennessee,36.1622,-86.7744
+Nashville,Tennessee,36.1622,-86.7744,Atlanta,Georgia,33.7491,-84.3902
+Atlanta,Georgia,33.7491,-84.3902,Montgomery,Alabama,32.367,-86.3006
+Montgomery,Alabama,32.367,-86.3006,Tallahassee,Florida,30.4381,-84.2809
+Tallahassee,Florida,30.4381,-84.2809,Columbia,South Carolina,34.0007,-81.0343
+Columbia,South Carolina,34.0007,-81.0343,Raleigh,North Carolina,35.7804,-78.6391
+Raleigh,North Carolina,35.7804,-78.6391,Jackson,Mississippi,32.299,-90.1848
+Jackson,Mississippi,32.299,-90.1848,Baton Rouge,Louisiana,30.446,-91.1874
+Baton Rouge,Louisiana,30.446,-91.1874,Little Rock,Arkansas,34.7465,-92.2896
+Little Rock,Arkansas,34.7465,-92.2896,Oklahoma City,Oklahoma,35.473,-97.5171
+Oklahoma City,Oklahoma,35.473,-97.5171,Austin,Texas,30.2711,-97.7437
+Austin,Texas,30.2711,-97.7437,Salt Lake City,Utah,40.767,-111.8904
+Salt Lake City,Utah,40.767,-111.8904,Boise,Idaho,43.6166,-116.2008
+Boise,Idaho,43.6166,-116.2008,Helena,Montana,46.5927,-112.0361
+Helena,Montana,46.5927,-112.0361,Olympia,Washington,47.0451,-122.895
+Olympia,Washington,47.0451,-122.895,Salem,Oregon,44.9392,-123.0331
+Salem,Oregon,44.9392,-123.0331,Carson City,Neveda,39.1695,-119.766
+Carson City,Neveda,39.1695,-119.766,Sacramento,California,38.5816,-121.4944
+Sacramento,California,38.5816,-121.4944,Juneau,Alaska,58.3019,-134.4197
+Juneau,Alaska,58.3019,-134.4197,Honolulu,Hawaii,21.3251,-157.8466
+Honolulu,Hawaii,21.3251,-157.8466,Phoenix,Arizona,33.4486,-112.0773
