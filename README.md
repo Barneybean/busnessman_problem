@@ -1,4 +1,4 @@
-# businessman_problem
+# Travelman Problem
 Fly through all 50 U.S. state capitals without revisiting and back to origin with smallest distance
 
 Calculated Geo Distance between any two state capitals. Working on next step
@@ -44,4 +44,4 @@ for start_city in capital_cities:
     total_distance = total_distance + distance_end_origin
     
     result_distances.append(total_distance)
-    result_routes.append(route)           ```
+    result_routes.append(route)          
